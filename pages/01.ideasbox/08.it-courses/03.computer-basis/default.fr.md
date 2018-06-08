@@ -1,4 +1,6 @@
-# Les bases de l'informatique
+---
+title: 'Les bases de l'informatique'
+---
 
 ## Intro :
 

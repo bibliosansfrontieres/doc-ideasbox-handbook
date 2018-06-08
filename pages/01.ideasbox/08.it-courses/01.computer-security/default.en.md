@@ -1,4 +1,6 @@
-# Initiation in digital security
+---
+title: 'Initiation in digital security'
+---
 
 ## On a public computer: delete your history
 

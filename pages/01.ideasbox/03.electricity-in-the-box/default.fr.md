@@ -1,4 +1,6 @@
-# L'électricité dans l'Ideasbox
+---
+title: 'L'électricité dans l'Ideasbox'
+---
 
 L’électricité est au coeur des fonctionnalités de l’IdeasBox et connaître son fonctionnement permet de décupler ces possibilités d’usages.
 

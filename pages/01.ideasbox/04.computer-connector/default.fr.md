@@ -1,4 +1,6 @@
-# Connectique des équipements
+---
+title: 'Connectique des équipements'
+---
 
 L'IdeasBox embarque un nombre important d'appareils électroniques. Même si les normes ont évolué et que la connectique des équipements s'est rationnalisée, cela peut rester complexe.
 

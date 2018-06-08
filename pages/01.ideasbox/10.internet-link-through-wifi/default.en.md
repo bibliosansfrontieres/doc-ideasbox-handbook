@@ -1,4 +1,6 @@
-# Lien Internet Radio (ubiquiti)
+---
+title: 'Lien Internet Radio (ubiquiti)'
+---
 
 Les antennes Wifi Ubiquiti permettent d'établir des liaisons sans fil. 
 Elles supportent 3 modes de fonctionnement 

@@ -1,4 +1,6 @@
-#Communiquer avec les Autres
+---
+title: 'Communiquer avec les Autres'
+---
 
 Les réseaux de communications et Internet ont rendu les communications
 avec les autres plus aisées que jamais, mais ont répandu la surveillance

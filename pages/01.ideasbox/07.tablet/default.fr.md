@@ -1,4 +1,6 @@
-# Installation et configuration des tablettes
+---
+title: 'Installation et configuration des tablettes'
+---
 
 Les tablettes sont pré-paramétrées dans les IdeasBox. Cependant il se peut que des besoins de dernières minutes soient exprimés directement sur le terrain.
 

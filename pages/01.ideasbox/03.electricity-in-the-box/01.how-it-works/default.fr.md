@@ -1,4 +1,6 @@
-# Manipulation du circuit électrique
+---
+title: 'Manipulation du circuit électrique'
+---
 
 Le circuit électrique est conçu pour fonctionner sur secteur ou sur batterie. Quelques manipulations sont à effectuer pour exploiter la bonne source de courant.
 

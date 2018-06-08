@@ -1,4 +1,7 @@
-# Les ordinateurs portables
+---
+title: 'Les ordinateurs portables'
+---
+
 On compte généralement 4 ordinateurs portables dans l'IdeasBox. 
 Ces derniers sont pré-configurés par Bibliothèques Sans Frontières avec différentes applications. 
 

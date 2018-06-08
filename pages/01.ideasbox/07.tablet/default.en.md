@@ -1,4 +1,6 @@
-# Installation and configuration of tablets
+---
+title: 'Installation and configuration of tablets'
+---
 
 Tablets are pre-configured in the Ideas Box. However, last-minute requirements may be raised on-site.
 

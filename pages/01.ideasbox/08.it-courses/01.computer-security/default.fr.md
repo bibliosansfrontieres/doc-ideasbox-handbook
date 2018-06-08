@@ -1,4 +1,6 @@
-# Initiation à la sécurité numérique
+---
+title: 'Initiation à la sécurité numérique'
+---
 
 ## Sur un ordinateur public : effacez vos traces 
 

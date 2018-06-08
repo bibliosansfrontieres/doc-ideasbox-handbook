@@ -1,4 +1,6 @@
-# Le serveur
+---
+title: 'Le serveur'
+---
 
 ## Principe de fonctionnement
 

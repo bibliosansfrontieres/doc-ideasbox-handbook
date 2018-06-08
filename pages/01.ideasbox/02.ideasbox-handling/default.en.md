@@ -1,4 +1,6 @@
-# Handling an Ideas Box
+---
+title: 'Handling an Ideas Box'
+---
 
 ## Handling
 
