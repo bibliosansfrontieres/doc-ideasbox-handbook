@@ -1,5 +1,5 @@
 ---
-title: 'Manutention de l\'IdeasBox'
+title: 'Manutention de l''IdeasBox'
 ---
 
 ![](ideasbox_palette.png)
