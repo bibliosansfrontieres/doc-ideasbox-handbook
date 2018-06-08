@@ -1,4 +1,6 @@
-# Dépannage du serveur
+---
+title: 'Dépannage du serveur'
+---
 
 ##Le serveur ne démarre pas
 **Symptôme** : le serveur ne s’allume pas quand on appuie sur le bouton.
