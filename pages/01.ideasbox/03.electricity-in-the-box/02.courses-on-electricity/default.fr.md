@@ -1,4 +1,6 @@
-# Initiation à l'électricité
+---
+title: 'Initiation à l''électricité'
+---
 
 ## Notions générales de  sécurité
 
