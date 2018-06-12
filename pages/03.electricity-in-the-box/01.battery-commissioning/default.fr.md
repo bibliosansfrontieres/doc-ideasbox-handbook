@@ -23,10 +23,10 @@ Vérifier que le convertisseur 12V -> 220V ne soit pas allumé pour cela assurer
 ![](IMG_20170123_160409.jpg)
 
 Enlever l'étagère blanche séparant le module en deux, ainsi que le tiroir au-dessus si possible, cela vous permettra d'accèder plus facilement à tous les éléments situés dans le module.
-Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les couleurs des cosses électriques.
+Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les couleurs des bornes de la batterie.
 
 ### Brancher les cosses électriques 
-1. Connecter la cosse du fil noir ![](20180607_162408.jpg) sur la borne - (moins) de la batterie.
+1. Connecter la cosse du fil noir ![](20180607_162408.jpg) sur la borne - (moins) de la batterie. Nous vous effrayez pas à la vue de la petite étincelle qui pourrait apparaître lorsque vous toucherez la borne + de la batterie avec votre clé métallique.
 2. Connecter la cosse du fil rouge ![](20180607_163142.jpg) sur la borne + (rouge) de la batterie ![](20180607_162347.jpg)
 3. Vous devriez donc avoir le fil rouge sur le + et le fil noir sur le moins ![](20180607_162339.jpg)
 
