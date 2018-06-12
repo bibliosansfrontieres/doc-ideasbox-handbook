@@ -19,14 +19,15 @@ Vérifier que le serveur IdeasBox n'est pas connecté au câble 12v menant aux c
 
 Vérifier que le convertisseur 12V -> 220V ne soit pas allumé pour cela assurer que le switch 3 positions soit sur la position du milieu "0"
 
-### Enlever l'étagère blanche
+### Enlever l'étagère blanche et le tiroir
 ![](IMG_20170123_160409.jpg)
 
-Enlever l'étagère blanche séparant le module en deux, cela vous permettra d'accèder plus facilement à tous les éléments situés dans le module
+Enlever l'étagère blanche séparant le module en deux, ainsi que le tiroir au-dessus si possible, cela vous permettra d'accèder plus facilement à tous les éléments situés dans le module.
+Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les couleurs des cosses électriques.
 
-### Branche les cosses électriques 
-1. Connecter la cosse du fil rouge ![](20180607_163142.jpg) sur la borne + (rouge) de la batterie ![](20180607_162347.jpg)
-2. Connecter la cosse du fil noir ![](20180607_162408.jpg) sur la borne - (moins) de la batterie
+### Brancher les cosses électriques 
+1. Connecter la cosse du fil noir ![](20180607_162408.jpg) sur la borne - (moins) de la batterie.
+2. Connecter la cosse du fil rouge ![](20180607_163142.jpg) sur la borne + (rouge) de la batterie ![](20180607_162347.jpg)
 3. Vous devriez donc avoir le fil rouge sur le + et le fil noir sur le moins ![](20180607_162339.jpg)
 
 ### Mise en service
