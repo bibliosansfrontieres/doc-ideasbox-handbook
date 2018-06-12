@@ -13,6 +13,7 @@ Pour des raisons de sécurités, la batterie n'est pas branché au réseau élec
 ![](comment-sertir-des-cosses-electriques.jpg?cropResize=100,100)
 
 Vérifier que le serveur IdeasBox n'est pas connecté au câble 12v menant aux cosses électrique de la  batterie représenté par un fil rouge et un fil noir 
+### Débrancher le module bleu du secteur
 ### Eteindre le convertisseur
 ![](20180607_162328.jpg)
 
