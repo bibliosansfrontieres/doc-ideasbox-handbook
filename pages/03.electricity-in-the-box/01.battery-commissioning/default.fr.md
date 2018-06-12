@@ -31,7 +31,7 @@ Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les 
 3. Vous devriez donc avoir le fil rouge sur le + et le fil noir sur le moins ![](20180607_162339.jpg)
 
 ### Mise en service
-1. Replacer l'étagère blanche au dessus des appareils
+1. Replacer l'étagère blanche et le tiroir au dessus des appareils
 2. Rebrancher le serveur au câble 12v venant de la batterie
 3. Allumer éventuellement le convertisseur 12v -> 220v
 4. Raccorder le module bleu au secteur 220v 
