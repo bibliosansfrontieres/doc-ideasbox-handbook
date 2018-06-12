@@ -25,7 +25,7 @@ Enlever l'étagère blanche séparant le module en deux, cela vous permettra d'a
 
 ### Branche les cosses électriques 
 1. Connecter la cosse du fil rouge ![](20180607_163142.jpg) sur la borne + (rouge) de la batterie ![](20180607_162347.jpg)
-2. Connecter la cosse du fil noir ![](20180607_163223.jpg) sur la borne - (moins) de la batterie
+2. Connecter la cosse du fil noir ![](20180607_162408.jpg) sur la borne - (moins) de la batterie
 3. Vous devriez donc avoir le fil rouge sur le + et le fil noir sur le moins ![](20180607_162339.jpg)
 
 ### Mise en service
