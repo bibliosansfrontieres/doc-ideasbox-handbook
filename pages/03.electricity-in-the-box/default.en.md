@@ -152,9 +152,9 @@ These plugs can power devices that need to be charged either directly at 12v, or
 * The Peren IT server, directly connected to the battery. It can be connected to the circuit to be transported.  When this happens it is powered with a 220v -&gt; 12v converter.  
 * A few other devices, depending on their consumption of the 12v -&gt; 220v converter.  Since it can only supply 800 Watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W chacun\) = 773 W.
 
-Il est fortement conseillé de **ne pas brancher le chargeur USB 18 ports** directement sur le **convertisseur 12v -&gt; 220v **car ce dernier pourrait vider la batterie rapidement. Nous vous conseillons plutôt de recharger l'ensemble des tablettes la veille ou lorsque vous avez accès à un réseau 220v
+>>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12v -&gt; 220v converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220v main supply.
 
-**Maintenance du générateur** :  
+**Generator Maintenance**:  
 Faire une vidange du générateur toutes les 80H \(soit une fois par mois a priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
 
 ## Schéma simplifié
