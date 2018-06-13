@@ -1,35 +1,36 @@
 ---
-title: 'L''électricité dans l''Ideasbox'
+title: 'Electricity in the Ideas Box'
 ---
 
-L’électricité est au coeur des fonctionnalités de l’IdeasBox et connaître son fonctionnement permet de décupler ces possibilités d’usages.
+Electricity is at the heart of the functionality of the IdeasBox, and knowing how it works allows you to significantly increase the way it can be used.
 
-Ce qui va suivre vaut pour les IdeasBox et n’a pas vocation à former des électriciens en dehors des Ideas Box.
-
-## Présentation du circuit électrique
-
-L'IdeasBox intègre un circuit électrique. Il sert à :
-
-* alimenter la télévision
-* alimenter le serveur
-* recharger les tablettes via un chargeur USB 18 ports
-* brancher ponctuellement d'autres appareils électriques \(chargeur d'ordinateur portable, de tablettes, imprimante\). Pas d'appareils de puissance !
-
-**Tout cela peut aussi bien fonctionner sur secteur électrique 220v ou batterie 12v en mobilité **
+What follows is intended only for use relating to the Ideas Box, and is not designed to train electricians outside of the Ideas Box.
 
 
+## The Electrical Circuit
 
-#### On trouve les éléments suivants
+The Ideas Box integrates an electrical circuit.  It is used to: 
+
+* Power the television
+* Power the server
+* Recharge the tablets via an 18-port USB charger
+* Punctually connect other electronic devices (laptop, tablet, printer chargers). Not power appliances!
+
+**All of this can function well, whether powered by the 220v main power or a 12v battery while on the move**
+
+
+
+#### Following are the electrical components of the Ideas Box
 
 ---
 
-* **1 Batterie 12v 90Ah**
+* **1 12v 90Ah Battery**
 
   ![](batterie.png)
   
-  La batterie est chargée en permanence par le chargeur de batterie. La batterie joue le rôle d'accumulateur et délivre une tension 12v à tous les appareils connectés à ces bornes \(serveur, prises allume cigare, convertisseur 12v -&gt; 220v\)
+The battery is continually charged by its charger.  It plays the role of accumulator, storing energy and delivering 12v continuously to all the devices connected to its ports \(server, cigarette lighter plugs, converter 12v -&gt; 220v\)
 
-** IMPORTANT:  ** La batterie est considérée comme complètement déchargée lorsque la tension à ses bornes est inférieure ou égale à 10,8v
+>>>>** IMPORTANT:  ** The battery is considered to be completely dead when the energy output to its ports is less than or equal to 10.8v
 
 ---
 
