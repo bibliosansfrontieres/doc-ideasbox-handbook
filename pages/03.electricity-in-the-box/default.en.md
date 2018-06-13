@@ -77,63 +77,63 @@ This converter permits the creation of a 220v current in addition to the 12v fro
 
 ---
 
-* **1 General**
+* **1 General Power Cord**
 
   ![](prise_secteur_iec.jpeg)
   
-  La prise standard 2 broches + terre permet de relier l'IdeasBox au réseau 220v ou à un générateur, l'autre extrémité se branche directement sur la prise male IEC du module électrique \(bleu ou jaune suivant le modèle\)
+The standard two-prong and earth pin plug allows the Ideas Box to connect to a 220v outlet or a generator.  The other end can plug directly into the male IEC plug of the electrical modules (i.e. the Cinema or Administration modules)
 
-* **1 prise male IEC**
+* **1 IEC Plug**
 
   ![](iec_male.jpeg)
 
 ---
 
-* **1 disjonteur différentiel 30 mA \(nouvelle version\)**
+* **1 30 mA Differential Circuit Breaker (new version)**
 
 ![](disjonteur_diff.jpeg)
 
-Un disjoncteur différentiel est un dispositif de protection capable d'interrompre le courant électrique en cas d'incident sur le circuit électrique.
+A differential circuit breaker is a protection device capable of interrupting the electrical current in case of an incident or issue on the circuit.
 
 ---
 
-* **1 disjonteur 10A et 16A \(nouvelle version\)**
+* **1 10A and 16A Circuit Breaker (new version) **
 
 ![](disjoncteur.jpeg)
 
-Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un réseau électrique et donc d'isoler les appareils en aval du disjoncteur du reste du circuit électrique. Il faut voir son usage comme un interrupteur ON/OFF. Le disjoncteur de 10A est utilisé entre autre pour la protection du convertisseur 12v -&gt; 220v, celui de 16A notamment pour le chargeur USB.
+A circuit protector protects against an overcurrent or circuit overload, and can isolate devices downstream of the circuit breaker from the rest of the circuit.  It helps to think of it as an ON/OFF switch.  The 10A circuit breaker is used, among other things, to protect the 12v -&gt; 220v converter.  The 16A circuit breaker is mainly for the USB charger.
 
 ---
 
-* **1 chargeur USB **
+* **1 USB Charger **
 
   ![](usb_charger.jpg)
   
-  Comporte 10 ou 20 ports USB permettant de recharger simultanément plusieurs tablettes 
+  Has 10 or 20 USB ports, allowing simultaneous charging of numerous tablets.
 
 ---
 
-* **1 Switch 3 positions \(12v -&gt; Rien -&gt; 220v\) \(nouvelle version\)**
+* **1 3-Position Switch \(12v -&gt; 0 -&gt; 220v\) \(new version\)**
 
   ![](switch3.jpeg)
-  
-  Sur le nouveau modèle \(électricité dans le module bleu\) ce switch 3 positions permet de sélectionner facilement le mode d'alimation du module. Sur secteur \(220v\) ou sur batterie \(12v\)
+
+With the new model (that has electricity in the blue model), this switch lets you easily select how much poweris supplied to the module.  You can choose to have the module supplied by the main power supply (220v) or the battery (12v).
 
 ---
 
-* **1 multiprises**
+* **1 Power Strip**
 
   ![](multiprises.jpeg)
-  
-  La multiprises peut être connectée directement sur le réseau 220v ou à l'arrière du convertisseur 12v -&gt; 220v, cela permet ainsi d'alimenter directement plusieurs appareils \(ex: chargeur de PC portable\) à partir de la batterie
-  
+ 
+The powerstric can connect directly either to the main 220v power supply or to the back of the 12v -&gt; 220v converter.  It can directly power several devices (ex: charging a laptop) in addition to the battery.
+
 ---
 
-* **Prises allume cigare \(ancien version\)**
+* **Cigarette Lighter Plugs (old version)**
 
   ![](prises_cigare.jpeg)
-  
-  Ces prises peuvent alimenter des appareils ayant besoins d'être rechargés soit directement en 12v, soit en 5v à l'aide d'un convertisseur USB 12v → 5v. Ces prises sont directement alimentés par la batterie.
+
+These plugs can power devices that need to be charged either directly at 12v, or at 5v with the help of a 12v -> 5v USB converter.  The plugs are directly powered by the battery.
 
 ---
 
