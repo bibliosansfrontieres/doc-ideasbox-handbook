@@ -74,6 +74,7 @@ This converter permits the creation of a 220v current in addition to the 12v fro
   * Peak power: 1600 W  
   * Low battery alarm: 10.9 V  
   * Maximum yield: 91%
+
 ---
 
 * **1 General**
