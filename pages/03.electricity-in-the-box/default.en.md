@@ -30,7 +30,7 @@ The Ideas Box integrates an electrical circuit.  It is used to:
   
 The battery is continually charged by its charger.  It plays the role of accumulator, storing energy and delivering 12v continuously to all the devices connected to its ports \(server, cigarette lighter plugs, converter 12v -&gt; 220v\)
 
->>>** IMPORTANT:  ** The battery is considered to be completely dead when the energy output to its ports is less than or equal to 10.8v
+>>>** IMPORTANT: ** The battery is considered to be completely dead when the energy output to its ports is less than or equal to 10.8v
 
 ---
 
@@ -42,6 +42,8 @@ This device allows 3 levels of charging for the 12v battery (bulk - absortion - 
 
 
 >>>>>**GOOD TO KNOW**: The device has an indicator which can tell you whether or not it is chargering the batter.  The VU-meter (the white box at the top right of the battery) indicates the amount of electricity being tranferred to the battery.  If the needle is pointed towards the right (20, 30 A), the battery is in the process of charging.  If the hand is pointed close to zero, the gattery is recharged.
+
+
 ---
 
 * **1 Peren IT 12v Web Server**
@@ -72,17 +74,9 @@ This converter permits the creation of a 220v current in addition to the 12v fro
   * Peak power: 1600 W  
   * Low battery alarm: 10.9 V  
   * Maximum yield: 91%
-  
-
-  * Puissance du convertisseur à 25°C : 800 VA  
-  * Puissance du convertisseur à 25°C/40°C : 700 W  
-  * Puissance crête : 1600 W  
-  * Alarme batterie basse : 10,9 V  
-  * Rendement maximal : 91 %
-
 ---
 
-* **1 prise d'alimentation générale et sa prise IEC femelle**
+* **1 General**
 
   ![](prise_secteur_iec.jpeg)
   
