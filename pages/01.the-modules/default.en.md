@@ -1,20 +1,20 @@
 ---
-title: 'Présentation des modules'
+title: 'The Modules'
 ---
 
-### Module orange, bibliothèque
+### Orange Module, Library
 
 ![](orange.png)
 
-### Module vert, informatique
+### Green Module, Information Technology
 
 ![](module_vert.png)
 
-### Module bleu, vidéo
+### Blue Module, Cinema
 
 ![](module_bleu.png)
 
-### Module jaune, bureau
+### Yellow Module, Administration
 
 ![](module_jaune.png)
 
