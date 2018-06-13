@@ -152,31 +152,31 @@ These plugs can power devices that need to be charged either directly at 12v, or
 * The Peren IT server, directly connected to the battery. It can be connected to the circuit to be transported.  When this happens it is powered with a 220v -&gt; 12v converter.  
 * A few other devices, depending on their consumption of the 12v -&gt; 220v converter.  Since it can only supply 800 Watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W chacun\) = 773 W.
 
->>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12v -&gt; 220v converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220v main supply.
+>>>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12v -&gt; 220v converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220v main supply.
 
 **Generator Maintenance**:  
-Faire une vidange du générateur toutes les 80H \(soit une fois par mois a priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
+Drain the generator every 80H (about once a month).  It is important to not the hours of operation to keep track of generator usage.
 
-## Schéma simplifié
-Ce schéma montre l'utilisation du chargeur de batterie conjointement avec le convertisseur 12v -> 220v
+## Simplified Diagram
+This diagram illustrates how the battery charger is used alongside the 12v -> 220v converter.
 
 ![](elec_simple.png)
 
-## Cas pratique : Bilan énergétique de la box
+## Practical example: Energy Balance of the Box
 
-Capacité de la batterie : 90 Ah @ 12V
+Battery Capacity : 90 Ah @ 12V
 
-Voici un tableau de la consommation en **Ampère** par **Heure** à 220 V
+Here is a table of the consumption in **Amperes** per **Hour** at 220 V
 
-| Appareil | Energie consommé \(A\) | Temps d'utilisation quotidien \(h\) | Consommation quotidienne \(Ah/jour\) |
+| Device | Energy Consumption \(A\) | Daily Usage Time \(h\) | Daily Energy Consumption \(Ah/day\) |
 | --- | --- | --- | --- |
-| TV | 0.16 A | 3h | 0.16 A \* 3h = 0.48 Ah/j |
-| Module de recharge | 0.68 A | 8h | 0.68 A \* 8h = 5.44 Ah/j |
-| Alimentation de l'antenne wifi | 0.3 A | 7h | 0.3 A \* 7h = 2.1 Ah/j |
-| Alimentation du serveur | 1.5 A | 7h | 1.5 A \* 7h = 10.5 Ah/j |
-| Ordinateur portable | 1.7 A | 4h | 1.7A \* 4h = 6.8Ah/j |
+| TV | 0.16 A | 3h | 0.16 A \* 3h = 0.48 Ah/d |
+| Charging Unit | 0.68 A | 8h | 0.68 A \* 8h = 5.44 Ah/d |
+| Powering WiFi Antenna | 0.3 A | 7h | 0.3 A \* 7h = 2.1 Ah/d |
+| Powering Server | 1.5 A | 7h | 1.5 A \* 7h = 10.5 Ah/d |
+| Laptop | 1.7 A | 4h | 1.7A \* 4h = 6.8Ah/d |
 
-Total de la consommation : 25.3 Ah/j
+Total consumption: 25.3 Ah/d
 
 **Le convertisseur à un rendement de 91% maximum**
 
