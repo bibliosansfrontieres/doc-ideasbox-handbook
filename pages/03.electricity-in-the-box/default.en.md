@@ -34,39 +34,45 @@ The battery is continually charged by its charger.  It plays the role of accumul
 
 ---
 
-* **1 Chargeur de batterie 12v**
+* **1 12v Battery Charger**
 
   ![](chargeur_batterie.png)
   
-  Cet appareil permet la recharge de la batterie 12v en 3 étapes \(Bulk – absortion – floating\). Il peut rester connecté à la batterie en permanence sans créer aucun dommage à cette dernière.
-  
-**BON A SAVOIR: ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
+This device allows 3 levels of charging for the 12v battery (bulk - absortion - floating).  It can be connected to the battery permanently without causing any damage to it.
 
+
+>>>>>**GOOD TO KNOW**: The device has an indicator which can tell you whether or not it is chargering the batter.  The VU-meter (the white box at the top right of the battery) indicates the amount of electricity being tranferred to the battery.  If the needle is pointed towards the right (20, 30 A), the battery is in the process of charging.  If the hand is pointed close to zero, the gattery is recharged.
 ---
 
-* **1 Serveur Web Peren IT 12 v**
+* **1 Peren IT 12v Web Server**
 
   ![](eCW4950_34_peren-it.jpg)
   
-  Il s'agit du serveur stockant des contenus vidéos, des fichiers PDF et tout un tas d'autres médias. Une fois démarré, il créé un hotspot Wifi. Il est directement alimenté par la batterie.
+This is the server that stores video content, PDFs, and a host of other media. It also creates a WiFi hotspot, and is powered directly by the battery.
 
 ---
 
-* **1 télévision**
+* **1 Television**
 
   ![](tv.jpeg)
   
-  La télévision fonctionne uniquement en 220v. Lorsque le 220v n'est pas présent, elle est alimentée directement depuis le convertisseur 12v -&gt; 220v
+  The television only works with 220v of electricity.  When 220v are not present, it is powered directly by the converter (12v -&gt; 220v)
 
 ---
 
-* **1 Convertisseur 12v –&gt; 220v**  
+* **1 12v –&gt; 220v Converter**  
 
   ![](convertisseur.png)
   
-  Ce convertisseur permet de créer une tension alternative 220v à partir de la tension 12v de la batterie. L'utilisation de ce convertisseur est obligatoire lorsque l'IdeasBox n'est pas connecté au secteur 220v. Grâce à ce convertisseur il vous est donc possible d'alimenter en électricité 220v le module vidéo contenant la Télé, de faire fonctionner le serveur et de recharger les ordinateurs portables.
+This converter permits the creation of a 220v current in addition to the 12v from the battery.  Using this converter is obligatory when the Ideas Box is not connected to the 220v power supply.  Thanks to this converter, it is possible to supply electricity to the cinema module, where the television is, run the server, and charge the laptops.
 
-  Caractéristiques :
+  Characteristics and specifications:
+  * Converter power at 25°C: 800 VA  
+  * Converter power at 25°C/40°C: 700 W  
+  * Peak power: 1600 W  
+  * Low battery alarm: 10.9 V  
+  * Maximum yield: 91%
+  
 
   * Puissance du convertisseur à 25°C : 800 VA  
   * Puissance du convertisseur à 25°C/40°C : 700 W  
