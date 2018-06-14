@@ -7,9 +7,9 @@ title: Troubleshooting
 ##The server doesn't turn on
 **Symptom**: the server doesn't turn on when you press the button 
 - Verify that the power cord is correctly plugged in.  Unplug it and plug it back in.
-- Vérifier que la batterie est chargée
-- Essayer avec le bloc d'alimentation fourni avec le serveur et le brancher sur le secteur 220v.
-- S’il ne s’allume toujours pas, le serveur est matériellement défaillant et doit être retourné au constructeur pour réparation. Contacter le siège de BSF. 
+- Vérify the battery is charged.
+- Try with the power blog supplied with the server plugged into the 220v main power.
+- If it still doesn't work, the servir is defective, and needs to be returned to the manufacturer for repairs.  Contage BSF headquarters. 
 
 ## Le chargeur ne charge pas la batterie
 Il faut vérifier en premier lieu son alimentation électrique. Si elle est fonctionnelle, vérifier les connexions entre le chargeur et la prise IEC extérieure au module jaune. Si ces connexions sont bonnes, examiner les tensions à l'aide d'un voltmètre : s’il reste à 0, vérifier la connexion entre les bornes de sortie du chargeur et les bornes de la batterie. Si elles sont correctes (dévisser les boulons, passer au papier de verre les connecteurs et la plaque de cuivre, dévisser/revisser les connexions entre le chargeur et la batterie), sortir la batterie et la recharger en utilisant un chargeur courant (type automobile). 
