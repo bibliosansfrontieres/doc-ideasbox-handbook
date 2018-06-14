@@ -11,10 +11,14 @@ title: Troubleshooting
 - Try with the power blog supplied with the server plugged into the 220v main power.
 - If it still doesn't work, the servir is defective, and needs to be returned to the manufacturer for repairs.  Contage BSF headquarters. 
 
-## Le chargeur ne charge pas la batterie
-Il faut vérifier en premier lieu son alimentation électrique. Si elle est fonctionnelle, vérifier les connexions entre le chargeur et la prise IEC extérieure au module jaune. Si ces connexions sont bonnes, examiner les tensions à l'aide d'un voltmètre : s’il reste à 0, vérifier la connexion entre les bornes de sortie du chargeur et les bornes de la batterie. Si elles sont correctes (dévisser les boulons, passer au papier de verre les connecteurs et la plaque de cuivre, dévisser/revisser les connexions entre le chargeur et la batterie), sortir la batterie et la recharger en utilisant un chargeur courant (type automobile). 
-S’il s’avère que la batterie ne peut être rechargée, la remplacer par un modèle disponible sur le terrain (12v 160 ah idéalement au gel, mais un modèle type démarrage, à électrolyte liquide, fera l’affaire pour quelques temps). 
-Si la batterie peut être rechargée, la recharger au plus vite pour éviter les décharges profondes. 
+## The charger doesn't charge the battery
+- First, make sure that the charger has a power supply.
+- If it is connected to the power supply, verify the connections between the charger and the exterior IEC plug of the yellow module.
+- Check the voltage with a voltmeter.  If it is at 0, verify the connection between the terminals of the charger and the battery.
+- Make sure the terminals are in good shape (unscrew the bolts, sandpaper the connectors and the copper plate, unscrew and reconnect the connectors between the charger and the battery)
+-  If it still doesn't work, take out the battery and recharge it with a current charger (automobile type)
+-  If it turns out that the battery can't be recharged, replace it with a model available in your area (12V, 160Ah, ideally a gel battery, but a other models will do the job for a short time).
+-  If the battery can recharge, recharge it quickly to avoid significant loss of charge.
 
 ## Le hotspot Ideasbox n'apparait pas
 - Connecter un écran au serveur (à défaut, un video projecteur) et vérifier que l’interface graphique fonctionne. 
