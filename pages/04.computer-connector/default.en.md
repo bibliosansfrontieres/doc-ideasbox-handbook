@@ -1,5 +1,5 @@
 ---
-title: 'Connectique des équipements'
+title: 'Equipment Connectors'
 ---
 
 The Ideas Box carries many important electronic devices.  Even though standards have evolved, and the connectivity of equipments has been streamlined, it can still be complex.
