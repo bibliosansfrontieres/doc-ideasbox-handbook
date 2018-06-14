@@ -1,38 +1,39 @@
 ---
-title: 'Mise en service de la batterie'
+title: 'Starting up the Battery'
 media_order: '20180607_162408.jpg,20180607_162347.jpg,20180607_162339.jpg,20180607_162328.jpg,20180607_163323.jpg,20180607_163142.jpg,comment-sertir-des-cosses-electriques.jpg,IMG_20170123_160409.jpg'
 ---
 
-L'ideasbox embarque une batterie afin de pouvoir fonctionner en autonomie dans des contextes où l'électricité est instable ou absente. 
+The Ideas Box includes a battery so it can function autonomously in areas where the electricity is unstable or absent.
 
-Pour des raisons de sécurités, la batterie n'est pas branché au réseau électrique du module bleu. Il faudra donc dès la mise en service du module, connecter la batterie au reste des éléments électriques de la box. 
+For safety reasons, the battery is not connected to the electronic appliances of the blue module.  Thus, to set up this module, you have to connect the battery to the rest of the electronic elements of the box.
 
-## Déconnecter les appareils
+## Disconnect the Devices
 
-### Déconnecter le serveur
+### Disconnect the Server
 ![](comment-sertir-des-cosses-electriques.jpg?cropResize=100,100)
 
-Vérifier que le serveur IdeasBox n'est pas connecté au câble 12v menant aux cosses électrique de la  batterie représenté par un fil rouge et un fil noir 
-### Débrancher le module bleu du secteur
-### Eteindre le convertisseur
+Verify that the Ideas Box server is not connected to the 12v cable leading to the battery's electric terminals (this cable has a red wire and a black wire)
+
+### Disconnect the Blue Module from the Main Power
+### Turn off the Converter
 ![](20180607_162328.jpg)
 
-Vérifier que le convertisseur 12V -> 220V ne soit pas allumé pour cela assurer que le switch 3 positions soit sur la position du milieu "0"
+Verify that the 12v -> 220v converter is not turned on.  Set the 3-position switch to **0**
 
-### Enlever l'étagère blanche et le tiroir
+### Remove the White Shelf and Drawer Enlever l'étagère blanche et le tiroir
 ![](IMG_20170123_160409.jpg)
 
-Enlever l'étagère blanche séparant le module en deux, ainsi que le tiroir au-dessus si possible, cela vous permettra d'accèder plus facilement à tous les éléments situés dans le module.
-Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les couleurs des bornes de la batterie.
+Remove the white shelf that divides the module into two, and then the drawer above.  This will provide easier access to all of the elements located in the module.
+>>>>>>We suggest you do this in a well-lit area in order to distinguish the colors of the different terminals in the battery.
 
-### Brancher les cosses électriques 
-1. Connecter la cosse du fil noir ![](20180607_162408.jpg) sur la borne - (moins) de la batterie. Nous vous effrayez pas à la vue de la petite étincelle qui pourrait apparaître lorsque vous toucherez la borne + de la batterie avec votre clé métallique.
-2. Connecter la cosse du fil rouge ![](20180607_163142.jpg) sur la borne + (rouge) de la batterie ![](20180607_162347.jpg)
-3. Vous devriez donc avoir le fil rouge sur le + et le fil noir sur le moins ![](20180607_162339.jpg)
+### Connect the Electronic Terminals 
+1. Connect the black wire to the - (minus) terminal of the battery.  Do not be surprised if there is a small spark when you touch the + terminal of the battery with your metal key. ![](20180607_162408.jpg)
+2. Connect the red wire ![](20180607_163142.jpg) to the + (red) terminal of the battery. ![](20180607_162347.jpg)
+3. You should now have the red wire connected to the + and the black wire to the (-).  ![](20180607_162339.jpg)
 
-### Mise en service
-1. Replacer l'étagère blanche et le tiroir au dessus des appareils
-2. Rebrancher le serveur au câble 12v venant de la batterie
-3. Allumer éventuellement le convertisseur 12v -> 220v
-4. Raccorder le module bleu au secteur 220v 
-5. Contrôler que le chargeur de batterie charge correctement la batterie, le VU mètre de l'appareil devrait indiquer une position entre 0 et 30A
+### Starting Up
+1. Replace the white shelf and the drawer above the devices
+2. Reconnect the server to the 12v cable from the battery
+3. Turn on the 12v -> 220v converter
+4. Reconnect the blue module to the 220v main power
+5. Check to make sure the battery is charging correctly.  The VU meter of the device should indicate a position between 0 and 30A.
