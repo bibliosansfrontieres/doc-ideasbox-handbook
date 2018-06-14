@@ -13,93 +13,88 @@ title: 'Introducing the Electricity'
 * Avoid travelling in a humid area or with water: not in the rain on not with feet in water.  The current always wants to go to the earth, and will not hesitate to pass through you if possible. 
 * **NEVER work in bare feet** on an electric circuit.  If you need to (even when wearing shoes), you can put a rubber mat down or a floor covering to separate you and the ground.
 * If you need to work on an electrical circuit, do not do it in a loud environment, with a lot of people around.  Heave other people leave the site and work in a calm, dry, and well-lit environment.  Similarly, do not work on an electrical circuit in an emergency (except to switch it off, of course).  Do not work on a circuit if you are tired, stressed, or distracted.  You need to be able to concentrate entirely on the work at hand, without being distracted. 
-* Make sure to **NEVER short circuit** the system.  A short circuit occurs when electricity travels through an unintended path with less resistance.  
-Un court circuit consiste à relier le plus au moins, pour les tensions continue 12v et la phase et le neutre pour les tension alternative 220v sans intercaler un consommateur d'électricité. 
+* Make sure to **NEVER short circuit** the system.  A short circuit occurs when electricity travels through an unintended path with less resistance than expected.  It can occur if you directly connect the + and the - (also known as the phase and the neutral), without having any devices that use energy in between.  If the system is short circuited, the electrical installation is immediately destroyed.  It can also be incredibly dangerous for you and everybody around, as it can easily cause fires and explosions.  
+* If you are not confident in yourself, or the work conditions, it is better not to intervene at the moment and solve the problem later on.  The risks are greater if you are doubtful while you work. 
 
-* Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
-* Si on n'est pas sûr de soi, ou des conditions de travail, mieux vaut ne pas intervenir et régler le problème plus tard. Les risques sont importants si on travaille de façon douteuse. 
+## General Concepts: Ampere Hours/Watts/Volts
 
-## Notions ampères heures/watts/volts
+There are three distinct units to measure electricity:  
+1. **Volts (V)** are the unit used to measure the electric current in a circuit between point A and point B, and are measured by a voltmeter.  It is named after Volta, the Italian physicist and inventor of the electric battery.  
+2. **Watts (W)** are used to measure electrical power.  1 watt is defined as 1 joule (a unit of energy) per second.  The term comes from the name of Scottish engineer James Watt, who was instrumental in the creation of the steam engine.  
+3. **Amperes (A)** measure the intensity of an electrical current, meaning the flow of electrons in a conductor.  It is named after André-Marie Ampère, the inventor of the electromagnet.
+We can compare the movement of electrons in a circuit to that of water in a house: the intensity, expressed in amperes, is the flow rate of the water.  On the electrical panel installed in houses, fuses or circuit breakers indicate different levels of intensity: 10, 20, or 32 amps.  If the electrical power demanded is more than the available electron flow, the circuit trips.  
 
-On distingue trois unités de mesure en électricité :  
-1. **Le volt** \(V\) est l’unité de mesure de la tension électrique dans un circuit entre un point A et un point B, obtenue avec un appareil appelé voltmètre. C’est à Volta, physicien italien et inventeur de la pile électrique, qu’on doit ce nom.  
-2. **Le watt \(W\)** est l’unité de mesure de la puissance électrique. Soit la quantité d’énergie pendant un temps donné, En général 1 seconde. Le terme vient du nom de l’ingénieur écossais James Watt à l’origine du développement de la machine à vapeur.  
-3. **L'ampère \(A\)** est l'unité de mesure de l'intensité d'un courant électrique, c'est-à-dire le flux d'électrons dans un conducteur. C'est André-Marie Ampère, l’inventeur de l’électro-aimant, qui a donné son nom à cette unité.  
-On peut comparer le déplacement des électrons dans un circuit à celui de l’eau dans un tuyau : l’intensité, exprimée en ampères, c’est le débit d’eau. Sur le tableau électrique de notre installation à la maison, les fusibles ou disjoncteurs différentiels indiquent l’intensité : 10, 20 ou 32 ampères. Si la puissance électrique demandée est supérieure au flux d’électrons disponible, l’installation disjoncte.
+We can link all three units with this formula: **P=i x v**.  (Power in watts = current in amps multiplied by electric potential in volts).
 
-On peut les relier entre eux selon la formule : **P=UxI** \(Puissance en watts = Tension en Volts multipliée par l’intensité en Ampères\).
+**This formula is important: P=IV**
 
-**Cette formule est importante : P = U x I.  **
+_Here is a concrete example: a device powered by 220 volts consumes 2 amperes. _
 
-_Prenons un exemple concret : un appareil alimenté en 220 volts consomme 2 ampères.  _
+> Its power is thus: P=IV = 220 x 2 = 440 watts
 
-> Sa puissance est donc : puissance = 220 x 2 = 440 watts.
+_It can be used the other way around as well.  A device powered by 12 volts consumes 36 watts.  How can you calculate its usage in amperes?_
 
-_De même, un appareil alimenté en 12 volts consomme 36 watts. Comment calculer sa consommation en ampères ?  _
+> Divide the power P (in watts) by the voltage to obtain the intensity in amps.  Thus: 36/12 = 3 amps.  The device consumes 3 amps.
 
-> Il faut diviser la puissance P \(en watts\) par la tension U pour obtenir l'intensité I, mesurée en  en ampères. Donc : Puissance 36 divisé par 12 tension = 3 en intensité. Notre appareil consommera donc 3 ampères.
-
-## Usage d'un multimètre 
+## Using a Multimeter 
 
 ![](dmmnew10.gif)
 
-Le multimètre est un appareil permettant :  
-- De mesurer la tension aux bornes d’un appareil (bra
-nchement en parallèle) 
-- De mesurer le courant qui traverse un circuit (br
-anchement en série) 
-- De mesurer la résistance d’un appareil.   
+The multimeter is a device that lets you:  
+- Measure the current at the terminals of a device (parallel connection)
+- Measure the current that traverses a circuit (chain connection)
+- Measure the resistance of a device
 
-Dans le cadre de l'IdeasBox seul la fonction "tension aux bornes de l'appareil" sera utile. 
+With an IdeasBox, the only useful function is to measure the current at the terminals of a device. 
 
-#### Branchement en voltmètre (en parallèle aux bornes de la batterie) :
+#### Connecting a Voltmeter (parallel to the battery terminals):
+- Use the terminals V and COM of the multimeter (COM corresponds to -)
+- 
 - On utilise les bornes V et COM du multimètre (COM correspondant au moins)  
-- Le commutateur de sélection doit être placé dans la zone DC pour une mesure en tension continu (AC est pour une tension alternative, ex: le 220v)
-- Différents calibres existent, le calibre 20 correpsond à "la lecture d'une tension jusqu'à 20v", la batterie fonctionne en 12v donc c'est le calibre approprié
-- Placer la pointe de touche noir sur la borne négative (-) de la batterie
-- Placer la pointe de touche rouge sur la borne positive (+) de la batterie
-- Lire la valeur sur l'écran digital (la batterie est complètement déchargé si la tension lu est inférieur ou égale à 10,8v)
+- The switch must be pointed at DC for a measure of direct current (or AC to measure alternating current, like 220v) 
+- Different calibers exist.  The caliber 20 corresponds to "reading of a voltage up to 20V).  The battery functions at 12V, so this is the appropriate calibration.
+- Place the black touch point to the negative (-) terminal of the battery
+- Place the red touch point to the positive (+) terminal of the battery
+- Read the value on the digital screen.  The battery is completely discharged if the reading is less than or equal to 10.8V
 
-**Exemple : **
+**Example:**
 
 ![](467517-tester-condensateur-3-3-main-12994453.jpg)
 
-## Différence 12v - 220v
+## Difference Between 12V and 220V
 
-La tension électrique est la circulation du champ électrique le long d'une paire de fil de cuivre. Son unité est le volt et peut être mesuré par un voltmètre. Elle est souvent notée U, mais aussi parfois V dans les circuits électriques.
+Electric tension is the circulation of an electric field along a pair of copper wires.  Its unit is the volt, and can be measured by a voltmeter.  It is often denoted as U or V in electric circuits.
 
-Au sein de l'Ideasbox nous utilisations deux type de tension différentes :
+With the Ideas Box, we use two different types of tension:
 
-* La très basse tension, soit le circuit électrique continue 12V
+* Very low tension: the electric circuit with 12V continuous current
 
-  > Il s'agit par exemple de la batterie 12V d'une voiture
+  > Similar to the 12V battery of a car
 
-* La basse tension, soit le circuit électrique alternatif 220V
+* Low tension: the electric circuit with 220V alternating current
 
-  > C'est la tension généralement utilisé dans une maison pour alimenter une Télé, un frigo, etc.
+  > This is the tension generally used in a house to power a television, refrigerator, etc...
 
 ## Batteries
 
-Il existe plusieurs types de batteries différentes :
+There are several different types of batteries: 
 
-* Plomb : Celle de votre voiture
-* Nickel Cadium \(Ni - Cd\) : Celle de votre votre lampe torche
-* Nickel Métal Hydrure \(NiMH\) : Celle de votre appareil photo
-* Lithium Ion : Celle de votre téléphone portable
+* Lead-acid battery: One used in cars
+* Nickel Cadmium (Ni - Cd) battery: Used in flashlights
+* Nickel Metal Hydride (NiMH) battery: Used in cameras
+* Lithium Ion battery: Used in telephones
 * etc.
 
-Dans l'Ideasbox nous utilisons une batterie de type Gel 12v, 90Ah.  
-Les batteries Gel ont en général une durée de vie plus longue et une meilleure capacité de cyclage.
+In the Ideas Box, we use a 12V, 90Ah gel battery.
+Gel batteries generally have a longer lifetime and better cycling capacity than other batteries.
 
-**Capacité ou "capacité de stockage"**  
-C'est la quantité de courant qu'une batterie en parfait état \(neuve\) est capable de délivrer en étant chargée. Elle est exprimée en Ampère-heure \(Ah\).  
-Par exemple, une batterie de 100 Ah peut débiter un courant de 1 A pendant 100 heures ou un courant de 100 A pendant 1 heure\).
+**Capacity or Strage Capacity**
 
-**Tension aux bornes de la batterie**  
-La tension mesuré aux bornes de la batterie permet d'avoir une idée de l'état de cette dernière. Il faut pour cela utiliser un multimètre et placer la sonde \(+\) du multimètre sur la borne \(+\) de la batterie et placer la sonde \(-\) du multimètre sur la borne \(-\) de la batterie. Nous mesurons ainsi la tension de la batterie.
+This is the quantity of current that a perfect (new) battery is capable of delivering.  It is expressed in Ampere-hours (Ah).  
+For example, a 100Ah battery can provide a 1 A current for 100 hours or a 100A current for 1 hour.
 
-* Lorsque la batterie est en charge, la tension mesurée devrait se situer autour de 13,8v.
-* Lorsque la tension mesuré aux bornes de la batterie atteint 10.8v celle-ci est déchargé. 
+**Tension at the Battery Terminals**
+Tension measured at the battery terminals lets us have an idea about the state of the battery.  To do this, you have to use a multimeter and place the (+) sensor of the multimeter on the (+) terminal of the battery (and do the same for the (-) sensor and terminal).  Doing so measures the tension of the battery.
 
-
-
+* When the battery is charged, the tension measured should be around 13.8V
+* When the battery tension is reaches 10.8V, the battery is out of charge.
