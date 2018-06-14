@@ -162,9 +162,9 @@ This diagram illustrates how the battery charger is used alongside the 12v -> 22
 
 ![](elec_simple.png)
 
-## Practical example: Energy Balance of the Box
+## Practical examples: Energy Balance of the Box
 
-Battery Capacity : 90 Ah @ 12V
+Battery Capacity: 90 Ah @ 12V
 
 Here is a table of the consumption in **Amperes** per **Hour** at 220 V
 
@@ -178,28 +178,27 @@ Here is a table of the consumption in **Amperes** per **Hour** at 220 V
 
 Total consumption: 25.3 Ah/d
 
-**Le convertisseur à un rendement de 91% maximum**
+**The converter is 91% efficiency (yield is 91% of maximum)**
 
-Bilan total à la sortie du convertisseur 12V -&gt; 220V = 25.3 Ah / 0.91 = 26 Ah/j
+Final summary of the converter's output 12V -&gt; 220V = 25.3 Ah / 0.91 = 26 Ah/j
 
-Donc pour une batterie de capacité de 90 Ah -&gt; nous souhaitons 80% de décharge max = 90 \* 80 / 100 = 72 Ah de disponible car on ne souhaite pas décharger complètement la batterie.
+For a battery with a capacity of 90ah -&gt; we want a maximum discharge of 80% = 90 \* 80 / 100 = 72 Ah are available since we do not want to completely deplete the battery. 
 
-72 Ah / 26 Ah = 2.7h de fonctionnement sur batterie
+72 Ah / 26 Ah = 2.7h -> The battery can run for 2.7 hours at this rate.
 
-Dans un contexte de déploiement de la Box pendant 7h, dans un lieu sans électricité, nous partons du principe que nous avons besoins uniquement du serveur, de l'antenne wifi, de la télé et de recharger les ordinateurs pendant 4h. Voici une estimation du temps de fonctionnement sur batterie.
+If we are deploying the box for 7h, in a place without electricity, we assume that we only need the server, WiFi antenna, television, and computer chargers for 4h.  Here is an estimation of the time that the battery can function.
 
-| Appareil | Energie consommé \(A\) | Temps d'utilisation quotidien \(h\) | Consommation quotidienne \(Ah/jour\) |
+| Device | Energy Consumed \(A\) | Daily Usage \(h\) | Daily Consumption \(Ah/jour\) |
 | --- | --- | --- | --- |
 | TV | 0.16 A | 4h | 0.16 A \* 3h = 0.48 Ah/j |
-| Alimentation de l'antenne wifi | 0.3 A | 7h | 0.3 A \* 7h = 2.1 Ah/j |
-| Alimentation du serveur | 1.5 A | 7h | 1.5 A \* 7h = 10.5 Ah/j |
-| Ordinateur portable | 1.7 A | 4h | 1.7A \* 4h = 6.8Ah/j |
+| Powering WiFi Antenna | 0.3 A | 7h | 0.3 A \* 7h = 2.1 Ah/j |
+| Powering Server | 1.5 A | 7h | 1.5 A \* 7h = 10.5 Ah/j |
+| Laptop | 1.7 A | 4h | 1.7A \* 4h = 6.8Ah/j |
 
-Total de la consommation : 19.88 Ah/j
+Total Consumption: 19.88 Ah/j
 
-Bilan total à la sortie du convertisseur 12V -&gt; 220V = 19.88 Ah / 0.91 = 20,6 Ah/j
+Final summary of the converter's output 12V -&gt; 220V = 19.88 Ah / 0.91 = 20,6 Ah/j
 
-Donc pour une batterie de capacité de 90 Ah -&gt; nous souhaitons 80% de décharge max = 90 \* 80 / 100 = 72 Ah de disponible car on ne souhaite pas décharger complètement la batterie.
+For a battery with a capacity of 90ah -&gt; we want a maximum discharge of 80% = 90 \* 80 / 100 = 72 Ah are available since we do not want to completely deplete the battery. 
 
-72 Ah / 20.6 Ah = 3.5h de fonctionnement sur batterie
-
+72 Ah / 20.6 Ah = 3.5h -> The battery can function for 3.5 hours
