@@ -26,7 +26,7 @@ gimp, openshot, inkscape, krita, mypaint, tuxpaint, darktable, pinta, digikam, v
 
 ## Windows
 
-Windows is a line of operating systems produced by Microsoft for PC laptops.  It has had undeniable success, due in part to the fact that its editur signed numerous exclusivity agreements with computer constructurs.  It is sold pre-installed on practically all personal computers.
+Windows is a line of operating systems produced by Microsoft for PC laptops.  It has had undeniable success, due in part to the fact that Microsoft has signed numerous exclusivity agreements with computer manufacturers.  It is sold pre-installed on practically all personal computers.
 
 **The computers come with the following software and programs pre-installed:**
 vlc, skype, firefox, chrome, 7zip, teamviewer, blender, freecad, gimp, libreoffice, scratch, tuxpaint, sumatrapdf, flashplayer, audacity, calibre, dotnetfx, freemind, inkscape, picasa, scribus, sketchup, xmind.
