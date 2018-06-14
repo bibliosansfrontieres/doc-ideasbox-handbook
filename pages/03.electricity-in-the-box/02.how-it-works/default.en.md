@@ -1,83 +1,82 @@
 ---
-title: 'Manipulation du circuit électrique'
+title: 'Handling the Electrical Circuit'
 ---
 
-Le circuit électrique est conçu pour fonctionner sur secteur ou sur batterie. Quelques manipulations sont à effectuer pour exploiter la bonne source de courant.
+The electrical circuit is designed to function with main power or with the battery.  Some steps can be taken to take advantage of the right source of currect.
 
-Cette partie du guide se veut concrète et permet de mettre en oeuvre l'électricité sans avoir à comprendre son fonctionnement ; cependant, comprendre sa conception permet d'exploiter au mieux l'utilisation de la batterie. On commencera donc par expliquer simplement les principaux éléments du circuit, les détails techniques seront abordés plus loin.
+This part of the guide is meant to be practical, and help implement the elctricity without necessarily understanding how it works.  However, understanding its design will help you use the battery batter.  We will thus start by explaining simply the principal elements of the circuit; the technical details will be tackled later on.
 
-## Le bouton de sélection du courant
+## The Button to Select the Current
 
-Le gros bouton à trois positions permet de sélectionner la bonne source d'électricité.
+The big button with three positions allows you to select the best source of electricity.
 
 #### OFF
 
-À sélectionner lorsqu'on n'utilise plus la box.
+Turn the button to this position when the box is off.
 
-**Si la box est toujours branchée sur le secteur**, alors le chargeur de batterie est alimenté et recharge toujours la batterie.
+**If the box is always connected to the main power grid**, then the battery charger is always on and always recharging the battery.
 
-Le circuit se résume alors ainsi :
+In this case, the circuit looks like this:
 
 ![](circuit-resume_off-sur-secteur.png)
 
-**Si la box n'est plus reliée au secteur**, alors le circuit se résume alors ainsi :
+**If the box is no longer connected to the main power grid**, then the circuit looks like this:
 
 ![](circuit-resume_off-debranche.png)
 
-Les autres équipements ne sont alors plus alimentés.
+The other equipment is no longer powered.
 
-* **SAUF** le serveur, qui lui est toujours alimenté par la batterie, il faut penser à l'éteindre \(soit depuis l'interface, soit en appuyant brièvemement sur le bouton ON/OFF en façade\).
-* **SAUF** le convertisseur, qui alors ne sert plus à rien ; il convient de l'éteindre.
+* **EXCEPT** the server, which is always powered by the battery.  The user must manually turn it off (either through the online interface or by briefly pressing the ON/OFF switch on its front).
+* **EXCEPT** the converter, which no longer serves a purpose; it should be turned off.
 
-#### 12V
+#### 12v
 
-À sélectionner pour utiliser la batterie.
+Select this to use the battery.
 
-Lorsqu'on sélectionne cette source, il faut allumer également le convertisseur pour utiliser la télévision ou la multiprise \(sans quoi le 12V qui sort de la batterie n'est pas transformé en 200V, et ces deux équipements ne sont pas alimentés\).
+When you selects this source, **you also have to turn on the converter to use the television or the power strip**.  Without doing so, the 12v from the battery will not be transformed to 200v, and these devices will not work. 
 
-Le circuit se résume alors ainsi :
+The circuit looks like this:
 
 ![](circuit-resume_12v.png)
 
-#### 220V
+#### 220v
 
-Utilisation du courant secteur.
+Select this to use the main power supply.
 
-Tous les équipements sont alimentés ; le convertisseur peut alors être éteint ; la batterie se recharge automatiquement.
+All equpment will be turned on.  The converter can thus be turned off.  The battery will recharge automatically.
 
-Le circuit se résume alors ainsi :
+The circuit looks like this:
 
 ![](circuit-resume_220v.png)
 
-## Brancher la box sur secteur
+## Connecting the Box to the Main Power
 
-On commence par brancher le câble IEC depuis la prise secteur jusqu'à la prise IEC présente sur le module bleu.
+Start by connecting the IEC cable from the power outlet to the IEC cable from the blue module.
 
-Le bouton de sélection doit être positionné sur « 220V ».
+The selection button needs to be in the **220v** position.
 
-Le convertisseur peut être éteint.
+The converter can be turned off.
 
-==&gt; Tous les équipements électriques sont utilisables.
+==&gt; All devices are available for use.
 
-## Utilisation sur batterie
+## Using the Battery
 
-Le bouton de sélection doit être positionné sur « 12V ».
+The selection button needs to be in the **12v** position.
 
-==&gt; Si le convertisseur est éteint, alors seul le serveur est alimenté.
+==&gt; If the converter is turned off, only the server will turn on. 
 
-Il faut allumer le convertisseur pour alimenter la télévision et la multiprise (c'est lui qui transforme le 12V issu de la batterie en 220V nécessaire à la TV et à la multiprise\).
+You have to turn on the converter to turn on the television and the power strip (it is this that transforms the 12v from the battery to the 220v necessary for the television and power strip).
 
-==&gt; La TV et la multiprise sont utilisables.
+==&gt; The TV and the power strip will now be usable.
 
-==&gt; Lorsque la box fonctionne sur batterie, le chargeur USB \(pour les tablettes\) n'est pas utilisable.
+==&gt; When the box runs on battery, the USB charger for the tablets is not usable.
 
-#### Pas d'utilisation de la box
+#### When Not Using the Box
 
-* Il faut sélectionner la position OFF.
-* Il faut éteindre le serveur.
-* Il faut éteindre le convertisseur.
+* Turn the selection button to **OFF**
+* Turn off the server.
+* Turn off the converter.
 
-Si on veut que la batterie se recharge, alors il faut laisser le câble IEC branché du secteur à la box.
+If you want the battery to recharge, leave the IEC cable connected to the outlet and the box.
 
-Sinon, il faut impérativement débrancher le câble et le ranger.
-
+If not, you must unplug the cable and store it.
