@@ -1,19 +1,19 @@
 ---
-title: 'Initiation à l''électricité'
+title: 'Introducing the Electricity'
 ---
 
-## Notions générales de  sécurité
+## General Safety Concepts
 
-Il faut savoir que l'électricité est très dangereuse et elle peut blesser voir tuer. Il est donc très important de respecter les consignes de sécurité quand on travaille sur un système électrique.
+>>>>>Electricity is Dangerous, and can hurt or even kill you.  It is thus **VERY IMPORTANT** to respect safety instructions when you work with an electronic system.
 
-**Règles essentielles à respecter**
+**Essential Rules to Follow**
 
-* Tout d’abord, **on ne travaille jamais sous tension**. C'est-à-dire qu’on débranche un équipement de sa source d’alimentation avant l'intervention de maintenance. Concrètement, on arrête le générateur, ou on débranche la batterie, ou on débranche les prises d’alimentation, ou quoi que ce soit d’autre. **ET** si on a le moindre doute, on vérifie, avec un appareil de mesure, le multimètre, que circuit est bien ouvert, c'est à dire qu'une tension ne circule à travers le circuit : c’est la vérification d’absence de tension. Il ne faut pas hésiter à vérifier plusieurs fois si on a un doute. Et si on doit quitter le chantier, il faut refaire la vérification d’absence de tension à chaque fois qu’on reprend le travail. Cette étape est indispensable à chaque fois et ne doit jamais être négligée sous peine d’accident grave ou de décès.
-* Dans les faits, quand on coupe un circuit électrique, que ce soit en débranchant un câble ou en actionnant un interrupteur, on place quelqu’un qui vérifie que personne ne rebranche le câble ou n’appuie sur le bouton : c’est la **consignation**. Il est important que cette personne soit consciente de l'importance de sa mission et ne relâche pas la surveillance du dispositif d'alimentation. 
-* On évite de travailler sur un équipement en milieu humide : pas sous la pluie, pas les pieds dans l’eau. Le courant veut aller vers la terre, toujours : et il n'hésitera pas à passer par vous si possible.
-* On ne travaille donc **JAMAIS pieds nus** sur un circuit électrique ; si besoin, même avec des chaussures, on peut aussi se placer sur un tapis en caoutchouc ou un plancher qui isole de la terre. 
-* Si on doit intervenir sur un circuit électrique, on ne le fait pas dans un milieu bruyant, avec beaucoup de monde autour. On évacue les personnes, on travaille dans le calme, et dans un milieu sec et bien éclairé. De même, on ne travaille pas sur un circuit électrique dans l’urgence \(sauf pour couper, évidemment\). On ne travaille pas sur un circuit électrique si on est fatigué ou soucieux ou distrait. On doit pouvoir se concentrer entièrement sur le travail à mener, sans être distrait. 
-* Il ne faut **JAMAIS faire de court-circuit**. Un court circuit consiste à relier le plus au moins, pour les tensions continue 12v et la phase et le neutre pour les tension alternative 220v sans intercaler un consommateur d'électricité. Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
+* First of all, **NEVER WORK WITH LIVE WIRES**.  That means unplug equipment from the power source before conducting any maintenance.  Always stop the generator, unplug the battery, unplug cords from outlets, etc...  **ALSO** if you have any doubt at all, check, with a multimeter (a measuring device) that the circuit is open--that no current is present in the circuit (there is an absence of electricity). Do not hesitate to check several times if you have any doubt.  And if you take a break from the project or leave the site, re-check that there is no current in the wires each time you begin work again.  This is absolutely necessary every time and must never be skipped to avoid risk of serious injury or death.
+* When one breaks an electrical circuit, whether by unplugging a cable or by using a circuit breaker, have somebody present to make sure no one plugs the cable back in or flips the circuit breaker.  Make sure this person is conscious of the importance of his or her job, and doesn't stop monitoring their post. 
+* Avoid travelling in a humid area or with water: not in the rain on not with feet in water.  The current always wants to go to the earth, and will not hesitate to pass through you if possible. 
+* **NEVER work in bare feet** on an electric circuit.  If you need to (even when wearing shoes), you can put a rubber mat down or a floor covering to separate you and the ground.
+* If you need to work on an electrical circuit, do not do it in a loud environment, with a lot of people around.  Heave other people leave the site and work in a calm, dry, and well-lit environment.  Similarly, do not work on an electrical circuit in an emergency (except to switch it off, of course).  Do not work on a circuit if you are tired, stressed, or distracted.  You need to be able to concentrate entirely on the work at hand, without being distracted. 
+* Make sure to **NEVER short circuit** the system.  A short circuit occurs when electricity travels through an unintended path with less resistance.  It can occur if you link the + and the -, because the 12v el is when the  Un court circuit consiste à relier le plus au moins, pour les tensions continue 12v et la phase et le neutre pour les tension alternative 220v sans intercaler un consommateur d'électricité. Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
 * Si on n'est pas sûr de soi, ou des conditions de travail, mieux vaut ne pas intervenir et régler le problème plus tard. Les risques sont importants si on travaille de façon douteuse. 
 
 ## Notions ampères heures/watts/volts
