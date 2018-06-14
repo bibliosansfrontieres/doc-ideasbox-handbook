@@ -13,7 +13,10 @@ title: 'Introducing the Electricity'
 * Avoid travelling in a humid area or with water: not in the rain on not with feet in water.  The current always wants to go to the earth, and will not hesitate to pass through you if possible. 
 * **NEVER work in bare feet** on an electric circuit.  If you need to (even when wearing shoes), you can put a rubber mat down or a floor covering to separate you and the ground.
 * If you need to work on an electrical circuit, do not do it in a loud environment, with a lot of people around.  Heave other people leave the site and work in a calm, dry, and well-lit environment.  Similarly, do not work on an electrical circuit in an emergency (except to switch it off, of course).  Do not work on a circuit if you are tired, stressed, or distracted.  You need to be able to concentrate entirely on the work at hand, without being distracted. 
-* Make sure to **NEVER short circuit** the system.  A short circuit occurs when electricity travels through an unintended path with less resistance.  It can occur if you link the + and the -, because the 12v el is when the  Un court circuit consiste à relier le plus au moins, pour les tensions continue 12v et la phase et le neutre pour les tension alternative 220v sans intercaler un consommateur d'électricité. Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
+* Make sure to **NEVER short circuit** the system.  A short circuit occurs when electricity travels through an unintended path with less resistance.  
+Un court circuit consiste à relier le plus au moins, pour les tensions continue 12v et la phase et le neutre pour les tension alternative 220v sans intercaler un consommateur d'électricité. 
+
+* Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
 * Si on n'est pas sûr de soi, ou des conditions de travail, mieux vaut ne pas intervenir et régler le problème plus tard. Les risques sont importants si on travaille de façon douteuse. 
 
 ## Notions ampères heures/watts/volts
