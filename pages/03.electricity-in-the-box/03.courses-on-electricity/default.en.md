@@ -16,15 +16,15 @@ title: 'Electricity Basics'
 * Make sure to **NEVER short circuit** the system.  A short circuit occurs when electricity travels through an unintended path with less resistance than expected.  It can occur if you directly connect the + and the - (also known as the phase and the neutral), without having any devices that use energy in between.  If the system is short circuited, the electrical installation is immediately destroyed.  It can also be incredibly dangerous for you and everybody around, as it can easily cause fires and explosions.  
 * If you are not confident in yourself, or the work conditions, it is better not to do anything at the moment and solve the problem later on.  The risks are greater if you are doubtful while you work. 
 
-## General Concepts: Ampere Hours/Watts/Volts
+## General Concepts: Amperes/Watts/Volts
 
 There are three distinct units to measure electricity:  
-1. **Volts (V)** are the unit used to measure the electric current in a circuit between point A and point B, and are measured by a voltmeter.  It is named after Volta, the Italian physicist and inventor of the electric battery.  
-2. **Watts (W)** are used to measure electrical power.  1 watt is defined as 1 joule (a unit of energy) per second.  The term comes from the name of Scottish engineer James Watt, who was instrumental in the creation of the steam engine.  
-3. **Amperes (A)** measure the intensity of an electrical current, meaning the flow of electrons in a conductor.  It is named after André-Marie Ampère, the inventor of the electromagnet.
+1. **Volts (V)** are the unit used to measure tension, or potential difference in electricity in a circuit between point A and point B, and are measured by a voltmeter.  It is named after the Italian physicist Volta, who invented the electric battery.  
+2. **Watts (W)** are used to measure electrical power (energy divided by time).  1 watt is defined as 1 joule (a unit of energy) per second.  The term comes from the name of Scottish engineer James Watt, who was instrumental in the creation of the steam engine.  
+3. **Amperes (A)** measure the intensity of an electrical current, or the movement of electrons through a conductor.  It is named after André-Marie Ampère, the inventor of the electromagnet.
 We can compare the movement of electrons in a circuit to that of water in a house: the intensity, expressed in amperes, is the flow rate of the water.  On the electrical panel installed in houses, fuses or circuit breakers indicate different levels of intensity: 10, 20, or 32 amps.  If the electrical power demanded is more than the available electron flow, the circuit trips.  
 
-We can link all three units with this formula: **P=i x v**.  (Power in watts = current in amps multiplied by electric potential in volts).
+We can link all three units with this formula: **P=I x V**.  (Power in watts = current in amps multiplied by electric potential in volts).
 
 **This formula is important: P=IV**
 
@@ -45,14 +45,12 @@ The multimeter is a device that lets you:
 - Measure the current that traverses a circuit (chain connection)
 - Measure the resistance of a device
 
-With an IdeasBox, the only useful function is to measure the current at the terminals of a device. 
+With an IdeasBox, the only relevant function is to measure the current at the terminals of a device. 
 
 #### Connecting a Voltmeter (parallel to the battery terminals):
 - Use the terminals V and COM of the multimeter (COM corresponds to -)
-- 
-- On utilise les bornes V et COM du multimètre (COM correspondant au moins)  
 - The switch must be pointed at DC for a measure of direct current (or AC to measure alternating current, like 220v) 
-- Different calibers exist.  The caliber 20 corresponds to "reading of a voltage up to 20V).  The battery functions at 12V, so this is the appropriate calibration.
+- Different calibers exist.  The caliber 20 corresponds to "reading of a voltage up to 20V".  The battery functions at 12V, so this is the appropriate calibration.
 - Place the black touch point to the negative (-) terminal of the battery
 - Place the red touch point to the positive (+) terminal of the battery
 - Read the value on the digital screen.  The battery is completely discharged if the reading is less than or equal to 10.8V
@@ -88,7 +86,7 @@ There are several different types of batteries:
 In the Ideas Box, we use a 12V, 90Ah gel battery.
 Gel batteries generally have a longer lifetime and better cycling capacity than other batteries.
 
-**Capacity or Strage Capacity**
+**Capacity or Storage Capacity**
 
 This is the quantity of current that a perfect (new) battery is capable of delivering.  It is expressed in Ampere-hours (Ah).  
 For example, a 100Ah battery can provide a 1 A current for 100 hours or a 100A current for 1 hour.
