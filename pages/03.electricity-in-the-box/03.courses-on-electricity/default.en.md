@@ -4,7 +4,7 @@ title: 'Introducing the Electricity'
 
 ## General Safety Concepts
 
->>>>>Electricity is Dangerous, and can hurt or even kill you.  It is thus **VERY IMPORTANT** to respect safety instructions when you work with an electronic system.
+>>>>Electricity is Dangerous, and can hurt or even kill you.  It is thus **VERY IMPORTANT** to respect safety instructions when you work with an electronic system.
 
 **Essential Rules to Follow**
 
