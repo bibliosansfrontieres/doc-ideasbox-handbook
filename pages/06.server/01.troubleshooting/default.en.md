@@ -1,8 +1,12 @@
-# Dépannage du serveur
+---
+title: Troubleshooting
+---
 
-##Le serveur ne démarre pas
-**Symptôme** : le serveur ne s’allume pas quand on appuie sur le bouton.
-- Vérifier que le connecteur d’alimentation est  correctement enfiché. Le débrancher et le rebrancher.
+# Troubleshooting the Server
+
+##The server doesn't turn on
+**Symptom**: the server doesn't turn on when you press the button 
+- Verify that the power cord is correctly plugged in.  Unplug it and plug it back in.
 - Vérifier que la batterie est chargée
 - Essayer avec le bloc d'alimentation fourni avec le serveur et le brancher sur le secteur 220v.
 - S’il ne s’allume toujours pas, le serveur est matériellement défaillant et doit être retourné au constructeur pour réparation. Contacter le siège de BSF. 
