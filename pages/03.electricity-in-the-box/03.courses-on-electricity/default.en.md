@@ -1,5 +1,5 @@
 ---
-title: 'Introducing the Electricity'
+title: 'Electricity Basics'
 ---
 
 ## General Safety Concepts
