@@ -1,5 +1,5 @@
 ---
-title: 'Handling the Electrical Circuit'
+title: 'Manipulating the Electrical Circuit'
 ---
 
 The electrical circuit is designed to function with main power or with the battery.  Some steps can be taken to take advantage of the right source of currect.
