@@ -6,7 +6,7 @@ Tablets from the Ideas Box come pre-configured. However, last-minute needs may a
 
 You must therefore be responsive to these needs!
 
->>>>**We strongly recommend that you use a computer with Linux for all operations described below.**
+>>>>>**We strongly recommend that you use a computer with Linux for all operations described below.**
 
 ## Installation
 
