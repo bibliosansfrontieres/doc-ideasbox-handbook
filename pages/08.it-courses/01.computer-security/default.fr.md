@@ -12,7 +12,7 @@ Les ordinateurs des IdeasBox, de même que les tablettes, sont des terminaux par
   - Effacez les champs de formulaire
   - Supprimez les cookies
 
-Le nettoyage de ces données se fait différemment selon les navigateurs. Un bon moyen d'éviter les impairs est d'utiliser le mode *navigation privée* de [Firefox](https://support.mozilla.org/fr/kb/navigation-privee-naviguer-sans-conserver-infos-sites) ou de [Chrome](https://support.google.com/chrome/bin/answer.py?hl=fr&answer=95464).
+Le nettoyage de ces données se fait différemment selon les navigateurs. Un bon moyen d'éviter les impairs est d'utiliser le mode *navigation privée* de [Firefox](https://support.mozilla.org/fr/kb/navigation-privee-naviguer-sans-conserver-infos-sites) ou de [Chrome](https://support.google.com/chrome/bin/answer.py?noprocess&hl=fr&answer=95464).
 
 
 ## Ne cliquez pas n'importe où !
@@ -35,7 +35,7 @@ Facebook et Twitter sont des outils très efficaces pour communiquer. Toutefois,
 ## Protégez l'accès à vos données 
 La plupart des services en ligne (Twitter, Facebook, WordPress, Tumblr, Skype etc.) permettent de récupérer un mot de passe perdu grâce à l'envoi d'un mot de passe dans votre boite mail. Il est donc capital de protéger votre boite mail le mieux possible. Si celle-ci est compromise, très souvent, c'est toute votre identité numérique qui le sera également.
 
-Le service mail de Google, GMail, permet de mettre en œuvre une sécurité supplémentaire : la "[validation en deux étapes](https://support.google.com/a/bin/answer.py?hl=fr&answer=175197)" . Ce service permet de protéger votre compte mail avec:
+Le service mail de Google, GMail, permet de mettre en œuvre une sécurité supplémentaire : la "[validation en deux étapes](https://support.google.com/a/bin/answer.py?noprocess&hl=fr&answer=175197)" . Ce service permet de protéger votre compte mail avec:
 
   - un nom d'utilisateur
   - un mot de passe
@@ -44,7 +44,7 @@ Ainsi, sans votre téléphone portable, il est impossible d'accéder à vos mail
 
 Lorsque vous vous connectez sur votre boite GMail, pensez à cliquez sur le lien « détails », en bas de la page. Celui-ci ouvre une fenêtre affichant l'ensemble des connexions récentes à votre boite. Vous serez ainsi à même de déceler une activité suspecte.
 
-[Twitter](https://twitter.com/settings/applications) et [Facebook](https://www.facebook.com/settings?tab=applications) offrent également l'équivalent de ce type de service et vous permettent de consulter l'ensemble des applications et sites autorisés à accéder à votre compte.
+[Twitter](https://twitter.com/settings/applications) et [Facebook](https://www.facebook.com/settings?noprocess&tab=applications) offrent également l'équivalent de ce type de service et vous permettent de consulter l'ensemble des applications et sites autorisés à accéder à votre compte.
 
 ### Utilisez des <del>mots</del> phrases de passe
 
@@ -53,7 +53,7 @@ La plupart de vos services en ligne (mail, compte Facebook, Twitter, Skype, Inst
   * Th$jHTo%46 : **court** et **difficile** à retenir
   * J'entends le son des cloches le long des pâturages verdoyants : **facile à retenir** et très **difficile à deviner** pour un attaquant
 
-<small>Le site [xkcd](http://www.lirmm.fr/~gambette/xkcd/index.php?id=936) explique en quelques cases pourquoi les phrases de passe sont à utiliser plutôt que les mots de passe.</small>
+<small>Le site [xkcd](http://www.lirmm.fr/~gambette/xkcd/index.php?noprocess&id=936) explique en quelques cases pourquoi les phrases de passe sont à utiliser plutôt que les mots de passe.</small>
 
 ### Utilisez une phrase de passe différente par service
 Il ne sert à rien d'avoir une longue phrase de passe si vous utilisez cette phrase pour protéger tous vos services en ligne. Si l'un de vos services est compromis, et [cela arrive parfois](http://www.pcinpact.com/news/63924-sony-pictures-lulzsec-piratage-mots-de-passe-vol-donnees.htm), tous vos comptes en ligne sont compromis. Il est donc crucial d'utiliser une phrase de passe différente par service.
