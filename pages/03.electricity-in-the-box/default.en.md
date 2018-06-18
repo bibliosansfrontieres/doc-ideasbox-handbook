@@ -125,7 +125,7 @@ With the new model (that has electricity in the blue model), this switch lets yo
 
   ![](multiprises.jpeg)
  
-The powerstric can connect directly either to the main 220v power supply or to the back of the 12v -&gt; 220v converter.  It can directly power several devices (ex: charging a laptop) in addition to the battery.
+The powerstrip can connect directly either to the main 220v power supply or to the back of the 12v -&gt; 220v converter.  It can directly power several devices (ex: charging a laptop) in addition to the battery.
 
 ---
 
