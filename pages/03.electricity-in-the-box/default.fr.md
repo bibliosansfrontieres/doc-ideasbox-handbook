@@ -4,7 +4,7 @@ title: 'L''électricité dans l''Ideasbox'
 
 L’électricité est au coeur des fonctionnalités de l’IdeasBox et connaître son fonctionnement permet de décupler ces possibilités d’usages.
 
-Ce qui va suivre vaut pour les IdeasBox et n’a pas vocation à former des électriciens en dehors des Ideas Box.
+Ce qui va suivre vaut pour les IdeasBox et n’a pas vocation à former des électriciens en dehors des IdeasBox.
 
 ## Présentation du circuit électrique
 
@@ -26,20 +26,20 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 * **1 Batterie 12v 90Ah**
 
   ![](batterie.png)
-  
+
   La batterie est chargée en permanence par le chargeur de batterie. La batterie joue le rôle d'accumulateur et délivre une tension 12v à tous les appareils connectés à ces bornes \(serveur, prises allume cigare, convertisseur 12v -&gt; 220v\)
 
-** IMPORTANT:  ** La batterie est considérée comme complètement déchargée lorsque la tension à ses bornes est inférieure ou égale à 10,8v
+** IMPORTANT : ** La batterie est considérée comme complètement déchargée lorsque la tension à ses bornes est inférieure ou égale à 10,8v
 
 ---
 
 * **1 Chargeur de batterie 12v**
 
   ![](chargeur_batterie.png)
-  
+
   Cet appareil permet la recharge de la batterie 12v en 3 étapes \(Bulk – absortion – floating\). Il peut rester connecté à la batterie en permanence sans créer aucun dommage à cette dernière.
-  
-**BON A SAVOIR: ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
+
+**BON A SAVOIR : ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
 
 ---
 
