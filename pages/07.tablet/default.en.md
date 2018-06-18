@@ -8,44 +8,44 @@ You must therefore be responsive to these needs!
 
 >>>>>**We strongly recommend that you use a computer with Linux for all operations described below.**
 
-## Installation
+## Application Installation
 
-You can choose from two procedures for the installation of new applications on the tablets.
+There are two different procedures you can choose from to install new applications on the tablets.
 
-**You decide to activate Google Play store on all tablets**
+**Activate Google Play Store on all the tablets**
 
-* This requires you to create a Google account
-* You must configure each tablet to configure the Google account
-* Select each application to be installed
-  Check and where necessary configure some tablets to reboot any that were unable to download all the applications
+* Create a Google account
+* Configure each tablet using this Google account
+* In the Google Play Store select applications to be downloaded
+* Verify that the applications were downloaded.  It may be necessary to restart tablets that were unable to download all of the applications
 
-**You decide not to use Google play store and conduct a bulk installation of applications via a computer**
+**Bulk installation of applications via a computer instead of Google Play Store**
 
-* This means that you must have all the applications with you. If you do not, you will probably have to follow the procedure above, but only on one tablet 
+* For this option, you must already have all of the applications.  If you do not, you will need to follow the procedure from above, but only on one tablet.
 * Use a computer with Linux \(as it is very easy to install the utility\)
 * Have the script required for bulk installation 
 * Be aware that each tablet must be connected to the computer
 
 ### Advantages and disadvantages of the two solutions
 
-**The Google Play Store** solution could be practical if your partner wishes to enjoy a level of independence and plans to install new applications regularly. However, this procedure is not recommended in areas with low-speed Internet access, as the applications must be downloaded onto each tablet. \(One application may take up to 150Mo\). That said, this procedure could be reassuring for a partner with limited technical skills. You must know that you are entering into the Google universe at your own risk, but this is practically unavoidable if you wish to use applications which must be purchased.
+**The Google Play Store** solution could be practical if your partner wishes to enjoy a level of independence and plans to install new applications regularly. However, this procedure is not recommended in areas with low-speed Internet access, as the applications must be downloaded onto each tablet. \(One application may take up to 150MB\). That said, this procedure could be reassuring for a partner with limited technical skills. Know that you are entering into the Google universe at your own risk, but this is practically unavoidable if you wish to use applications which must be purchased.
 
 **The solution without Google Play Store** is very interesting but requires some technical skills and a transfer of knowledge to the partner in this regard. In addition, as we are using the bash script with the ADB utility, we can also take the opportunity to remove unnecessary applications or those that do not work. In this case, the applications are only downloaded once, which could be appropriate in areas with low-speed Internet access. Either you already have the applications on your computer, or you can download them directly with [Google Play Downloader](http://codingteam.net/pro%20ject/googleplaydownloader), in which case you must configure a valid Google account in the "settings" in order to download the applications.
 
 ## Using Google Play Downloader
 
-This software is used to download Android applications directly from the Play Store. It should be noted, however, that some applications are not visible on this tool, although they are well and truly present on the Play Store... If you manage to find all your applications, we strongly advise that you use this method instead of the much more fastidious method described above. Skip directly to the section on **Installing and removing applications in bulk.**
+This software is used to download Android applications directly from the Play Store. It should be noted, however, that some applications are not visible on this tool, even though they are present in the Play Store. If you manage to find all your applications, we strongly advise that you use this method instead of the much more tedious method described above. Skip directly to the section on **Installing and removing applications in bulk.**
 
 ## Activating the Play Store and downloading
 
 The idea is to install the latest applications.
 
-1. Create a Gmail account to access Google Play
+1. Create a Google (Gmail) account to access Google Play
 2. Configure the Google Apps on the tablet with the previously created account
 
    * The Google Play Store icon may be hidden on Danew tablets, if this is the case
      * Application menu
-     * Click on Paramètres -&gt; Applications -&gt; Toutes tab \(Settings -&gt; Applications -&gt; All\)
+     * Click on Paramètres -&gt; Applications -&gt; Toutes \(Settings -&gt; Applications -&gt; All\)
      * Select the Google play store application
      * Then click on Lancer \(Run\) in the middle/end of the page
      * A new window will open to request your Gmail user name and password
@@ -72,7 +72,7 @@ At this point, you have downloaded your free applications and purchased others. 
 
 7. Once the back-up is made, open the left-hand menu again and select **Stockage interne \(Internal storage\)**, click on **backup\_apps** and you should find all your applications saved.
 
-8. Lastly, to recover them on your workstation, connect the tablet to your computer using the USB cable.
+8. Lastly, to retrieve them on your workstation, connect the tablet to your computer using the USB cable.
 
 9. When the window opens, select **Stockage interne \(Internal storage\)** and copy all the saved applications onto your computer.
 
@@ -103,7 +103,7 @@ The default setting does not enable you to install applications directly from th
 
 ### Uninstalling applications
 
-You may have the nasty surprise of having to uninstall some applications in order to install others \(lack of memory space\).
+You may have to uninstall some applications in order to install others because of a lack of memory space.
 
 To do so, you must find the name of the application.
 
