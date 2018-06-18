@@ -86,7 +86,7 @@ Vouz aurez peut être la mauvaise surprise de devoir désintaller certaines appl
 
 Pour ce faire, vous devrez repérer le nom de l'application. 
 
-Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr)  
+Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?noprocess&id=com.koushikdutta.backup&hl=fr)  
 La barre d'URL contient le nom complet de l'application : 
 https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr  
 Le nom est juste après **id=** soit **com.koushikdutta.backup**
