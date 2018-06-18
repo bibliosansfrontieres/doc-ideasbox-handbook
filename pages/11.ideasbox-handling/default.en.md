@@ -4,32 +4,32 @@ title: 'Handling an Ideas Box'
 
 ## Handling
 
-**Reminder**: the modules are quite heavy when empty:
+**Reminder**: the modules are very heavy, even when empty
 
 - **80 kg** for the original versions,
 - **50 kg** for the new versions (Hemingway).
 
 _When you are handling a module:_
 
-- make sure there are enough of you, ideally four people.
-- never bend using your back, use your knees instead.
+- make sure there are enough of you to carry it: ideally four people.
+- never lift using your back, bend your knees and lift using your legs.
 - avoid wearing open-toed shoes (e.g.: flip-flops).
 - wear gloves when handling modules without wheels.
-- when loading a module into a vehicle or unloading one from a vehicle: remove from the box any item that can be removed (books, laptops, generator) to reduce the weight of the modules.
-- when travelling: make sure the modules do not collide with each other, do not push against anything in your way with the wheels (you may damage the bearings), make sure you remove the castor brakes before moving the modules. Protect the modules with cardboard or fabric where necessary.
-- old model - **Warning for the grey modules:** the handles are poorly positioned (you may trap your fingers if you pick it up the wrong way round), always use gloves when handling the grey casing.
+- when loading a module into a vehicle or unloading one from a vehicle: remove any loose items from the box (books, laptops, generator, and anything else that can be removed) to reduce the module's weight
+- when travelling: make sure the modules do not collide with each other.  Do not use the wheels to push anything in your way (you may damage the bearings), make sure you remove the castor brakes before moving the modules. Protect the modules with cardboard or fabric where necessary.
+>>>> old model - **Warning for the grey modules:** the handles are poorly positioned (you may trap your fingers if you pick it up the wrong way). Always use gloves when handling the grey casing.
 
-## Assembly / Disassembly
+## Assembly/Disassembly
 
-To install or remove the wheels, the modules must be moved onto their side. Caution: the yellow module contains the generator. Remove the generator before tipping the module.
+To install or remove the wheels, the modules must be turned onto their side. Caution: the yellow module contains the generator. Remove the generator before tipping the module.
 
-### wheels
+### Wheels
 
 - Tighten the screws
 - Install two wheels fitted with brakes on the same side
 - Be careful when you put the module on the wheels: **do not exert force on the wheels**. This could damage the bearings and the screw thread (ease the module down as you turn it from its side onto its wheels).
 
-### Opening / closing the box
+### Opening/closing the box
 
 - You must open the Ideas Box on a flat surface. This will stop the modules from becoming misshapen due to a slope and will make it easier to open the modules and the doors.
 - Old model -  Do not exert pressure when closing the modules as this could scratch the stickers on the sides of the modules.
@@ -85,13 +85,13 @@ During its use, the Ideas Box may be damaged in several ways.
 
 ### Furniture repairs
 
-The Ideas Box was designed to be easily repaired and the equipment in the Box is available almost everywhere in the world. A carpentry company could conduct all repairs on an Ideas Box. 
+The Ideas Box was designed to be easily repaired and the equipment in the Box is available almost everywhere in the world. A carpenter could conduct all repairs on an Ideas Box. 
 
 The most fragile parts are the module door locks and the low table legs (in the new models).
 
 ### Electrical repairs
 
-Before attempting any repairs, even measuring the battery’s charge, please read the “General safety information” section of the “Initiation in electricity” document.
+Before attempting any repairs, even measuring the battery’s charge, please read the “General safety information” section of the “Electricity in the Ideas Box” page.
 
 If the electrical circuit no longer works, this could be due to the battery’s charge. To test this, use the multimeter found in the Ideas Box. If the battery’s charge is below 12 volts, charge it for 8 hours.
 
@@ -99,15 +99,15 @@ If, once the battery is fully charged, the problem continues, do not attempt to 
 **Contact an electrician**. This document will be necessary:
 
 #### Electrical diagram of the Ideas Box
-elec_box.jpg
-- Alimentation secteur – Mains power
+![](elec_box.jpg)
+- Alimentation secteur – Main power
 - Coffret 6 module – 6-module kit
 - Disjoncteur différentiel – Residual current circuit breaker
 - Dj – Circuit breaker
 - Chargeur USB – USB charger
 - Borne de terre – Earth terminal
 - Chargeur – Charger
-- Inverseur commutateur 3 positions – 3-position changeover - switch
+- Inverseur commutateur 3 positions – 3-position changer/switch
 - Ondulateur - Inverter
 - Serveur – Server
 - Batterie – Battery
