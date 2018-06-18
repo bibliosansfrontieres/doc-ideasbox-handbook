@@ -33,12 +33,15 @@ Toutes les personnalisations qui y seront effectuées se verront répliquées da
 
 Elle n'est donc pas à utiliser au quotidien.
 
+Le login est `ideascube`, le mot de passe est communiqué à la demande par BSF.
+
 ### La session `Admin`
 
 Cette session `Admin` sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
 
 Elle n'est utilisée que par des techniciens, en cas de problème.
 
+Le login est `bsfadmins`, mais on préfère créer une session déddiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
 
 ### Voir aussi
 

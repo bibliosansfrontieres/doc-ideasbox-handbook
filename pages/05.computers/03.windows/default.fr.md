@@ -14,6 +14,8 @@ La configuration en est légèrement personnalisée (fond d'écran, ...), et des
 
 ## Comptes utilisateurs
 
+La session principale est la session `ideasbox`. Elle dispose des droits administrateur.
+
 <à compléter>
 
 ## Les logiciels
