@@ -1,230 +1,109 @@
 ---
-title: 'Communiquer avec les Autres'
+title: 'Communicating with Others'
 ---
 
-Les réseaux de communications et Internet ont rendu les communications
-avec les autres plus aisées que jamais, mais ont répandu la surveillance
-d’une manière que l’histoire de l’humanité n’a jamais connu. Sans
-prendre de mesures supplémentaires afin de protéger votre intimité,
-chaque appel téléphonique, message de texte, e-mail, message
-instantanée, appel vocal IP, vidéo, chat et message au moyen des médias sociaux peut être vulnérable
-pour les espions.
+Communication resources and the internet have mad communicating with others easier than ever before, but have increased surveillance to levels unheard of in human history.  Without taking extra measures to protect your privacy, every phone call, text message, email, IM, videochat, etc... can be vulnerable to spying.
 
-Souvent, la manière la plus sûre de communiquer avec les autres est de
-le faire en personne, sans ordinateurs ni implication quelconque de
-téléphones. Ce n’est pas toujours possible, la meilleure des choses à
-faire est donc d'utiliser le chiffrement global
-si vous communiquez sur un réseau et avez besoin de protéger le contenu
-de vos communications.
+Often, the most secure way to communicate with others is in person, without computers or telephones.  However, this is not always possible.  The best thing to do is to use comprehensive data encryption if you communicate online and need to protect the content of your communication.
 
 
-# Comment fonctionne le chiffrement Global !
+# How Comprehensive Encryption Works!
 
-Lorsque deux personnes souhaitent communiquer de manière sécurisée (par
-exemple, Akiko et Boris), elles doivent générer des crypto clés. Avant
-qu’Akiko n’envoie un message à Boris, elle devra le chiffrer grâce au
-code de Boris afin que seul ce dernier puisse le déchiffrer puis, elle envoie le message déjà chiffré sur Internet. Si quelqu’un
-espionne Akiko et Boris—et même s’il a accès au service utilisé par
-Akiko afin d’envoyer ce message (comme son compte e-mail) —il ne pourra
-visualiser que les données chiffrées et ne pourra pas lire le message.
-Lorsque Boris le reçoit, il doit utiliser son code afin de de le
-déchiffrer et de rendre le message lisible.
+When two people want to communicate in a secure manner (Akiko and Boris, for example), they have to generate cryptographic keys.  Before Akiko sends a message to Boris, she has to encrypt it using the key, ensuring that only Boris will be able to read it.  She then sends the encrypted message on the internet.  If somebody is monitoring Akiko and Boris, and even if they have access to the service Akiko used to send the message (like her email account), they will not be able to see anything except for the encrypted data and will not be able to read the message.  When Boris receives the message, he can use the code to decypher the message and make it readable.
 
-Le chiffrement global implique un certain effort, mais il s’agit de la
-seule manière grâce à laquelle les utilisateurs peuvent vérifier la
-sécurité de leurs communications sans devoir faire confiance à la
-plate-forme qu’ils utilisent. Certains services, tels que Skype, ont
-[prétendu](https://support.skype.com/en/faq/fa10983/what-are-p2p-communications)
-offrir un chiffrement global, il n’en est rien. Afin que le chiffrement
-global soit sécurisé, les utilisateurs doivent pouvoir vérifier que la
-crypto clé grâce à laquelle ils chiffrent les messages appartient à la
-personne à laquelle ils croient qu’elle doive appartenir. Si le logiciel
-de communication ne dispose pas de cette capacité intégrée, tout
-chiffrement utilisé peut être intercepté par le prestataire du service lui-même, par
-exemple, si un gouvernement l’y oblige.
+Data encryption requires a certain effort, but it is the only method users can ensure that their communications remain secret and allows them to have confidence in the platforms they use.  Certain services, like Skype, [claim](https://support.skype.com/en/faq/FA31/does-skype-use-encryption?q=data+encryption) to offer comprehensive encryption, but it is not really so.  In order for the encryption to truly be secure, users have to have the power to verify that the crypto key being used to encode the messages is available only to the person or people it is supposed to be available to, and nobody else.  If the application does not have this built-in capacity, all encryption can be intercepted by the service provider itself (if a government requests the information, for example).
 
-Vous pouvez lire le livre blanc sur la Liberté d’Expression de la
-Fondation, [Travaux de
-Chiffrement](https://pressfreedomfoundation.org/encryption-works) afin
-d’obtenir des instructions détaillées sur la manière d’utiliser le
-chiffrement global pour protéger les messages instantanés et les
-e-mails. Assurez-vous de consulter également les modules suivants
-d’Autoprotection Digitale contre la Surveillance :
+You can read the white paper ["Encryption Works"](https://cavallette.noblogs.org/files/2013/09/encryption_works.pdf) from the Freedom of the Press Foundation to get detailed instructions about how to use encryption to protect instant messages and emails.  Make sure to also consult the following modules about self-protection from digital surveillance:
 
--   [Introduction à la Cryptographie à Clé Publique et
-    PGP](/en/module/introduction-public-key-cryptography-and-pgp)
--   [Instructions d’utilisation d’OTR pour
-    Windows](/en/module/how-use-otr-windows)
--   [Instructions d’utilisation d’OTR pour
-    Mac](/en/module/how-use-otr-mac)
+-   [Introduction to Public Key Cryptography and PGP](/en/module/introduction-public-key-cryptography-and-pgp)
+-   [How to Use OTR on Windows](/en/module/how-use-otr-windows)
+-   [How to Use OTR on Mac](/en/module/how-use-otr-mac)
 
 
-Appels Vocaux
+Voice Calls
 -------------
 
-Lorsque vous réalisez un appel d’un téléphone fixe ou portable, votre
-appel n’est pas chiffré dans son intégralité. Si vous utilisez un
-téléphone portable, votre appel peut être (faiblement) chiffré entre le
-combiné et les antennes-relais. Cependant, si votre conversation voyage
-sur le réseau téléphonique, elle est vulnérable à toute interception par
-votre prestataire de téléphonie et, en conséquence, aux gouvernements et
-organisations qui contrôlent votre compagnie téléphonique. La manière la
-plus facile d’assurer que vos conversations vocales sont globalement
-chiffrées est d’utiliser VoIP.
+When you call somebody, whetheer from a landline or cell phone, your call is not encrypted in its entirety.  If you use a cell phone, your call can be (weakly) encrypted between the handset and relay antennas.  However, if your call travels over the phone network, it is vulnerable to interception from your service provider and thus, by governments and organizations that regulate and inspect the phone company.  The easiest way to ensure your conversations are encrypted is to use VoIP.
 
-Méfiez-vous! Les prestataires les plus célèbres de VoIP, tels que Skype
-et Google Hangouts, offrent le chiffrement du
-transport afin que les espions ne puissent pas écouter, mais *les prestataires
-sont toujours à même de le faire*. En fonction de votre modèle de
-menace, ceci peut constituer ou non un problème.
+Use caution!  The most well known providers of VoIP, such as Skype and Google Hangouts, offer encryption that prevents outside spies from listening to your conversation, but *the provider itself can still listen to your conversation*.  Depending on the nature of your threat, this may or may not be a problem.
 
-Certains services qui offrent des appels VoIP globalement chiffrés
-comprennent :
+Certain services that offer complete VoIP encryption include:
 
 -   [Ostel](https://ostel.co/)
 -   [RedPhone](/en/module/how-use-redphone-android)
 -   [Silent Phone](https://silentcircle.com/services#mobile)
--   [Signal pour
-    iPhone](/en/module/how-use-signal-%E2%80%93-private-messenger)
--   [Signal pour Android](https://ssd.eff.org/fr/node/93)
+-   [Signal for iPhone](/en/module/how-use-signal-%E2%80%93-private-messenger)
+-   [Signal for Android](https://ssd.eff.org/fr/node/93)
 
-Afin de maintenir des conversations VoIP globalement chiffrées, les deux
-parties doivent utiliser le même logiciel (ou un logiciel compatible).
+In order to have conversations completely encrypted by VoIP, the two parties need to use the same program (or compatible programs).
 
-
-Messages de Texte
+Text Messages
 -----------------
 
-Les SMS n'offrent pas un chiffrement de bout en bout. Si vous voulez envoyer des SMS chiffrés sur votre
-téléphone, il vous faudra utiliser une application de messagerie
-instantanée chiffré au lieu du SMS.
+SMS does not provide an end-to-end encryption solution.  If you would like to send encrypted text messages from your telephone, you need to use an encrypted instant messaging application, instead of SMS.
 
-Quelques applications de messagerie instantanée chiffrées utilisent leur propre protocole. 
- - Les utilisateurs de [Signal](https://ssd.eff.org/fr/node/61/) sur Androïde et iOS peuvent parler de manière sécurisé avec les autres utilisateurs du programme.
- -  [ChatSecure](https://ssd.eff.org/fr/node/51) est une application qui chiffre vos conversations avec OTR sur tous types de réseaux utilisant XMMP, ce qui veut dire que vous pouvez choisir un grand nombre de services de messagerie indépendants.
+Some encrypted instant messaging applications use their own protocol.
+ - Users of [Signal](https://ssd.eff.org/fr/node/61/) on Android and iOS can talk in a secure manner with other users of the program
+ -  [ChatSecure](https://ssd.eff.org/fr/node/51) is an application that encrypts your conversations with OTR on all types of networks that use XMPP, meaning you can choose from a wide array of independent messaging services.
 
-Messages Instantanés
+Instant Messaging
 --------------------
 
-- Off-the-Record (OTR) est un protocole de chiffrement pour les conversations via texte en temps réel, qui peut être utilisé
-avec de nombreux services.
+- Off-the-Record (OTR) is a protocol to encrypt text conversations in real time, and can be used with numerous services. 
 
-Certains outils qui incorporent OTR à la messagerie instantanée
-comprennent :
+Some tools that incorporate OTR in their instant messaging include:
 
--   [Pidgin](https://ssd.eff.org/fr/module/instructions-utiliser-otr-pour-windows) (pour Windows ou Linux)
--   [Adium](https://ssd.eff.org/fr/node/40/) (pour OS X)
--   [ChatSecure](https://ssd.eff.org/fr/node/51/) (pour iPhone et Android)
+-   [Pidgin](https://ssd.eff.org/fr/module/instructions-utiliser-otr-pour-windows) (for Windows or Linux)
+-   [Adium](https://ssd.eff.org/fr/node/40/) (for OS X)
+-   [ChatSecure](https://ssd.eff.org/fr/node/51/) (for iPhone and Android)
 
 
 E-mails
 -------
+The majority of email providers let you access your emails using a web browser, like Chrome or Firefox.  The vast majority provide support for HTTPS, or the encryption layer.  You can tell if your email provider accepts HTTPS if you connect to it by using a URL that starts with HTTPS:// instead of HTTP:// (for example: <https://mail.google.com> is the URL for gmail).
 
-La plupart des prestataires de services de courrier vous permet d’avoir accès à vos e-mails en utilisant un navigateur Web, comme Firefox ou Chrome. La grande majorité de ces prestataires fournit
-un support pour HTTPS ou chiffrement de la couche de transport.  
-Vous pouvez savoir si votre prestataire de services de courrier admet
-HTTPS si vous vous connectez à votre messagerie Web et l’URL en haut de votre navigateur commence par les lettres HTTPS au lieu de HTTP (par exemple : <https://mail.google.com>).
+If your service provider accepts HTTPS, but is not the default setting, try to replace HTTP with HTTPS in the URL, and refresh the page.  If you want to ensure that you always use HTTPS on available sites, download [the HTTPS Everywhere extension](https://www.eff.org/https-everywhere) for Firefox or Chrome.
 
-Si votre prestataire de services de courrier admet HTTPS, mais pas par
-défaut, tâchez de remplacer HTTP par HTTPS dans l’URL et actualisez la
-page. Si vous souhaitez vous assurer que vous utilisez toujours HTTPS
-sur les sites où il est disponible, téléchargez [l’accessoire pour
-navigateur HTTPS Everywhere](https://www.eff.org/https-everywhere) pour Firefox ou Chrome.
+Certain email providers use HTTPS by default, including:
 
-Certains prestataires de messagerie Web utilisant HTTPS par défaut,
-comprennent :
-
--   GMail
+-   Gmail
 -   Riseup
 -   Yahoo
 
-Certains prestataires de messagerie Web vous offrent l’option d’utiliser HTTPS par défaut en le sélectionnant dans vos paramètres. Le service le plus célèbre offrant toujours cette option est Hotmail.
+Several others offer the option to use HTTPS by default in the settings.  Hotmail is the most well-known service with this approach.
 
-Quelles sont les conséquences du chiffrement de la couche de transport
-et pourquoi seriez-vous susceptible d’en avoir besoin ? HTTPS, également dénommé SSL (Couche de Connexion Sécurisée) ou TLS (Sécurité de la Couche de Transport), chiffre vos communications de manière à ce que
-personne d’autre ne puisse les lire sur votre réseau. Ceci peut faire
-référence aux autres personnes utilisant le même Wi-Fi dans un aéroport ou café, les autres personnes dans votre bureau ou école, les
-administrateurs de votre Prestataire de Services Internet, les pirates
-informatiques malveillants, les gouvernements ou les agents du maintien de l’ordre. Les communications envoyées sur votre navigateur Web, y compris les pages Web que vous visitez et le contenu de vos e-mails, les publications sur les blogs et les messages, en utilisant HTTP au lieu de  HTTPS sont futiles aux yeux d’un attaquant au moment d’être interceptées et lues.
+What are the consequences of encryption of the transport layer, and why might you need it?  HTTPS, also known as SSL (Secure Sockets Layer) or TLS (Transport Layer Security), encrypts your messages in a way that prevents anybody else from reading them on your network.  This can mean people using the same WiFi in an airport or café, other people in your office or school, administrators of your internet service provider, malicious internet pirates, governments, or law-enforcement officers.  If you use HTTP instead of HTTPS, attackers can intercept and view your search history, the content of your emails, blog posts, messages, etc...
 
-HTTPS est le niveau le plus basique de chiffrement de navigation Web que nous vous recommandons. Aussi élémentaire que
-mettre votre ceinture de sécurité lorsque vous conduisez.
+HTTPS is the most basic level of encryption that we recommend for navigating the Web.  It is as elementary as putting on your seatbelt when you drive.
 
-Mais HTTPS ne peut pas tout faire. Lorsque vous envoyez des e-mails en
-utilisant HTTPS, votre prestataire de services de courrier obtient
-toujours une copie non chiffrée de votre communication. Les
-gouvernements et les agences du maintien de l’ordre peuvent avoir accès
-à ces données grâce à un mandat. Aux États-Unis, la plupart des
-prestataires de services de courrier possède une politique conformément
-à laquelle ils doivent porter à votre connaissance toute requête de vos
-données d’utilisateur provenant du gouvernement, étant donné qu’ils y
-sont légalement autorisés, mais ces politiques sont strictement
-volontaires et, dans bon nombre de cas, les prestataires sont légalement
-empêchés d’informer les utilisateurs de cette requête de données.
-Certains prestataires, comme Google, Yahoo et Microsoft, publient des
-comptes rendus sur la transparence, en y détaillant le nombre de
-requêtes de données des utilisateurs qu'ils reçoivent en provenance du
-gouvernement, quels pays présentent ces requêtes et la fréquence avec
-laquelle la compagnie a respecté ces requêtes en remettant ces données.
+But HTTPS cannot do everything.  When you send emails using HTTPS, your email provider still gets a non-encrypted copy of the message.  Governments and law enforcement organizations can get access to this data with a warrant.  In the United States, the majority of email providers have a policy of informing you any time there is a request from the government for your data.  But these policies are strictly voluntary and, in many cases, the providers are legally prohibited from informing you of a request.  Some providers, like Google, Yahoo, and Microsoft publish full transparency reports, in which they state the number of data requests that they received from governments, the countries these requests originated from, and the frequency with which the country complied with the request and released data.
 
-Si votre modèle de menace comprend un gouvernement ou une agence du maintien de l’ordre, ou que vous ayez d’autres raisons de vous assurer que votre prestataire ne peut pas remettre les contenus de vos communications par e-mail à un tiers, vous pouvez envisager d’utiliser le chiffrement global pour vos communications par e-mail.
+If your threat model includes a government or law-enforcement agency, or you have other reasons to assure that your provider cannot share the contents of your communication with a third-party, you may want to consider comprehensive encryption software for your emails.
 
-PGP (Pretty Good Privacy/Confidentialité Plutôt Bonne) est le standard de chiffrement global de votre courrier. Correctement utilisé, il  offre un protection très forte à vos communications. Afin d’obtenir des instructions détaillées sur la manière d’installer et d’utiliser le chiffrement PGP de votre courrier, cf. :
+PGP (Pretty Good Privacy) is the standard encryption software for your emails.  Correctly used, it offers very strong protection for your communications.  For detailed instructions on how to install and use PGP encription for your email, see:
 
--   [Instructions d’utilisation de PGP pour Mac OS
-    X](/en/module/how-use-pgp-mac-os-x)
--   [Instructions d’utilisation de PGP pour
-    Windows](/en/module/how-use-pgp-windows-pc)
--   [Instructions d’utilisation de PGP pour
-    Linux](/en/module/how-use-pgp-linux)
+-   [How to use PGP on Mac OSX](/en/module/how-use-pgp-mac-os-x)
+-   [How to use PGP on Windows](/en/module/how-use-pgp-windows-pc)
+-   [How to use PGP on Linux](/en/module/how-use-pgp-linux)
 
 
-## Ce que le chiffrement global ne peut pas faire
+## What Comprehensive Encryption Cannot Do
+Global encryption exclusively protects the content of your communications, not the communication data itself.  It does not protect your meta-data.  That means that other data (such as the subject of the email, who it is sent to, and when it is sent) can still be collected.
 
+Meta-data can provide extremely revealing and valuable information about you, even when the content of your communications remains secret.
 
-Le chiffrement global protège exclusivement le contenu de vos
-communications, non les communications en elles-mêmes. Il ne protége pas vos méta-données —c’est-à-dire tout le reste, y compris l’objet de votre e-mail, ou la personne avec qui vous communiquez et quand.
+Meta-data relating to your phone calls can divulge certain sensible and private information. For example:
 
-Les métadonnées peuvent fournir des informations extrêmement
-révélatrices vous concernant, même lorsque le contenu de vos
-communications demeure secret.
+-  It can tell that you called a phone-sex service at 2:24 am and were on the phone for 18 minutes, but cannot tell what you talked about.
+-  It can tell that you called a suicide hotline from the Golden Gate Bridge, but the subject of your call remains secret.
+-  It can tell that you called an HIV testing service, then your doctor, then your health insurance company all in one hour, but it doesn't know what you discussed.
+-  It knows that you received a call from the NRA while it was running a campaign against anti-gun legislation, and that you called your senators and representatives in Congress immediately afterward, but the content of these calls remains secure against surveillance.
+-  It can tell that you called a gynecologist, talked for a half hour, then called Planned Parenthood later in the day, but nobody can tell what you talked about.
 
-Les métadonnées relatives à vos appels téléphoniques peuvent divulguer
-certaines informations très intimes et sensibles. Par exemple :
+If you call using a cell phone, *location information is included in the meta-data*.  In 2009, Malte Spitz, a Green Party politican, sued German company Deutsche Telekom to get all the information the company knew about him.  He then sent the information to a Germany newspaper.  The [resulting visualization](http://www.zeit.de/datenschutz/malte-spitz-data-retention/) illustrates in incredible detail Spitz's movements over those six months.
 
--   Elles savent que vous appelé un service de sexe par téléphone à 2
-    heures 24 et parlé pendant 18 minutes, mais elles ne savent pas de
-    quoi vous avez parlé.
--   Elles savent que vous appelé la ligne directe pour la prévention des
-    suicides du haut du Golden Gate Bridge, mais le sujet de votre appel
-    demeure secret.
--   Elles savent que vous avez parlé avec un service de test VIH, puis à
-    votre médecin, et enfin à votre compagnie d'assurance santé la même
-    heure, mais elles ne savent pas de quoi vous avez discuté.
--   Elles savent que vous avez reçu un appel du bureau local de
-    l’Association Nationale des Fusils lorsqu’elle menait une champagne
-    contre la législation anti-pistolets, puis qu’elle a appelé les
-    sénateurs et les représentants au congrès immédiatement après, mais
-    le contenu de ces appels demeure sécurisé contre l’intrusion
-    du gouvernement.
--   Elles savent que vous appelé un gynécologue, parlé pendant une
-    demi-heure, puis appelé la Planification Familiale plus tard dans la
-    journée, mais personne ne sait ce dont vous avez parlé.
+Protecting your meta-data requires the usage of other tools, such as [Tor](/en/module/how-use-tor-windows#overlay=en/node/57/), with global encryption.
 
-Si vous appelez d’un téléphone portable, *les informations concernant
-votre position consistent en des métadonnées*. En 2009, Malte Spitz,
-politicien du Parti Écologiste, attaqua Deutsche Telekom en justice afin
-de la forcer à remettre six mois de données stockés sur son téléphone,
-qu’elle avait rendu disponibles à un journal allemand. La visualisation
-[en
-résultant](http://www.zeit.de/datenschutz/malte-spitz-data-retention/)
-démontra un historique détaillé des mouvements de Spitz.
+In order to visualize the manner in which Tor and HTTPS work together to protect your communications and meta-data against potential attacks, you can see [this explanation](https://www.eff.org/pages/tor-and-https).
 
-Protéger vos métadonnées requerra d’utiliser d’autres outils, comme
-[Tor](/en/module/how-use-tor-windows#overlay=en/node/57/), avec le
-chiffrement global.
-
-Afin de visualiser un exemple de la manière dont Tor et HTTPS travaillent ensemble à la protection du contenu de vos communications et métadonnées contre de nombreux attaquants potentiels, vous pouvez
-consulter [cette explication](https://www.eff.org/pages/tor-and-https).
-
-Texte original publié sur https://ssd.eff.org/fr/playlist/souhaitez-vous-un-pack-de-s%C3%A9curit%C3%A9-pour-d%C3%A9butants#communiquer-avec-les-autres sous licence CC by.
+Text originally published on https://ssd.eff.org/fr/playlist/souhaitez-vous-un-pack-de-s%C3%A9curit%C3%A9-pour-d%C3%A9butants#communiquer-avec-les-autres under CC BY license.
