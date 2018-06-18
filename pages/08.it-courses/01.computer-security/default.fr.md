@@ -53,8 +53,6 @@ La plupart de vos services en ligne (mail, compte Facebook, Twitter, Skype, Inst
   * Th$jHTo%46 : **court** et **difficile** à retenir
   * J'entends le son des cloches le long des pâturages verdoyants : **facile à retenir** et très **difficile à deviner** pour un attaquant
 
-<small>Le site [xkcd](http://www.lirmm.fr/~gambette/xkcd/index.php?noprocess&id=936) explique en quelques cases pourquoi les phrases de passe sont à utiliser plutôt que les mots de passe.</small>
-
 ### Utilisez une phrase de passe différente par service
 Il ne sert à rien d'avoir une longue phrase de passe si vous utilisez cette phrase pour protéger tous vos services en ligne. Si l'un de vos services est compromis, et [cela arrive parfois](http://www.pcinpact.com/news/63924-sony-pictures-lulzsec-piratage-mots-de-passe-vol-donnees.htm), tous vos comptes en ligne sont compromis. Il est donc crucial d'utiliser une phrase de passe différente par service.
 
