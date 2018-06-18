@@ -1,12 +1,12 @@
 ---
-title: 'Installation and configuration of tablets'
+title: 'Tablet Installation and Configuration'
 ---
 
-Tablets are pre-configured in the Ideas Box. However, last-minute requirements may be raised on-site.
+Tablets from the Ideas Box come pre-configured. However, last-minute needs may arise on-site. 
 
-You must therefore be responsive!
+You must therefore be responsive to these needs!
 
-**It is very strongly recommended that you use a computer with Linux for all operations described below.**
+>>>>**We strongly recommend that you use a computer with Linux for all operations described below.**
 
 ## Installation
 
