@@ -60,17 +60,15 @@ Exercise: How many 3 MB files can I put on a 2 GB USB drive?  On a 1 TB external
 
 ## Storage Devices
 
-Talk about the need for backups, by underlining the fragility of hard drives because of the speed of their roation.  Explain the difference between magnetic storage (memory card, USB drive, etc.) and 
+Talk about the need for backups, by underlining the fragility of hard drives because of the speed of their roation.  Explain the difference between magnetic storage (memory card, USB drive, etc.) and storage decks (hard drive made up of several turntables).
 
-Parler de la nécessité des sauvegardes, en remettre une couche sur la fragilité des disques durs en raison de leur vitesse de rotation. Expliciter la différence entre stockage magnétique \(carte mémoire, clef usb, \) et stockage sur plateau \(disque dur qq soit sa taille\).
+## Networks
 
-## Réseau
+Explain the logic of the client-server relationship.  Explain that the internet is a gigantic network, on a global scale, but also a network where clients ask questions of servers using protocols.
 
-Expliquer la logique client-serveur. Expliquer qu'internet est un réseau gigantesque, à l'echelle mondiale, mais un réseau où des clients posent des questions à des serveurs en utilisant des protocoles.
+Talk about IP: what is an address, what is a subnet mask, what is a bridge?  Bring up Fixed IPs and DHCP.
 
-Parler d'IP : qu'est-ce qu'une adresse, qu'est-ce qu'un masque de sous reseau et qu'une passerelle. Evoquer adresse ip fixe ou DHCP.
-
-Parler de wifi vs ethernet, de satellite vs fibre, de 2G vs 3G ... mais c'est toujours un mode de connexion à un réseau, quel que soit le media utilisé.
+Talk about WiFi vs. ethernet, satellite vs. fiber, 2G vs. 3G.  All are a way to connect to a network, regardless of the method and tools used.
 
 ## Conclusion
 
