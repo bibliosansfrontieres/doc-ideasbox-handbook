@@ -117,7 +117,7 @@ A circuit protector protects against an overcurrent or circuit overload, and can
 
   ![](switch3.jpeg)
 
-With the new model (that has electricity in the blue model), this switch lets you easily select how much poweris supplied to the module.  You can choose to have the module supplied by the main power supply (220v) or the battery (12v).
+With the new model (that has electricity in the blue model), this switch lets you easily select how much power is supplied to the module.  You can choose to have the module supplied by the main power supply (220v) or the battery (12v).
 
 ---
 
