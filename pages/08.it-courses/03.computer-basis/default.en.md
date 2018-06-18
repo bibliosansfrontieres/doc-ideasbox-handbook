@@ -1,67 +1,66 @@
 ---
-title: 'Les bases de l''informatique'
+title: 'Computing Basics'
 ---
 
-## Intro :
+## Intro
 
-Humilité : on ne peut pas tout savoir. L'idée est pas de ne tout savoir, mais de connaître les bases pour pouvoir aller chercher l'information.
+Humility: One cannot know everything.  The idea is not to know everything, but to understand the basics to be able to search for information.
 
-Demander à chacun de définir son niveau : qui a déjà utilisé un ordinateur, une clef usb, Intenet,
-
-* qui a déjà installé un ordinateur sous windows ?
-
-## Présentation d'un ordinateur :
-
-* Faire comprendre que c'est un ensemble de composants et de périphériques, écran, clavier, souris, alimentation...différence fixe/portable, montrer le serveur et ses différentes interfaces. 
-* Montrer une prise usb, un câble VGA, un câble réseau, un bloc d'alimentation. 
-* Expliquer ce que contient un ordinateur : carte mère, disque dur, RAM.... .
-
-## Expliquer différence OS / application
-
-* Q: citez des applications \(une appli chacun si tout le monde est familier de l'ordinateur, sinon non, ne pas enfoncer les débutants en public !\).
-
-  * R : office, Firefox, ...traitement de texte, navigateur internet, jeu vidéo... . 
-
-* Q: quels sont les OS que vous connaissez ?
-
-  * R : ajouter tous les autres : Android, freebsd... Les tablettes sont des ordinateurs sous un OS Android. 
-
-* Q: quelles versions de Windows connaissez-vous ?
+Ask everyone to describe their level: who has already used a computer? a usb drive? the internet?
+* how has set up a computer using windows?
 
 
-## Expliquer ce qu'est un fichier
+## Computer Introduction:
 
-Une application est un fichier, mais simplement qu'on peut éxécuter.
+* Help people understand that it is a collection of components and devices, screen, keyboard, mouse, power.  The difference between fixed and portable, show them the server and its different interfaces.
+* Show a USB plug, a VGA connector, a network cable, a power block 
+* Explain what the computer contains: motherboard, hard drive, RAM, etc...
 
-Certains fichiers peuvent être ouverts avec les applications livrées avec l'OS, mais d'autres nécessitent une application spécifique pour être ouverts.
+## Explain the Difference Between OS and Applications
 
-Montrer les extensions de fichiers : .txt, .doc, .docx, .avi
+* Ask them: Name some applications (one app each if everyone is familiar with the computer.  Otherwise, do not push beginners in a public setting!).
 
-## Expliquer la différence entre kilo octets et méga/giga octets.
+  * Possible Responses: Office, Firefox, ... word processor, internet browser, video game... . 
 
-MO ou Mo = Mega Octet \(Version Francaise\)  
-MB = Mega Byte \(Version Anglaise ou US\)
+* Question: What are the Operating Systems that you know?
 
-1Mo = 1MB
+  * Response: Add the others that they don't know (Android, freebsd, etc...).  The tablets are computers with an Android operating system.
 
-1024 ko = 1 mo, 1024 mo = 1go, 1024 Go = 1to.
-
-Attention, il ne faut pas confondre MB \(MegaBytes\) et Mb \(MegaBits\). Sur la plupart des systèmes, un MegaByte est composée de 8 bits, ce qui signifie que :  
-1Mo = 1MB = 8Mb
-
-Les débits internet sont donnés en mbits et doivent donc être divisés par 8 pour avoir des méga octets.
-
-### Exercice :
-
-* Q : j'ai une connexion de 256 kbit/s et je veux télecharger une vidéo de 20 mo. Combien de temps ça prend ? 
-  * R : 256/8 = 32 ko/s soit 32 s pour télécharger un Mo. Il me faudra donc : 32 x20 = 640 secondes pour télécharger le fichier soit 10 mn de temps. 
+* Question: What versions of Windows do you know?
 
 
-Parler des systèmes de fichiers : FAT32, NTFS, extfs... .
+## Explain What Files ARe
 
-Exercice : combien de fichiers de 3 Mo puis-je mettre sur une clef usb de 2 Go ? Sur un dd externe de 1 To ?
+An application is a file, just one that you can execute or run.
 
-## Périphériques de stockage
+Certain files can be opened with applications included with the operating system, but others need a specific application to be opened.
+
+Show and explain the different file extensions: .txt, .doc, .docx, .avi
+
+## Explain the Difference Between Kilobytes, Megabytes, and Gigabytes  
+
+MB = Megabyte
+
+1024 KB = 1 MB, 1024 MB = 1GB, 1024 GB = 1TB
+
+>>>>Do not confuse MB (Megabytes) and Mb (megabits).  In the majority of systems, a Megabyte is composed of 8 bits, which means that 1MB=8Mb.
+
+Internet speed is given in Megabits and can be divided by 8 to determine the speed in Megabytes.
+
+
+### Exercise:
+
+* Q : I have a connection at 256 kbits/s and I wand to download a 20 MB video.  How much time will it take?
+  * R : 256/8 = 32 KB/s or 32 s to download 1 MB. It will thus take me: 32 x 20 = 640 seconds to download the file, or 10 minutes and 40 seconds.
+
+Talk about file systems: FAT32, NTFS, extfs, etc...
+
+Exercise: How many 3 MB files can I put on a 2 GB USB drive?  On a 1 TB external drive?
+
+
+## Storage Devices
+
+Talk about the need for backups, by underlining the fragility of hard drives because of the speed of their roation.  Explain the difference between magnetic storage (memory card, USB drive, etc.) and 
 
 Parler de la nécessité des sauvegardes, en remettre une couche sur la fragilité des disques durs en raison de leur vitesse de rotation. Expliciter la différence entre stockage magnétique \(carte mémoire, clef usb, \) et stockage sur plateau \(disque dur qq soit sa taille\).
 
