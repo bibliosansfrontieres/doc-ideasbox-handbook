@@ -10,7 +10,7 @@ Size: 15.6"
 Screen resolution: 1366 x 768 (HD)
 CPU: Intel Core i3 (6th gen) 6006U / 2.2 GHz / 3 Mo Cache
 RAM: 4 Gb or 8Gb
-Hard Disk Drive: 500Gb / 5400t/min -- or 256Gb M.2 SATA SSD Class 20
+Hard Disk Drive: 500Gb / 5400t/min - or 256Gb M.2 SATA SSD Class 20
 Optical Drive: DVD+RW
 Graphic card: Intel HD Graphics 520
 Ports:

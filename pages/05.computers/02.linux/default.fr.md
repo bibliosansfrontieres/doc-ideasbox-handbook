@@ -21,13 +21,13 @@ Il existe trois sessions utilisateurs.
 
 ### La session invité
 
-*La session invité* est destinée aux utilisateurs.
+**La session invité** est destinée aux utilisateurs.
 
-Parmi ses caractéristiques, cette session est amnésique : à l'ouverture de session, c'est une session toute neuve qui est recréée d'après un modèle, et elle est effacée dès sa fermeture. CEla permet de ne pas avoir à se soucier des éventuelles informations laissées par chaque utilisateur (documents personnels, connexions aux comptes sur des sites web, ...).
+Parmi ses caractéristiques, cette session est amnésique : à l'ouverture de session, c'est une session toute neuve qui est recréée d'après un modèle, et elle est effacée dès sa fermeture. Cela permet de ne pas avoir à se soucier des éventuelles informations laissées par chaque utilisateur (documents personnels, connexions aux comptes sur des sites web, ...).
 
 ### La session `ideasbox`
 
-*La session `ideasbox`* est celle qui sert de modèle à la session `invité`.
+**La session `ideasbox`** est celle qui sert de modèle à la session `invité`.
 
 Toutes les personnalisations qui y seront effectuées se verront répliquées dans la session `invité` : fond d'écran, raccourcis, etc.
 
@@ -37,11 +37,11 @@ Le login est `ideascube`, le mot de passe est communiqué à la demande par BSF.
 
 ### La session `Admin`
 
-Cette session `Admin` sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
+**La session `Admin`** sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
 
 Elle n'est utilisée que par des techniciens, en cas de problème.
 
-Le login est `bsfadmins`, mais on préfère créer une session déddiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
+Le login est `bsfadmins`, mais on préfère créer une session dédiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
 
 ### Voir aussi
 
@@ -50,7 +50,7 @@ Le login est `bsfadmins`, mais on préfère créer une session déddiée pour le
 
 ## Les logiciels
 
-La liste des logiciels généralement installés figure dans le playbook](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/software/tasks/main.yml).
+La liste des logiciels généralement installés figure dans [le playbook](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/software/tasks/main.yml).
 
 Y figurent des logiciels de bureautique, création d'image, montage vidéo, retouche photo, édition musicale, programmation, découverte, mais aussi des jeux.
 
