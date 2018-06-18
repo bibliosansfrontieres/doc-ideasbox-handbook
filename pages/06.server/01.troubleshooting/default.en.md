@@ -1,8 +1,6 @@
 ---
-title: Troubleshooting
+title: 'Troubleshooting the Server'
 ---
-
-# Troubleshooting the Server
 
 ##The server doesn't turn on
 **Symptom**: the server doesn't turn on when you press the button 
