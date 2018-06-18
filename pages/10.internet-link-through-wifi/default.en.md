@@ -1,49 +1,48 @@
 ---
-title: 'Lien Internet Radio (ubiquiti)'
+title: 'Wireless/Radio Internet Connection (Ubiquiti)'
 ---
 
-Les antennes Wifi Ubiquiti permettent d'établir des liaisons sans fil. 
-Elles supportent 3 modes de fonctionnement 
+Ubiquiti WiFi antennas allow you to establish wireless connections.
+They support 3 operation modes:
+
 - Station
 - Acces point
 - AP-Repeater
 
-Dans notre contexte nous utiliseront nos antennes wifi en mode **Access-Point** et **Station** afin de créer une liaison wifi entre 2 antennes permettant de distribuer Internet sur une longue distance.
+In our context, we use WiFi antennas in the **Access Point** and **Station** modes, in order to create a WiFi connection between two antennas that can distrbute the internet across a large area.
 
-**Avant tout déploiement il est absoluement nécessaire de faire une étude de faisabilité pour avoir une rapide idée de ce que l'on sera capable de faire.**
+>>>>>**Before any deployment, it is absolutely necessary to conduct a feasibility study to have a quick overview of what the hardware will be able to do.**
 
-L'essentiel est de baser son étude sur des photos prises entre le point A et le point B afin de déterminer si un lien direct peut être établie. C'est certainement l'étape la plus importante ! 
+The key is to base your study on photos taken between point A and point B to determine if a direct link can be established.  This is certainly the most important step!
 
-Ensuite il est [possible de calculer les pertes en dB](https://www.pasternack.com/t-calculator-fspl.aspx) entre deux antennes si l'on connait le gain de l'antenne, la distance entre les deux points et la fréquence utilisé. Par exemple un arbre situé entre les deux antennes fera chuté la puissance du signal de 5dB...
+Next, it is [possible to calculate the loss in dB](https://www.pasternack.com/t-calculator-fspl.aspx) between two antennas if you know the antenna gain, the distance between two points and the frequency used.  For example, a tree situated between the two antennas will decrease the signal power by 5dB.
 
-Tout d'abord, [utilisez AirLin](https://airlink.ubnt.com/), un outil en ligne distribué par Ubiquiti afin de vérifier la distance entre votre point A et votre point B. Le logiciel vous donnera également une indication sur l'élévation du terrain et la hauteur à prévoir pour le mat supportant l'antenne.
-Vérifier également sur [GeoPortail](http://www.geoportail.gouv.fr) si le déploiement est France vous aurez ainsi accès à l'altitude de vos lieux d'installation, c'est toujours bien de recouper l'information.
-Sinon sur Google Maps ou Open Street Maps pour avoir une petite idée des batiments qui pourrait se trouver sur le chemin des antennes.
+[Use AirLin](https://airlink.ubnt.com/), an online too distributed by Ubiquiti in order to verify the distance between point A and point B.  The software will also give you an indication of the elevation of the terrain and the height necessary for the mast supporting the antenna.
+You can also check with [GeoPortail](http://www.geoportail.gouv.fr). If the Ideas Box will be deployed in France, you will have access to the altitude of your installation site.  It is always good to cross-check the information.  If not, use Google Maps or Open Street Maps to get an idea of buildings which could be located between the antennas.
 
-Pour bien fonctionner, vos antennes doivent "se voir". Il est donc essentiel de pouvoir les places à bonne hauteur. Si un batiment se trouve entre les deux antennes, il est fort possible que le lien ne puisse être fait.
+In order to function well, the antennas need to "see eachother."  It is thus essential to place them at a good height.  If a building is located between the antennas, it is very possible that the connection will not be able to be established.
 
-Si vous ne pouvez pas vous déplacer sur le terrain. Discutez avec votre partenaire pour qu'il vous fournisse un maximum d'informations.
-- Coordonnées GPS du point A et point B
-- Altitude des deux point de déploiement 
-- Nature des batiments au point A et B (local, maison, immeuble, combien d'étage, peut accrocher l'antenne quelque part, peut-on poser un mat, etc.)
-- Il y a t-il des batiments haut entre le point A et le point B ? 
-- Est ce que l'antenne peut être placé plus haut que ces batiments ? 
-
+If you cannot visit the location yourself, discuss the site with your partners to get as much information about it as possible, such as:
+- GPS coordinates of point A and point B
+- Altitude of the two points
+- Nature of the buildings around point A and B (local, house, appartment building, number of floors, can you attach the antenna somewhere, can you mount the antenna, etc...)
+- Are there tall buildings between point A and point B?
+- Can the antenna be placed higher than these buildings?
 
 
-![Type d'antenne utilisé](serveimage.jpeg)
+![Type of antenna used](serveimage.jpeg)
 
-##Caractéristique techniques 
-* Modèle : [Nanostation M5](http://www.ldlc.com/fiche/PB00142273.html) 
-* Prix indicatif : 99 €
-* Alimentation : 0.5 A @24V (alimentation fournie)
-* Puissance consommée max : 8W  
-* Gain : 16 dBi
-* Température de fonctionnement : -30 à 75°C  
-* Fréquence de fonctionnement : 5170 - 5875 Hz
-* Largeur de faisceau : 43° (H-pol) / 41° (V-pol) / 15° (Elevation)
+##Technical specifications
+* Model: [Nanostation M5](http://www.ldlc.com/fiche/PB00142273.html) 
+* Guid price: 99 €
+* Power: 0.5 A @24V (power supplied)
+* Max power consumption: 8W  
+* Gain: 16 dBi
+* Temperatures at which antenna can function: -30 à 75°C  
+* Frequencies at which antenna can function: 5170 - 5875 Hz
+* Beamwidth: 43° (H-pol) / 41° (V-pol) / 15° (Elevation)
 
-Les abaques ci-dessous permettent de donner les angles vertical et horizontal couvert par l'antenne wifi. Par exemple on peut remarquer que la "Vertical Elevation" à un angle qui permet d'envoyer les ondes vers le sol plutôt que dans les airs.
+The diagrams below give the vertical and horizontal angles covered by the WiFi antenna.  For example, you can see that the "Vertical Elevation" has an angle that permits it to send the waves towards the ground rather than into the air.
 
 ![](nsm5.png)
 
@@ -51,20 +50,20 @@ Les abaques ci-dessous permettent de donner les angles vertical et horizontal co
 ---
 
 
-## Généralités sur la radio
+## Generalizations about the Radio
 
-*Une radiocommunication est une télécommunication effectuée dans l'espace au moyen d'ondes électromagnétiques. Ces ondes constituent une propagation d'énergie se manifestant sous la forme d'un champ électrique couplé à un champ magnétique.
-L'information est transportée grâce à une modulation constante des propriétés de l'onde, soit son amplitude, sa fréquence, sa phase ou, entre autres, par la largeur d'une impulsion.* (Réf [wikipedia](https://fr.wikipedia.org/wiki/Radiocommunication))
+*A radiocommunication is a telecommunication performed in the air using electromagnetic waves.  These waves constitute a transmission of energy that manifest itself in the form of an electric field couples with a magnetic field.  The information is transported thanks to constant modulation of the properties of the wave (its amplitude, frequency, phase, or wavelength among other things)  See [wikipedia](https://fr.wikipedia.org/wiki/Radiocommunication) for more information.*
 
-**Unités**
-* échelle : hertz
-* largeur de bande : hertz
-* puissances : watt
+**Units**
+* Frequency: hertz
+* Bandwidth: hertz
+* Power: watt
 
-Le réseau wifi fonctionne sur la bande fréquence : 2.4 ghz ou 5 ghz
+The WiFi network functions on the following frequencies: 2.4 ghz or 5 ghz
 
-Il est possible de calculer la porté d'un réseau wifi grâce à la formule suivante :
-$$D = G x P$$
+It is possible to calculate the range of a WiFi network with the following formula:
+
+$$ D = G x P $$
  - D: distance
  - G: Gain de l'antenne en dBi
  - P: Puissance en watt
