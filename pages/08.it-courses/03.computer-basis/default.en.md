@@ -72,5 +72,4 @@ Talk about WiFi vs. ethernet, satellite vs. fiber, 2G vs. 3G.  All are a way to 
 
 ## Conclusion
 
-Vous trouverez des informations sur wikipedia, sur les forums, il n'y a pas de question stupide, le sage est celui qui ne sait pas mais sait où trouver l'information dont il a besoin. L'entraide est fondamentale, on a tous débuté, et souvent un autre point de vue ou une autre méthode de travail permet de résoudre un problème.
-
+You can find information on Wikipedia, or on forums.  There is no such thing as a stupid question.  The wise are those who do not know the answer, but know how to find it.  Working together is essential.  We all started somewhere.  And often another point of view or another style of working lets you solve a problem.
