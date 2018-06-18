@@ -63,109 +63,107 @@ The WiFi network functions on the following frequencies: 2.4 ghz or 5 ghz
 
 It is possible to calculate the range of a WiFi network with the following formula:
 
-$$ D = G x P $$
+**D = G x P**
  - D: distance
- - G: Gain de l'antenne en dBi
- - P: Puissance en watt
- 
-## Configuration et mise en oeuvre
+ - G: Antenna gain in dBi
+ - P: Power in watts
 
-### Matériel à prévoir 
-* Acheter plusieurs adaptateurs passifs - 
-* Ajouter un multimètre (dans la valise à moustaches normalement)
-* ajouter du colson dans la boite (à ajouter dans la valise à moustaches)
-* Amener **PLEINS** de câbles Ethernet
+## Configuration and Implementation
 
-### Première connexion
-Suivez le plan de montage disponible dans la boite de l'antenne. Deux câbles réseaux seront nécessaire au montage.
+### Materials Required
+* Buy several passive adapters 
+* Bring a multimeter (normally in the suitcase)
+* Bring zipties in the box (need to be added to the suitcase)
+* Bring **PLENTY** of Ethernet cables
 
-Au premier lancement l'antenne est acessible à l'adresse [http://192.168.1.20](http://192.168.1.20), vérifiez avant le démarrage de l'antenne que cette adresse IP n'est pas attribué à une autre machine, si cela le cas, cela engendrera un conflit d'adresse IP et votre antenne ne sera pas accessible.
+### First Connection
 
-Une fois connecté au site web, entrez les identifiants par défaut (à changer après la première connexion)
+Follow the assembly instructions included in the antenna box.  Two networking cables will be necessary for assembly.
+
+For the first time you use the antenna, it will be accessible at this address: [http://192.168.1.20](http://192.168.1.20).  Verify before starting up the antenna that this IP address is not attributed to another machine.  If that is the case, this will cause a IP address conflict, and your antenna will not be accessible.
+
+Once connected to this webside, enter the default identifiers (which will be changed after logging in for the first time):
 
 **Login: **ubnt   
-**Mot de passe: **ubnt
+**Password: **ubnt
 
-désactiver https pour l'accès à la console d' admin
+Disactivate https in order to access the admin console.
 
 -----
-**Note sur le protocole AirMax:**  
+
+**Note about the airMAX Protocol:**
 *airMAX is Ubiquiti’s proprietary Time Division Multiple 
-Access ( TDMA) polling technology. airMAX improves 
+Access (TDMA) polling technology. airMAX improves 
 overall performance in Point-to-Point (PtP) and 
 Point-to-MultiPoint (PtMP) installations and noisy 
 environments because it reduces latency, increases 
 throughput, and offers better tolerance against 
 interference.*  
-Ce protocole étant propriétaire nous préférons le laissez désactivé dans la mesure du possible 
+Given that this protocol is proprietary, we prefer to leave it inactive as much as possible. 
 
-**Note sur airView: **  
+**Note about airView: **  
 *Use the airView Spectrum Analyzer to analyze the noise 
 environment of the radio spectrum and intelligently select 
 the optimal frequency to install a PtP airMAX link. *
 
 
-> A chaque changement de configuration, n'oubliez pas de cliquer sur **Apply** pour prendre en compte vos modifications
+>>>>>> Each time the configuration is changed, do not forget to click **Apply** to apply your changes.
 
 
+## First Antenna 
+This is the antenna that will deliver internet access and will thus be connected to the network of networks.
 
-## 1ere antenne 
-Il s'agit de l'antenne qui va délivrer l'accès Internet et qui sera donc connecté au réseau des réseaux.
+### First Tab
+- Uncheck the airMax option\
 
-### Premier onglet
-- Décocher l'option airMax
-
-### Onglet WIRELESS
-La Consommation est d'environ 3 à 4 watts
+### WIRELESS Tab
+The consumption is about 3 to 4 watts.
 
 - **Wireless mode**: Access-Point
-- **Activer WDS**
-- **SSID**: Sélectionner un SSID, celui-ci devra être le même pour les 2 antennes
-- **Country Code**: Chaque pays dispose de sa propre régulation au niveau des normes de radiocommunication. Sélectionnez le pays dans lequel vous déployez cet équiement 
-- **Channel Width** : Séléctionnez `20 Mhz`. Plus ce chiffre est élevé plus la vitesse de transmission des données est élevés. Cependant cette fréquence est également compatible avec le standard wifi utilisé par les appareils mobiles. Enfin il est également possible d'utiliser le paramètre `Auto 20/40Mhz`
-- **EIRP Limit** : Cocher cette case, cela permet de de contraindre l'appareil à suivre les régles définis par le **country code**. Cependant, si vous constater un problème de liaison entre les 2 antennes, décochez le `EIRP Limit` et mettre  à fond le curseur de `output power`, sachez cependant que votre équipement ne respectera plus la loi du pays et que vous exposez vous ou votre partenaires à des poursuites.
-- **Wireless security** : Sélectionnez WPA2 et choisir un mot de passe
-- **Frequency** : choisir 5180. Quand on utilise des antenne en mode relais : choisir 2 fréquences éloignées pour éviter les collusions entre les fréquences
+- **Activate WDS**
+- **SSID**: Select an SSID, which must be the same for the two antennas
+- **Country Code**: Every country uses its own regulations about the standards for radiocommunication.  Choose the country in which you will be deploying the equipment.
+- **Channel Width**:  Choose `20 Mhz`. The higher this number, the faster the transmission of data will be.  However, this frequency is also compatible with the standard WiFi used by mobile devices.  It is also possible to use the parameter: `Auto 20/40Mhz`
+- **EIRP Limit**: Check this box, which will constrain the device to the rules defined by the **country code**.  However, if you have a problem with the connection between the two antennas, uncheck `EIRP Limit` and put the `output power` slider to the bottom.  However, be aware that the equipment no longer is respecting the country's laws and may expose your or your partner to lawsuits.
+- **Wireless security**: Choose WPA2 and choose a password
+- **Frequency**: Choose 5180. When you use antennas in relay mode, choose two distant frequences to avoid interference between the frequencies. 
 
-### Onglet NETWORK
+### NETWORK Tab
 - **Network Mode**: Bridge
-- **Management Network Settings**: 
-  - Static
-  - IP Address : Choisissez une adresse IP disponible sur le réseau et si possible bloquer cette adresse IP dans le serveur DHCP afin qu'elle ne soit pas attribué à une autre machine.     
-**Attention: ** Les 2 bornes wifi devront être sur le même réseau local pour pouvoir communiquer.
+- **Management Network Settings**: Static
+- **IP Address**: Choose an IP address available on the network and, if possible, block this IP adress in the DHCP server so it cannot be attributed to another machine. 
+**Attention: ** The two WiFi terminals have to be on the same network in order to be able to communicate.
 
-### Onglet ADVANCED
-- Instal EIRP Control: Cochez cette case
+### ADVANCED Tab
+- **Instal EIRP Control**: Check this box
 
-## 2nd antenne 
+## 2nd Antenna 
 
-### Onglet WIRELESS
-La Consommation est d'environ 3 à 4 watts
+### WIRELESS Tab
+The consumption is about 3 to 4 watts
 
 - **Wireless mode**: Station
-- **Activer WDS**
-- **SSID**: Sélectionner un SSID, celui-ci devra être le même pour les 2 antennes
-- **Country Code**: Chaque pays dispose de sa propre régulation au niveau des normes de radiocommunication. Sélectionnez le pays dans lequel vous déployez cet équiement 
-- **Channel Width** : Séléctionnez `20 Mhz`. Plus ce chiffre est élevé plus la vitesse de transmission des données est élevés. Cependant cette fréquence est également compatible avec le standard wifi utilisé par les appareils mobiles. Enfin il est également possible d'utiliser le paramètre `Auto 20/40Mhz`
-- **EIRP Limit** : Cocher cette case, cela permet de de contraindre l'appareil à suivre les régles définis par le **country code**. Cependant, si vous constater un problème de liaison entre les 2 antennes, décochez le `EIRP Limit` et mettre  à fond le curseur de `output power`, sachez cependant que votre équipement ne respectera plus la loi du pays et que vous exposez vous ou votre partenaires à des poursuites.
-- **Wireless security** : Sélectionnez WPA2 et choisir un mot de passe
-- **Frequency** : choisir une fréquence éloigné de 5180. Quand on utilise des antenne en mode relais : choisir 2 fréquences éloignées pour éviter les collusions entre les fréquences
+- **Activate WDS**
+- **SSID**: Select the same SSID that you did for the first antenna
+- **Country Code**: Every country uses its own regulations about the standards for radiocommunication.  Choose the country in which you will be deploying the equipment. 
+- **Channel Width** : Choose `20 Mhz`. The higher this number, the faster the transmission of data will be.  However, this frequency is also compatible with the standard WiFi used by mobile devices.  It is also possible to use the parameter: `Auto 20/40Mhz`
+- **EIRP Limit**: Check this box, which will constrain the device to the rules defined by the **country code**.  However, if you have a problem with the connection between the two antennas, uncheck `EIRP Limit` and put the `output power` slider to the bottom.  However, be aware that the equipment no longer is respecting the country's laws and may expose your or your partner to lawsuits.
+- **Wireless security**: Select WPA2 and choose a password
+- **Frequency**: Choose 5180. When you use antennas in relay mode, choose two distant frequences to avoid interference between the frequencies.
 
-### Onglet NETWORK
+### NETWORK Tab
 - **Network Mode**: Bridge
-- **Management Network Settings**: 
-  - Static
-  - IP Address : Choisissez une adresse IP disponible sur le réseau et si possible bloquer cette adresse IP dans le serveur DHCP afin qu'elle ne soit pas attribué à une autre machine.     
-**Attention: ** Les 2 bornes wifi devront être sur le même réseau local pour pouvoir communiquer.
+- **Management Network Settings**: Static
+-  **IP Address**: Choose an IP address available on the network and, if possible, block this IP adress in the DHCP server so it cannot be attributed to another machine.     
+**Attention: ** The two WiFi terminals have to be on the same network in order to be able to communicate.
 
-## Dépannage et conseils
-**Chan IRC** : `#tetaneutral` sur freenode ou `#lqdn`
-guerby    
-**Pour débuguer** : tcpdump ou wiresharkœ + ping
+## Troubleshooting and Advice
+**Chan IRC**: `#tetaneutral` on freenode or `#lqdn` guerby    
+**To debug**: tcpdump or wiresharkœ + ping
 
-## Documents de références : 
+## Reference Documents: 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ubiquiti_Networks)
-- [Page du produit](https://www.ubnt.com/airmax/nanostationm/)
+- [Product Page](https://www.ubnt.com/airmax/nanostationm/)
 - [Quick start guide](https://dl.ubnt.com/guides/NanoStation_M/NanoStation_M_Loco_M_QSG.pdf)
 - [AirOS Guide](https://dl.ubnt.com/guides/airOS/airOS_UG.pdf)
 - [Data Sheet](https://dl.ubnt.com/datasheets/nanostationm/nsm_ds_web.pdf)
