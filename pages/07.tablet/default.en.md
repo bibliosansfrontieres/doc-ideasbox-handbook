@@ -101,7 +101,7 @@ The default setting does not enable you to install applications directly from th
 
 [**You must therefore start by authorising the installation of third-party applications in the Android settings.**](http://www.frandroid.com/comment-faire/lemultimedia/231266_autoriserlessourcesinconnues)
 
-### Uninstalling applications
+### Uninstalling Applications
 
 You may have to uninstall some applications in order to install others because of a lack of memory space.
 
@@ -109,13 +109,13 @@ To do so, you must find the name of the application.
 
 Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr)
 
-The URL bar contains the application’s full name : [https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr)
+The URL contains the application’s full name : [https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr)
 
-The name is just after `id=` therefore `com.koushikdutta.backup`
+The app name is just after `id=` therefore `com.koushikdutta.backup`
 
-Find and note all the applications you wish to remove in a file  `app_a_supprimer.csv`
+Find and input all the applications you wish to remove in a file  `app_a_supprimer.csv`
 
-### Transferring APK files
+### Transferring APK Files
 
 If your applications were on a tablet, send them to your computer in a folder named `apk`
 
