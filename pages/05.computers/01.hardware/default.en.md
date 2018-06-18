@@ -1,5 +1,5 @@
 ---
-title: Laptop
+title: Hardware
 ---
 
 ![Dell](dell.png)
