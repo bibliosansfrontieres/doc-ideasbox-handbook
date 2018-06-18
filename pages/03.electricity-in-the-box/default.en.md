@@ -141,7 +141,7 @@ These plugs can power devices that need to be charged either directly at 12v, or
 
 #### 220 V
 
-* Television,
+* Television
 * 18 port USB charger
 * Battery charger (which permits the recharging of the battery)
 * A power strip that can connect to four or five other devices
@@ -178,7 +178,7 @@ Here is a table of the consumption in **Amperes** per **Hour** at 220 V
 
 Total consumption: 25.3 Ah/d
 
-**The converter is 91% efficiency (yield is 91% of maximum)**
+**The maximum yield of the converter is 91%**
 
 Final summary of the converter's output 12V -&gt; 220V = 25.3 Ah / 0.91 = 26 Ah/j
 
