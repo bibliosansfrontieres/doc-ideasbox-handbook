@@ -50,7 +50,7 @@ Internet speed is given in Megabits and can be divided by 8 to determine the spe
 
 ### Exercise:
 
-* Q : I have a connection at 256 kbits/s and I wand to download a 20 MB video.  How much time will it take?
+* Q : I have a connection at 256 kbits/s and I want to download a 20 MB video.  How much time will it take?
   * R : 256/8 = 32 KB/s or 32 s to download 1 MB. It will thus take me: 32 x 20 = 640 seconds to download the file, or 10 minutes and 40 seconds.
 
 Talk about file systems: FAT32, NTFS, extfs, etc...
