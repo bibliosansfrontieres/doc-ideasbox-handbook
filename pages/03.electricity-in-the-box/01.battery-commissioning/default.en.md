@@ -34,6 +34,6 @@ Remove the white shelf that divides the module into two, and then the drawer abo
 ### Starting Up
 1. Replace the white shelf and the drawer above the devices
 2. Reconnect the server to the 12-V cable from the battery
-3. Turn on the 12 V -> 220 Vconverter
+3. Turn on the 12 V -> 220 V converter
 4. Reconnect the blue module to the 220-V main power
 5. Check to make sure the battery is charging correctly.  The VU meter of the device should indicate a position between 0 and 30 A.
