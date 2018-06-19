@@ -2,7 +2,7 @@
 title: 'Electricity in the Ideas Box'
 ---
 
-Electricity is at the heart of the functionality of the IdeasBox, and knowing how it works allows you to significantly increase the way it can be used.
+Electricity is at the heart of the functionality of the Ideas Box, and knowing how it works allows you to significantly increase the way it can be used.
 
 What follows is intended only for use relating to the Ideas Box, and is not designed to train electricians outside of the Ideas Box.
 
@@ -16,7 +16,7 @@ The Ideas Box integrates an electrical circuit.  It is used to:
 * Recharge the tablets via an 18-port USB charger
 * Punctually connect other electronic devices (laptop, tablet, printer chargers). Not power appliances!
 
-**All of this can function well, whether powered by the 220v main power or a 12v battery while on the move**
+**All of this can function well, whether powered by the 220-V main power or a 12-V battery while on the move**
 
 
 
@@ -24,21 +24,21 @@ The Ideas Box integrates an electrical circuit.  It is used to:
 
 ---
 
-* **1 12v 90Ah Battery**
+* **1 12 V 90 Ah Battery**
 
   ![](batterie.png)
   
-The battery is continually charged by its charger.  It plays the role of accumulator, storing energy and delivering 12v continuously to all the devices connected to its ports \(server, cigarette lighter plugs, converter 12v -&gt; 220v\)
+The battery is continually charged by its charger.  It plays the role of accumulator, storing energy and delivering 12 V continuously to all the devices connected to its ports \(server, cigarette lighter plugs, converter 12 V -&gt; 220 V\)
 
->>>** IMPORTANT: ** The battery is considered to be completely dead when the energy output to its ports is less than or equal to 10.8v
+>>>** IMPORTANT: ** The battery is considered to be completely dead when the energy output to its ports is less than or equal to 10.8 V
 
 ---
 
-* **1 12v Battery Charger**
+* **1 12-V Battery Charger**
 
   ![](chargeur_batterie.png)
   
-This device allows 3 levels of charging for the 12v battery (bulk - absortion - floating).  It can be connected to the battery permanently without causing any damage to it.
+This device allows 3 levels of charging for the 12-V battery (bulk - absortion - floating).  It can be connected to the battery permanently without causing any damage to it.
 
 
 >>>>>**GOOD TO KNOW**: The device has an indicator which can tell you whether or not it is chargering the batter.  The VU-meter (the white box at the top right of the battery) indicates the amount of electricity being tranferred to the battery.  If the needle is pointed towards the right (20, 30 A), the battery is in the process of charging.  If the hand is pointed close to zero, the battery is recharged.
@@ -46,7 +46,7 @@ This device allows 3 levels of charging for the 12v battery (bulk - absortion - 
 
 ---
 
-* **1 Peren IT 12v Web Server**
+* **1 Peren IT 12-V Web Server**
 
   ![](eCW4950_34_peren-it.jpg)
   
@@ -58,15 +58,15 @@ This is the server that stores video content, PDFs, and a host of other media. I
 
   ![](tv.jpeg)
   
-  The television only works with 220v of electricity.  When 220v are not present, it is powered directly by the converter (12v -&gt; 220v)
+  The television only works with 220 V of electricity.  When 220 V are not present, it is powered directly by the converter (12 V -&gt; 220 V)
 
 ---
 
-* **1 12v –&gt; 220v Converter**  
+* **1 12 V –&gt; 220 V Converter**  
 
   ![](convertisseur.png)
   
-This converter permits the creation of a 220v current in addition to the 12v from the battery.  Using this converter is obligatory when the Ideas Box is not connected to the 220v power supply.  Thanks to this converter, it is possible to supply electricity to the cinema module, where the television is, run the server, and charge the laptops.
+This converter permits the creation of a 220-V current in addition to the 12 V from the battery.  Using this converter is obligatory when the Ideas Box is not connected to the 220-V power supply.  Thanks to this converter, it is possible to supply electricity to the cinema module, where the television is, run the server, and charge the laptops.
 
   Characteristics and specifications:
   * Converter power at 25°C: 800 VA  
