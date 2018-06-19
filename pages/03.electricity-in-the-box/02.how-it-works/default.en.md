@@ -29,17 +29,17 @@ The other equipment is no longer powered.
 * **EXCEPT** the server, which is always powered by the battery.  The user must manually turn it off (either through the online interface or by briefly pressing the ON/OFF switch on its front).
 * **EXCEPT** the converter, which no longer serves a purpose; it should be turned off.
 
-#### 12v
+#### 12 V
 
 Select this to use the battery.
 
-When you selects this source, **you also have to turn on the converter to use the television or the power strip**.  Without doing so, the 12v from the battery will not be transformed to 200v, and these devices will not work. 
+When you selects this source, **you also have to turn on the converter to use the television or the power strip**.  Without doing so, the 12 V from the battery will not be transformed to 200 V, and these devices will not work. 
 
 The circuit looks like this:
 
 ![](circuit-resume_12v.png)
 
-#### 220v
+#### 220 V
 
 Select this to use the main power supply.
 
@@ -53,7 +53,7 @@ The circuit looks like this:
 
 Start by connecting the IEC cable from the power outlet to the IEC cable from the blue module.
 
-The selection button needs to be in the **220v** position.
+The selection button needs to be in the **220 V** position.
 
 The converter can be turned off.
 
@@ -61,11 +61,11 @@ The converter can be turned off.
 
 ## Using the Battery
 
-The selection button needs to be in the **12v** position.
+The selection button needs to be in the **12 V** position.
 
 ==&gt; If the converter is turned off, only the server will turn on. 
 
-You have to turn on the converter to turn on the television and the power strip (it is this that transforms the 12v from the battery to the 220v necessary for the television and power strip).
+You have to turn on the converter to turn on the television and the power strip (it is this that transforms the 12 V from the battery to the 220 V necessary for the television and power strip).
 
 ==&gt; The TV and the power strip will now be usable.
 
