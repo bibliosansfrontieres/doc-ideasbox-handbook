@@ -22,7 +22,7 @@ There are three distinct units to measure electricity:
 1. **Volts (V)** are the unit used to measure tension, or potential difference in electricity in a circuit between point A and point B, and are measured by a voltmeter.  It is named after the Italian physicist Volta, who invented the electric battery.  
 2. **Watts (W)** are used to measure electrical power (energy divided by time).  1 watt is defined as 1 joule (a unit of energy) per second.  The term comes from the name of Scottish engineer James Watt, who was instrumental in the creation of the steam engine.  
 3. **Amperes (A)** measure the intensity of an electrical current, or the movement of electrons through a conductor.  It is named after André-Marie Ampère, the inventor of the electromagnet.
-We can compare the movement of electrons in a circuit to that of water in a house: the intensity, expressed in amperes, is the flow rate of the water.  On the electrical panel installed in houses, fuses or circuit breakers indicate different levels of intensity: 10, 20, or 32 amps.  If the electrical power demanded is more than the available electron flow, the circuit trips.  
+We can compare the movement of electrons in a circuit to that of water in a hose: the intensity, expressed in amperes, is the flow rate of the water.  On the electrical panel installed in houses, fuses or circuit breakers indicate different levels of intensity: 10, 20, or 32 amps.  If the electrical power demanded is more than the available electron flow, the circuit trips.  
 
 We can link all three units with this formula: **P=I x V**.  (Power in watts = current in amps multiplied by electric potential in volts).
 
