@@ -78,7 +78,7 @@ HTTPS is the most basic level of encryption that we recommend for navigating the
 
 But HTTPS cannot do everything.  When you send emails using HTTPS, your email provider still gets a non-encrypted copy of the message.  Governments and law enforcement organizations can get access to this data with a warrant.  In the United States, the majority of email providers have a policy of informing you any time there is a request from the government for your data.  But these policies are strictly voluntary and, in many cases, the providers are legally prohibited from informing you of a request.  Some providers, like Google, Yahoo, and Microsoft publish full transparency reports, in which they state the number of data requests that they received from governments, the countries these requests originated from, and the frequency with which the country complied with the request and released data.
 
-If your threat model includes a government or law-enforcement agency, or you have other reasons to assure that your provider cannot share the contents of your communication with a third-party, you may want to consider comprehensive encryption software for your emails.
+If your threat model includes a government or law-enforcement agency, or you have other reasons to ensure that your provider cannot share the contents of your communication with a third-party, you may want to consider comprehensive encryption software for your emails.
 
 PGP (Pretty Good Privacy) is the standard encryption software for your emails.  Correctly used, it offers very strong protection for your communications.  For detailed instructions on how to install and use PGP encription for your email, see:
 
