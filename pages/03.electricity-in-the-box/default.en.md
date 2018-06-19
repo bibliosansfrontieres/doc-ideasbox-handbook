@@ -24,7 +24,7 @@ The Ideas Box integrates an electrical circuit.  It is used to:
 
 ---
 
-* **1 12 V 90 Ah Battery**
+* **1 12-V 90-Ah Battery**
 
   ![](batterie.png)
   
