@@ -18,7 +18,7 @@ The procedure to delete data is different for different browsers. A good way of 
 
 While it is important that you install an antivirus on your computer, it is even more important to use common sense if you receive a link or attachment by email, Twitter, Facebook or Skype. Social networks and communication tools are the main routes of transmitting viruses.
 
-Today, malware exists that is developed by [specialist companies](http://surveillance.rsf.org/en/) that go antivirus programs cannot detect. Therefore, the only effective method is to think ahead, before any malware infects your computer or Smartphone.
+Today, malware exists that is developed by [specialist companies](http://surveillance.rsf.org/en/) that antivirus programs cannot detect. Therefore, the only effective method is to think ahead, before any malware infects your computer or Smartphone.
 
 * Do not download files or click on links sent to you by unknown senders. 
 * Carefully check the email address or Twitter account of those sharing the link with you. If in doubt, check the sender’s identity with other contacts or by using a search engine.
