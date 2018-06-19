@@ -45,7 +45,7 @@ The multimeter is a device that lets you:
 - Measure the current that traverses a circuit (chain connection)
 - Measure the resistance of a device
 
-With an IdeasBox, the only relevant function is to measure the current at the terminals of a device. 
+With an Ideas Box, the only relevant function is to measure the current at the terminals of a device. 
 
 #### Connecting a Voltmeter (parallel to the battery terminals):
 - Use the terminals V and COM of the multimeter (COM corresponds to -)
