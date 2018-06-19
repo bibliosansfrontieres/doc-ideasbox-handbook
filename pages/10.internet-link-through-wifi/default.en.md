@@ -34,7 +34,7 @@ If you cannot visit the location yourself, discuss the site with your partners t
 
 ##Technical specifications
 * Model: [Nanostation M5](http://www.ldlc.com/fiche/PB00142273.html) 
-* Guid price: 99 €
+* Guide price: 99 €
 * Power: 0.5 A @24V (power supplied)
 * Max power consumption: 8W  
 * Gain: 16 dBi
