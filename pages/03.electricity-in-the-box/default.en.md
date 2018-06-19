@@ -28,7 +28,7 @@ The Ideas Box integrates an electrical circuit.  It is used to:
 
   ![](batterie.png)
   
-The battery is continually charged by its charger.  It plays the role of accumulator, storing energy and delivering 12 V continuously to all the devices connected to its ports \(server, cigarette lighter plugs, converter 12 V -&gt; 220 V\)
+The battery is continually charged by its charger.  It plays the role of accumulator, storing energy and delivering 12 V continuously to all the devices connected to its ports \(server, cigarette lighter plugs, 12 V -&gt; 220 V converter\)
 
 >>>** IMPORTANT: ** The battery is considered to be completely dead when the energy output to its ports is less than or equal to 10.8 V
 
