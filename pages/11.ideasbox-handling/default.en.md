@@ -69,7 +69,7 @@ Do not grease or oil the mechanical parts (drawer rails, hinges, closing flaps, 
 
 ### Tablets
 
-Clean tablets and laptops, especially screens. Method: spray some cleaning product on a cloth and clean the equipment. Do not spray directly onto the screens. If in doubt as to whether the product is appropriate, start in a corner of the screen to avoid scratching or damaging the centre. The equipment must be switched off and remain so for a few minutes once cleaned. 
+Clean tablets and laptops, especially screens. Method: spray some cleaning product on a cloth and clean the equipment. Do not spray directly onto the screens. If in doubt as to whether the product is appropriate, start in a corner of the screen to avoid scratching or damaging the center. The equipment must be switched off and remain so for a few minutes once cleaned. 
 
 Tablets: never place screens on a hard surface, always on fabric.
 
