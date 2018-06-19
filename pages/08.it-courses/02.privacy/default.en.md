@@ -72,7 +72,7 @@ Certain email providers use HTTPS by default, including:
 
 Several others offer the option to use HTTPS by default in the settings.  Hotmail is the most well-known service with this approach.
 
-What are the consequences of encryption of the transport layer, and why might you need it?  HTTPS, also known as SSL (Secure Sockets Layer) or TLS (Transport Layer Security), encrypts your messages in a way that prevents anybody else from reading them on your network.  This can mean people using the same WiFi in an airport or café, other people in your office or school, administrators of your internet service provider, malicious internet pirates, governments, or law-enforcement officers.  If you use HTTP instead of HTTPS, attackers can intercept and view your search history, the content of your emails, blog posts, messages, etc...
+What are the consequences of encryption of the transport layer, and why might you need it?  HTTPS, also known as SSL (Secure Sockets Layer) or TLS (Transport Layer Security), encrypts your messages in a way that prevents anybody else from reading them on your network.  These can include people using the same WiFi in an airport or café, other people in your office or school, administrators of your internet service provider, malicious internet pirates, governments, or law-enforcement officers.  If you use HTTP instead of HTTPS, attackers can intercept and view your search history, the content of your emails, blog posts, messages, etc...
 
 HTTPS is the most basic level of encryption that we recommend for navigating the Web.  It is as elementary as putting on your seatbelt when you drive.
 
