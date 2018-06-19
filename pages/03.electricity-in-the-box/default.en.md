@@ -81,7 +81,7 @@ This converter permits the creation of a 220-V current in addition to the 12 V f
 
   ![](prise_secteur_iec.jpeg)
   
-The standard two-prong and earth pin plug allows the Ideas Box to connect to a 220v outlet or a generator.  The other end can plug directly into the male IEC plug of the electrical modules (i.e. the Cinema or Administration modules)
+The standard two-prong and earth pin plug allows the Ideas Box to connect to a 220-V outlet or a generator.  The other end can plug directly into the male IEC plug of the electrical modules (i.e. the Cinema or Administration modules)
 
 * **1 IEC Plug**
 
