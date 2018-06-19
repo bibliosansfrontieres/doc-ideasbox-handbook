@@ -73,7 +73,7 @@ It is possible to calculate the range of a WiFi network with the following formu
 ### Materials Required
 * Buy several passive adapters 
 * Bring a multimeter (normally in the suitcase)
-* Bring zipties in the box (need to be added to the suitcase)
+* Bring zipties (need to be added to the suitcase)
 * Bring **PLENTY** of Ethernet cables
 
 ### First Connection
