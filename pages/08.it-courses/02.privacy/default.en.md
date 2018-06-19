@@ -23,7 +23,7 @@ You can read the white paper ["Encryption Works"](https://cavallette.noblogs.org
 Voice Calls
 -------------
 
-When you call somebody, whetheer from a landline or cell phone, your call is not encrypted in its entirety.  If you use a cell phone, your call can be (weakly) encrypted between the handset and relay antennas.  However, if your call travels over the phone network, it is vulnerable to interception from your service provider and thus, by governments and organizations that regulate and inspect the phone company.  The easiest way to ensure your conversations are encrypted is to use VoIP.
+When you call somebody, whether from a landline or cell phone, your call is not encrypted in its entirety.  If you use a cell phone, your call can be (weakly) encrypted between the handset and relay antennas.  However, if your call travels over the phone network, it is vulnerable to interception from your service provider and thus, by governments and organizations that regulate and inspect the phone company.  The easiest way to ensure your conversations are encrypted is to use VoIP.
 
 Use caution!  The most well known providers of VoIP, such as Skype and Google Hangouts, offer encryption that prevents outside spies from listening to your conversation, but *the provider itself can still listen to your conversation*.  Depending on the nature of your threat, this may or may not be a problem.
 
