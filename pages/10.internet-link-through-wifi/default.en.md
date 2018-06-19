@@ -52,7 +52,7 @@ The diagrams below give the vertical and horizontal angles covered by the WiFi a
 
 ## Generalizations about the Radio
 
-*A radiocommunication is a telecommunication performed in the air using electromagnetic waves.  These waves constitute a transmission of energy that manifest itself in the form of an electric field couples with a magnetic field.  The information is transported thanks to constant modulation of the properties of the wave (its amplitude, frequency, phase, or wavelength among other things)  See [wikipedia](https://fr.wikipedia.org/wiki/Radiocommunication) for more information.*
+*A radiocommunication is a telecommunication performed in the air using electromagnetic waves.  These waves constitute a transmission of energy that manifest itself in the form of an electric field coupled with a magnetic field.  The information is transported thanks to constant modulation of the properties of the wave (its amplitude, frequency, phase, or wavelength among other things)  See [wikipedia](https://fr.wikipedia.org/wiki/Radiocommunication) for more information.*
 
 **Units**
 * Frequency: hertz
