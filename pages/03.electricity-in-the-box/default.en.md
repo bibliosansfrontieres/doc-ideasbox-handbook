@@ -164,7 +164,7 @@ This diagram illustrates how the battery charger is used alongside the 12 V -> 2
 
 ## Practical examples: Energy Balance of the Box
 
-Battery Capacity: 90 Ah @ 12V
+Battery Capacity: 90 Ah @ 12 V
 
 Here is a table of the consumption in **Amperes** per **Hour** at 220 V
 
