@@ -150,7 +150,7 @@ These plugs can power devices that need to be charged either directly at 12 V, o
 
 * The television, with the 12 V -&gt; 220 V converter
 * The Peren IT server, directly connected to the battery. It can be connected to the circuit to be transported.  When this happens it is powered with a 220 V -&gt; 12 V converter.  
-* A few other devices, depending on their consumption of the 12 V -&gt; 220 V converter.  Since it can only supply 800 watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W chacun\) = 773 W.
+* A few other devices, depending on their consumption of the 12 V -&gt; 220 V converter.  Since it can only supply 800 watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W each\) = 773 W.
 
 >>>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12 V -&gt; 220 V converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220-V main supply.
 
