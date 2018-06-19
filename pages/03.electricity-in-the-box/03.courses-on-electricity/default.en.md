@@ -49,27 +49,27 @@ With an Ideas Box, the only relevant function is to measure the current at the t
 
 #### Connecting a Voltmeter (parallel to the battery terminals):
 - Use the terminals V and COM of the multimeter (COM corresponds to -)
-- The switch must be pointed at DC for a measure of direct current (or AC to measure alternating current, like 220v) 
-- Different calibers exist.  The caliber 20 corresponds to "reading of a voltage up to 20V".  The battery functions at 12V, so this is the appropriate calibration.
+- The switch must be pointed at DC for a measure of direct current (or AC to measure alternating current, like 220 V) 
+- Different calibers exist.  The caliber 20 corresponds to "reading of a voltage up to 20 V".  The battery functions at 12 V, so this is the appropriate calibration.
 - Place the black touch point to the negative (-) terminal of the battery
 - Place the red touch point to the positive (+) terminal of the battery
-- Read the value on the digital screen.  The battery is completely discharged if the reading is less than or equal to 10.8V
+- Read the value on the digital screen.  The battery is completely discharged if the reading is less than or equal to 10.8 V
 
 **Example:**
 
 ![](467517-tester-condensateur-3-3-main-12994453.jpg)
 
-## Difference Between 12V and 220V
+## Difference Between 12 V and 220 V
 
 Electric tension is the circulation of an electric field along a pair of copper wires.  Its unit is the volt, and can be measured by a voltmeter.  It is often denoted as U or V in electric circuits.
 
 With the Ideas Box, we use two different types of tension:
 
-* Very low tension: the electric circuit with 12V continuous current
+* Very low tension: the electric circuit with 12-V continuous current
 
-  > Similar to the 12V battery of a car
+  > Similar to the 12-V battery of a car
 
-* Low tension: the electric circuit with 220V alternating current
+* Low tension: the electric circuit with 220-V alternating current
 
   > This is the tension generally used in a house to power a television, refrigerator, etc...
 
@@ -83,16 +83,16 @@ There are several different types of batteries:
 * Lithium Ion battery: Used in telephones
 * etc.
 
-In the Ideas Box, we use a 12V, 90Ah gel battery.
+In the Ideas Box, we use a 12 V, 90 Ah gel battery.
 Gel batteries generally have a longer lifetime and better cycling capacity than other batteries.
 
 **Capacity or Storage Capacity**
 
 This is the quantity of current that a perfect (new) battery is capable of delivering.  It is expressed in Ampere-hours (Ah).  
-For example, a 100Ah battery can provide a 1 A current for 100 hours or a 100A current for 1 hour.
+For example, a 100 Ah battery can provide a 1 A current for 100 hours or a 100 A current for 1 hour.
 
 **Tension at the Battery Terminals**
 Tension measured at the battery terminals lets us have an idea about the state of the battery.  To do this, you have to use a multimeter and place the (+) sensor of the multimeter on the (+) terminal of the battery (and do the same for the (-) sensor and terminal).  Doing so measures the tension of the battery.
 
-* When the battery is charged, the tension measured should be around 13.8V
-* When the battery tension is reaches 10.8V, the battery is out of charge.
+* When the battery is charged, the tension measured should be around 13.8 V
+* When the battery tension is reaches 10.8 V, the battery is out of charge.
