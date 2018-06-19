@@ -20,7 +20,7 @@ Ask everyone to describe their level: who has already used a computer? a usb dri
 
 * Ask them: Name some applications (one app each if everyone is familiar with the computer.  Otherwise, do not push beginners in a public setting!).
 
-  * Possible Responses: Office, Firefox, ... word processor, internet browser, video game... . 
+  * Possible Responses: Office, Firefox, ... word processors, internet browsers, video games, etc...  
 
 * Question: What are the Operating Systems that you know?
 
