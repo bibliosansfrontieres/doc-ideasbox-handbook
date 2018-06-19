@@ -46,7 +46,7 @@ This allows you to install the latest, most up-to-date, applications.
    * The Google Play Store icon may be hidden on Danew tablets, if this is the case
      * Application menu
      * Click on Paramètres -&gt; Applications -&gt; Toutes \(Settings -&gt; Applications -&gt; All\)
-     * Select the Google play store application
+     * Select the Google Play Store application
      * Then click on Lancer \(Run\) in the middle/end of the page
      * A new window will open to request your Gmail user name and password
 
