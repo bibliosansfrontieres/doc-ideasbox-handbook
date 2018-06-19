@@ -135,7 +135,7 @@ The consumption is about 3 to 4 watts.
 **Attention: ** The two WiFi terminals have to be on the same network in order to be able to communicate.
 
 ### ADVANCED Tab
-- **Instal EIRP Control**: Check this box
+- **Install EIRP Control**: Check this box
 
 ## 2nd Antenna 
 
