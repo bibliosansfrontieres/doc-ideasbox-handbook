@@ -107,9 +107,9 @@ You may have to uninstall some applications in order to install others because o
 
 To do so, you must find the name of the application.
 
-Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr)
+Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
 
-The URL contains the application’s full name : [https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=fr)
+The URL contains the application’s full name : [https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
 
 The app name is just after `id=` therefore `com.koushikdutta.backup`
 
