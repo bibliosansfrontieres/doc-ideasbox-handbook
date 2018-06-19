@@ -91,7 +91,7 @@ The most fragile parts are the module door locks and the low table legs (in the 
 
 ### Electrical repairs
 
-Before attempting any repairs, even measuring the battery’s charge, please read the “General safety information” section of the “Electricity in the Ideas Box” page.
+Before attempting any repairs, even measuring the battery’s charge, be sure to read the **“General safety information”** section of the **“Electricity in the Ideas Box”** page.
 
 If the electrical circuit no longer works, this could be due to the battery’s charge. To test this, use the multimeter found in the Ideas Box. If the battery’s charge is below 12 volts, charge it for 8 hours.
 
