@@ -101,7 +101,7 @@ A differential circuit breaker is a protection device capable of interrupting th
 
 ![](disjoncteur.jpeg)
 
-A circuit protector protects against an overcurrent or circuit overload, and can isolate devices downstream of the circuit breaker from the rest of the circuit.  It helps to think of it as an ON/OFF switch.  The 10A circuit breaker is used, among other things, to protect the 12 V -&gt; 220 V converter.  The 16-A circuit breaker is mainly for the USB charger.
+A circuit breaker protects against an overcurrent or circuit overload, and can isolate devices downstream of the circuit breaker from the rest of the circuit.  It helps to think of it as an ON/OFF switch.  The 10A circuit breaker is used, among other things, to protect the 12 V -&gt; 220 V converter.  The 16-A circuit breaker is mainly for the USB charger.
 
 ---
 
