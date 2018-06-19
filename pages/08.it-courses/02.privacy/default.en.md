@@ -2,7 +2,7 @@
 title: 'Communicating with Others'
 ---
 
-Communication resources and the internet have mad communicating with others easier than ever before, but have increased surveillance to levels unheard of in human history.  Without taking extra measures to protect your privacy, every phone call, text message, email, IM, videochat, etc... can be vulnerable to spying.
+Communication resources and the internet have made communicating with others easier than ever before, but have increased surveillance to levels unheard of in human history.  Without taking extra measures to protect your privacy, every phone call, text message, email, IM, videochat, etc... can be vulnerable to spying.
 
 Often, the most secure way to communicate with others is in person, without computers or telephones.  However, this is not always possible.  The best thing to do is to use comprehensive data encryption if you communicate online and need to protect the content of your communication.
 
