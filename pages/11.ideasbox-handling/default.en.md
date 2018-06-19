@@ -63,7 +63,7 @@ To transport the Ideas Box in a vehicle, you must:
 
 Clean with a (washable) cloth and a product such as window-cleaning liquid or car washer fluid. Do not use any corrosive products (acid, alcohol, acetone, etc.).
 
-Do not bump the modules, protect the wood if being used as a table as metal items may leave scratches. 
+Do not bump the modules.  Protect the wood if it is being used as a table since metal items may leave scratches. 
 
 Do not grease or oil the mechanical parts (drawer rails, hinges, closing flaps, locks, etc.) as these substances could attract dust.
 
