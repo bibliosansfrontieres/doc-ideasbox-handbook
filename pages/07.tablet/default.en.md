@@ -138,7 +138,7 @@ If your applications were on a tablet, send them to your computer in a folder na
 
 * Authorise file `delete_install_android_app.sh` to run with  `chmod +x delete_install_android_app.sh`
 
-* Run the application deletion and installation  `script./delete_install_android_app.sh`
+* Run the application for deletion and installation  `script./delete_install_android_app.sh`
 * The script above will uninstall the applications listed in the CSV file and will install all applications available in the APK folder.
 * You must then manually place the icons of the new applications on the desktop.
 
