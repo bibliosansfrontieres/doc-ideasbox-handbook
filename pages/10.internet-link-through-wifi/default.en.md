@@ -159,7 +159,7 @@ The consumption is about 3 to 4 watts
 
 ## Troubleshooting and Advice
 **Chan IRC**: `#tetaneutral` on freenode or `#lqdn` guerby    
-**To debug**: tcpdump or wiresharkœ + ping
+**To debug**: `tcpdump` or `wiresharkœ + ping`
 
 ## Reference Documents: 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ubiquiti_Networks)
