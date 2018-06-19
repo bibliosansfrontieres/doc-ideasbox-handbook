@@ -50,9 +50,9 @@ This allows you to install the latest, most up-to-date, applications.
      * Then click on Lancer \(Run\) in the middle/end of the page
      * A new window will open to request your Gmail user name and password
 
-3. Once saved, download the applications required
+3. Once saved, download the applications you wish to add to the tablets
 
-4. Also, download the [File Expert](https://play.google.com/store/apps/details?id=xcxin.filexpert) application to keep a back-up copy of your downloaded applications.
+4. Also, we recommend downloading the [File Expert](https://play.google.com/store/apps/details?id=xcxin.filexpert) application to keep a back-up copy of your downloaded applications.
 
 At this point, you have downloaded your free applications and purchased others. You must now create a back-up of your new applications so they can be applied to all your tablets.
 
