@@ -48,14 +48,14 @@ MB = Megabyte
 Internet speed is given in Megabits and can be divided by 8 to determine the speed in Megabytes.
 
 
-### Exercise:
+### Exercises:
 
 * Q : I have a connection at 256 kbits/s and I want to download a 20 MB video.  How much time will it take?
   * R : 256/8 = 32 KB/s or 32 s to download 1 MB. It will thus take me: 32 x 20 = 640 seconds to download the file, or 10 minutes and 40 seconds.
 
 Talk about file systems: FAT32, NTFS, extfs, etc...
 
-Exercise: How many 3 MB files can I put on a 2 GB USB drive?  On a 1 TB external drive?
+How many 3 MB files can I put on a 2 GB USB drive?  On a 1 TB external drive?
 
 
 ## Storage Devices
