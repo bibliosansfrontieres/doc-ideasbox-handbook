@@ -97,11 +97,11 @@ A differential circuit breaker is a protection device capable of interrupting th
 
 ---
 
-* **1 10A and 16A Circuit Breaker (new version) **
+* **1 10-A and 16-A Circuit Breaker (new version) **
 
 ![](disjoncteur.jpeg)
 
-A circuit protector protects against an overcurrent or circuit overload, and can isolate devices downstream of the circuit breaker from the rest of the circuit.  It helps to think of it as an ON/OFF switch.  The 10A circuit breaker is used, among other things, to protect the 12v -&gt; 220v converter.  The 16A circuit breaker is mainly for the USB charger.
+A circuit protector protects against an overcurrent or circuit overload, and can isolate devices downstream of the circuit breaker from the rest of the circuit.  It helps to think of it as an ON/OFF switch.  The 10A circuit breaker is used, among other things, to protect the 12 V -&gt; 220 V converter.  The 16-A circuit breaker is mainly for the USB charger.
 
 ---
 
@@ -113,11 +113,11 @@ A circuit protector protects against an overcurrent or circuit overload, and can
 
 ---
 
-* **1 3-Position Switch \(12v -&gt; 0 -&gt; 220v\) \(new version\)**
+* **1 3-Position Switch \(12 V -&gt; 0 -&gt; 220 V\) \(new version\)**
 
   ![](switch3.jpeg)
 
-With the new model (that has electricity in the blue model), this switch lets you easily select how much power is supplied to the module.  You can choose to have the module supplied by the main power supply (220v) or the battery (12v).
+With the new model (that has electricity in the blue model), this switch lets you easily select how much power is supplied to the module.  You can choose to have the module supplied by the main power supply (220 V) or the battery (12 V).
 
 ---
 
@@ -125,7 +125,7 @@ With the new model (that has electricity in the blue model), this switch lets yo
 
   ![](multiprises.jpeg)
  
-The powerstrip can connect directly either to the main 220v power supply or to the back of the 12v -&gt; 220v converter.  It can directly power several devices (ex: charging a laptop) in addition to the battery.
+The powerstrip can connect directly either to the main 220-V power supply or to the back of the 12 V -&gt; 220 V converter.  It can directly power several devices (ex: charging a laptop) in addition to the battery.
 
 ---
 
@@ -133,7 +133,7 @@ The powerstrip can connect directly either to the main 220v power supply or to t
 
   ![](prises_cigare.jpeg)
 
-These plugs can power devices that need to be charged either directly at 12v, or at 5v with the help of a 12v -> 5v USB converter.  The plugs are directly powered by the battery.
+These plugs can power devices that need to be charged either directly at 12 V, or at 5 V with the help of a 12 V -> 5 V USB converter.  The plugs are directly powered by the battery.
 
 ---
 
@@ -148,17 +148,17 @@ These plugs can power devices that need to be charged either directly at 12v, or
 
 #### 12 V
 
-* The television, with the 12v -&gt; 220v converter
-* The Peren IT server, directly connected to the battery. It can be connected to the circuit to be transported.  When this happens it is powered with a 220v -&gt; 12v converter.  
-* A few other devices, depending on their consumption of the 12v -&gt; 220v converter.  Since it can only supply 800 Watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W chacun\) = 773 W.
+* The television, with the 12 V -&gt; 220 V converter
+* The Peren IT server, directly connected to the battery. It can be connected to the circuit to be transported.  When this happens it is powered with a 220 V -&gt; 12 V converter.  
+* A few other devices, depending on their consumption of the 12 V -&gt; 220 V converter.  Since it can only supply 800 watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W chacun\) = 773 W.
 
->>>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12v -&gt; 220v converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220v main supply.
+>>>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12 V -&gt; 220 V converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220-V main supply.
 
 **Generator Maintenance**:  
-Drain the generator every 80H (about once a month).  It is important to not the hours of operation to keep track of generator usage.
+Drain the generator every 80 H (about once a month).  It is important to note the hours of operation to keep track of generator usage.
 
 ## Simplified Diagram
-This diagram illustrates how the battery charger is used alongside the 12v -> 220v converter.
+This diagram illustrates how the battery charger is used alongside the 12 V -> 220 V converter.
 
 ![](elec_simple.png)
 
@@ -180,25 +180,25 @@ Total consumption: 25.3 Ah/d
 
 **The maximum yield of the converter is 91%**
 
-Final summary of the converter's output 12V -&gt; 220V = 25.3 Ah / 0.91 = 26 Ah/j
+Final summary of the converter's output 12 V -&gt; 220 V = 25.3 Ah / 0.91 = 26 Ah/d
 
-For a battery with a capacity of 90ah -&gt; we want a maximum discharge of 80% = 90 \* 80 / 100 = 72 Ah are available since we do not want to completely deplete the battery. 
+For a battery with a capacity of 90 Ah/d -&gt; we want a maximum discharge of 80% = 90 \* 80 / 100 = 72 Ah are available since we do not want to completely deplete the battery. 
 
 72 Ah / 26 Ah = 2.7h -> The battery can run for 2.7 hours at this rate.
 
 If we are deploying the box for 7h, in a place without electricity, we assume that we only need the server, WiFi antenna, television, and computer chargers for 4h.  Here is an estimation of the time that the battery can function.
 
-| Device | Energy Consumed \(A\) | Daily Usage \(h\) | Daily Consumption \(Ah/jour\) |
+| Device | Energy Consumed \(A\) | Daily Usage \(h\) | Daily Consumption \(Ah/day\) |
 | --- | --- | --- | --- |
-| TV | 0.16 A | 4h | 0.16 A \* 3h = 0.48 Ah/j |
-| Powering WiFi Antenna | 0.3 A | 7h | 0.3 A \* 7h = 2.1 Ah/j |
-| Powering Server | 1.5 A | 7h | 1.5 A \* 7h = 10.5 Ah/j |
-| Laptop | 1.7 A | 4h | 1.7A \* 4h = 6.8Ah/j |
+| TV | 0.16 A | 4h | 0.16 A \* 3h = 0.48 Ah/d |
+| Powering WiFi Antenna | 0.3 A | 7h | 0.3 A \* 7h = 2.1 Ah/d |
+| Powering Server | 1.5 A | 7h | 1.5 A \* 7h = 10.5 Ah/d |
+| Laptop | 1.7 A | 4h | 1.7A \* 4h = 6.8Ah/d |
 
-Total Consumption: 19.88 Ah/j
+Total Consumption: 19.88 Ah/d
 
-Final summary of the converter's output 12V -&gt; 220V = 19.88 Ah / 0.91 = 20,6 Ah/j
+Final summary of the converter's output 12 V -&gt; 220 V = 19.88 Ah / 0.91 = 20.6 Ah/d
 
-For a battery with a capacity of 90ah -&gt; we want a maximum discharge of 80% = 90 \* 80 / 100 = 72 Ah are available since we do not want to completely deplete the battery. 
+For a battery with a capacity of 90 Ah -&gt; we want a maximum discharge of 80% = 90 \* 80 / 100 = 72 Ah are available since we do not want to completely deplete the battery. 
 
 72 Ah / 20.6 Ah = 3.5h -> The battery can function for 3.5 hours
