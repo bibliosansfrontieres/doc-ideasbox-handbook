@@ -38,7 +38,7 @@ This software is used to download Android applications directly from the Play St
 
 ## Activating the Play Store and downloading
 
-The idea is to install the latest applications.
+This allows you to install the latest, most up-to-date applications.
 
 1. Create a Google (Gmail) account to access Google Play
 2. Configure the Google Apps on the tablet with the previously created account
