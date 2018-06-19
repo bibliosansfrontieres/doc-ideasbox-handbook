@@ -120,7 +120,7 @@ Find and input all the applications you wish to remove in a file  `app_a_supprim
 If your applications were on a tablet, send them to your computer in a folder named `apk`
 
 * Create a folder  `android_app`  somewhere on your computer \(e.g.:  `/home/`\)
-* Move the file  app\_a\_supprimer.csv  and the folder  apk  to your new folder  android\_app
+* Move the file  `app\_a\_supprimer.csv`  and the folder  `apk`  to your new folder  `android\_app`
 * Create a file  and paste the content below
 
   ```
