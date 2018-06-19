@@ -93,7 +93,7 @@ And add this line
 
 ## The ADB utility
 
-A utility called  `ADB`  available for Linux uses a command line to install a collection of files **.apk** \(Android application\) on an Android device.
+A utility called  `ADB`  available for Linux uses a command line to install a collection of **.apk** files \(Android applications\) on an Android device.
 
 > If the ADB utility is not installed on your PC, here is the command to run to install it on a Linux system: `sudo apt-get install android-tools-adb`
 
