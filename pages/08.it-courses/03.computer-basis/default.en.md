@@ -29,7 +29,7 @@ Ask everyone to describe their level: who has already used a computer? a usb dri
 * Question: What versions of Windows do you know?
 
 
-## Explain What Files ARe
+## Explain What Files Are
 
 An application is a file, just one that you can execute or run.
 
