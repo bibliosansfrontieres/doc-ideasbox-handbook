@@ -112,7 +112,7 @@ If, once the battery is fully charged, the problem continues, do not attempt to 
 - Serveur – Server
 - Batterie – Battery
 - Boîte dérivation – Junction box
-- Multi-prises – Multiple socket
+- Multi-prises – Power strip
 
 ### Electronic equipment repairs
 
