@@ -35,7 +35,7 @@ To install or remove the wheels, the modules must be turned onto their side. Cau
 - Old model -  Do not exert pressure when closing the modules as this could scratch the stickers on the sides of the modules.
 - Old model -  Do not exert pressure when closing the modules as this could deform the rail into which the detachable
 doors are inserted.
-- Old model -  For the legs of the grey modules, assemble the leg locking mechanisms, open them slowly. Install the adjustable legs. It is important that the module is on a flat surface so that the lids are not twisted.
+- Old model -  For the legs of the grey module, assemble the leg locking mechanisms, and open them slowly. Install the adjustable legs. It is important that the module is on a flat surface so that the lids are not twisted.
 - Old model -  Separate the casing that can be used as a seat (blue, orange) from that which can be used as a table (green, yellow). Do not forget to install additional sleeves in order to reinforce the casing.
 
 ## Storage
