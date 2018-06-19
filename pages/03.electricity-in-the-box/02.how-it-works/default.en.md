@@ -43,7 +43,7 @@ The circuit looks like this:
 
 Select this to use the main power supply.
 
-All equpment will be turned on.  The converter can thus be turned off.  The battery will recharge automatically.
+All equipment will be turned on.  The converter can thus be turned off.  The battery will recharge automatically.
 
 The circuit looks like this:
 
