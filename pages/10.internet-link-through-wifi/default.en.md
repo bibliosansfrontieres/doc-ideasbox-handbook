@@ -38,7 +38,7 @@ If you cannot visit the location yourself, discuss the site with your partners t
 * Power: 0.5 A @24 V (power supplied)
 * Max power consumption: 8 W  
 * Gain: 16 dBi
-* Temperatures at which antenna can function: -30 à 75°C  
+* Temperatures at which antenna can function: -30 to 75°C  
 * Frequencies at which antenna can function: 5170 - 5875 Hz
 * Beamwidth: 43° (H-pol) / 41° (V-pol) / 15° (Elevation)
 
