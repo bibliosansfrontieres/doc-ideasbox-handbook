@@ -7,7 +7,7 @@ title: 'Computing Basics'
 Humility: One cannot know everything.  The idea is not to know everything, but to understand the basics to be able to search for information.
 
 Ask everyone to describe their level: who has already used a computer? a usb drive? the internet?
-* how has set up a computer using windows?
+* Who has set up a computer using windows?
 
 
 ## Computer Introduction:
