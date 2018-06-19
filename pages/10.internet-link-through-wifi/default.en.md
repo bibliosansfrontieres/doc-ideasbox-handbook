@@ -36,7 +36,7 @@ If you cannot visit the location yourself, discuss the site with your partners t
 * Model: [Nanostation M5](http://www.ldlc.com/fiche/PB00142273.html) 
 * Guide price: 99 €
 * Power: 0.5 A @24 V (power supplied)
-* Max power consumption: 8W  
+* Max power consumption: 8 W  
 * Gain: 16 dBi
 * Temperatures at which antenna can function: -30 à 75°C  
 * Frequencies at which antenna can function: 5170 - 5875 Hz
