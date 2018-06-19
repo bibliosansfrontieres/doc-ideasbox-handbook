@@ -114,7 +114,7 @@ the optimal frequency to install a PtP airMAX link. *
 This is the antenna that will deliver internet access and will thus be connected to the network of networks.
 
 ### First Tab
-- Uncheck the airMax option\
+- Uncheck the airMax option
 
 ### WIRELESS Tab
 The consumption is about 3 to 4 watts.
