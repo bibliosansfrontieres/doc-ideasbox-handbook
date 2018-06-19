@@ -5,7 +5,7 @@ title: 'Troubleshooting the Server'
 ##The server doesn't turn on
 **Symptom**: the server doesn't turn on when you press the button 
 - Verify that the power cord is correctly plugged in.  Unplug it and plug it back in.
-- Vérify the battery is charged.
+- Verify the battery is charged.
 - Try with the power blog supplied with the server plugged into the 220v main power.
 - If it still doesn't work, the servir is defective, and needs to be returned to the manufacturer for repairs.  Contage BSF headquarters. 
 
