@@ -40,7 +40,7 @@ doors are inserted.
 
 ## Storage
 
-The Ideas Box modules and tables must be stored in a covered, dry area indoors. The Ideas Box must not be left out in the rain, in particular the blue module as heavy rain may leak in even when the module is closed.
+The Ideas Box modules and tables must be stored in a covered, dry, indoor, area. The Ideas Box **must not be left out in the rain**, in particular the blue module as heavy rain may leak in even when the module is closed.
 
 It is easier to store the Ideas Box on its wheels. However, if due to space restrictions you have to stack modules for storage, you must remove the wheels. Never stack more than two modules. Secure them with a strap. Place the heavier modules at the bottom.
 
