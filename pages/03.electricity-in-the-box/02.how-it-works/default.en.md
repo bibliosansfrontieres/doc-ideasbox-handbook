@@ -4,7 +4,7 @@ title: 'Manipulating the Electrical Circuit'
 
 The electrical circuit is designed to function with main power or with the battery.  Some steps can be taken to take advantage of the right source of currect.
 
-This part of the guide is meant to be practical, and help implement the elctricity without necessarily understanding how it works.  However, understanding its design will help you use the battery batter.  We will thus start by explaining simply the principal elements of the circuit; the technical details will be tackled later on.
+This part of the guide is meant to be practical, and help implement the elctricity without necessarily understanding how it works.  However, understanding its design will help you use the battery better.  We will thus start by explaining simply the principal elements of the circuit; the technical details will be tackled later on.
 
 ## The Button to Select the Current
 
