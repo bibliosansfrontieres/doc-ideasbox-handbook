@@ -124,7 +124,7 @@ The consumption is about 3 to 4 watts.
 - **SSID**: Select an SSID, which must be the same for the two antennas
 - **Country Code**: Every country uses its own regulations about the standards for radiocommunication.  Choose the country in which you will be deploying the equipment.
 - **Channel Width**:  Choose `20 Mhz`. The higher this number, the faster the transmission of data will be.  However, this frequency is also compatible with the standard WiFi used by mobile devices.  It is also possible to use the parameter: `Auto 20/40 Mhz`
-- **EIRP Limit**: Check this box, which will constrain the device to the rules defined by the **country code**.  However, if you have a problem with the connection between the two antennas, uncheck `EIRP Limit` and slide the `output power` slider to the bottom.  However, be aware that the equipment no longer is respecting the country's laws and may expose your or your partner to lawsuits.
+- **EIRP Limit**: Check this box, which will constrain the device to the rules defined by the **country code**.  However, if you have a problem with the connection between the two antennas, uncheck `EIRP Limit` and slide the `output power` slider to the bottom.  However, be aware that the equipment no longer is respecting the country's laws and may expose you or your partner to lawsuits.
 - **Wireless security**: Choose WPA2 and choose a password
 - **Frequency**: Choose 5180. When you use antennas in relay mode, choose two distant frequences to avoid interference between the frequencies. 
 
@@ -147,7 +147,7 @@ The consumption is about 3 to 4 watts
 - **SSID**: Select the same SSID that you did for the first antenna
 - **Country Code**: Every country uses its own regulations about the standards for radiocommunication.  Choose the country in which you will be deploying the equipment. 
 - **Channel Width** : Choose `20 Mhz`. The higher this number, the faster the transmission of data will be.  However, this frequency is also compatible with the standard WiFi used by mobile devices.  It is also possible to use the parameter: `Auto 20/40 Mhz`
-- **EIRP Limit**: Check this box, which will constrain the device to the rules defined by the **country code**.  However, if you have a problem with the connection between the two antennas, uncheck `EIRP Limit` and slide the `output power` slider to the bottom.  However, be aware that the equipment no longer is respecting the country's laws and may expose your or your partner to lawsuits.
+- **EIRP Limit**: Check this box, which will constrain the device to the rules defined by the **country code**.  However, if you have a problem with the connection between the two antennas, uncheck `EIRP Limit` and slide the `output power` slider to the bottom.  However, be aware that the equipment no longer is respecting the country's laws and may expose you or your partner to lawsuits.
 - **Wireless security**: Select WPA2 and choose a password
 - **Frequency**: Choose 5180. When you use antennas in relay mode, choose two distant frequences to avoid interference between the frequencies.
 
