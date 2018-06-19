@@ -1,64 +1,63 @@
 ---
-title: 'Ubuntu Linux'
+title: 'Linux Ubuntu'
 ---
 
 ## Ubuntu
 
-Ubuntu se définit comme une distribution conviviale, avec une interface « simple, intuitive, et sécurisée ».
+Ubuntu is a user-friendly Linux distribution with a "simple, intuitive, and secure" interface.
 
-Par défaut, le démarrage de l'ordinateur se fait sous Ubuntu.
+By default, the computer starts up using Ubuntu.
 
 ### Installation
 
-Les versions LTS (Long Term Support), qui sont supportées pendant 5 ans, sont préférées. La 14.04 a récemment fait place à la 16.04. La 18.04 présente actuellement quelques soucis concernant la session invité.
+LTS (Long Term Support) versions, which are supported for five years, are preferred.  Version 16.04 recently replaced 14.04.  There are currently some concerns regarding guest sessions on version 18.04.
 
-L'ensemble de l'installation et de la configuration se fait au moyen d'un playbook ansible (un outil d'automatisation de la configuration et de la gestion), nommé `idbuntu` ([disponible sur Github](https://github.com/bibliosansfrontieres/idbuntu)). Sa lecture, bien que technique, documente la mise en oeuvre dans son intégralité.
+The installation and configuration can both be done using an ansible playbook (an automization tool for configuration and management) called `idbuntu`
+([that is available on Github](https://github.com/bibliosansfrontieres/idbuntu)). The reading, although technical, describes the implementation in its entirety.
 
-## Les sessions
+## Sessions
 
-Il existe trois sessions utilisateurs.
+There are three types of user sessions.
 
-### La session invité
+### Guest Sessions
 
-**La session invité** est destinée aux utilisateurs.
+**Guest sessions** are designed for users.
 
-Parmi ses caractéristiques, cette session est amnésique : à l'ouverture de session, c'est une session toute neuve qui est recréée d'après un modèle, et elle est effacée dès sa fermeture. Cela permet de ne pas avoir à se soucier des éventuelles informations laissées par chaque utilisateur (documents personnels, connexions aux comptes sur des sites web, ...).
+Among other characteristics, these sessions have amnesia: once opened, it is a completely new session, recreated based on a model, and the session is erased once it is closed.  Because of this, we don't have to worry about potential information left by each user, such as personal documents or log-in information for websites.
 
-### La session `ideasbox`
+### `Ideas Box` Sessions
 
-**La session `ideasbox`** est celle qui sert de modèle à la session `invité`.
+**`Ideas Box` Sessions** serve as a model for guest sessions.
 
-Toutes les personnalisations qui y seront effectuées se verront répliquées dans la session `invité` : fond d'écran, raccourcis, etc.
+Any customizations, such as wallpaper or shortcuts, made in an Ideas Box session will be replicated in the guest session model. Thus, Ideas Box sessions are not meant to be used daily.
 
-Elle n'est donc pas à utiliser au quotidien.
+To login to an Ideas Box session, use the username `ideascube`.  BSF will send the password to you upon request.
 
-Le login est `ideascube`, le mot de passe est communiqué à la demande par BSF.
+### `Admin` Sessions
 
-### La session `Admin`
+**`Admin` Sessions** can be used for the administration and maintenance of the system. This is the only session with administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
 
-**La session `Admin`** sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
+It is only used by technicians, in case problems arise.
 
-Elle n'est utilisée que par des techniciens, en cas de problème.
+The login name is `bsfadmins`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
 
-Le login est `bsfadmins`, mais on préfère créer une session dédiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
+### See Also
 
-### Voir aussi
+  * [Script to create accounts](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/users/tasks/main.yml)
+  * [Customization of  guest sessions](https://help.ubuntu.com/community/CustomizeGuestSession) on the Ubuntu Wiki
 
-  * [Script de création des comptes](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/users/tasks/main.yml)
-  * [Personnalisation de la session invité](https://help.ubuntu.com/community/CustomizeGuestSession) sur le wiki Ubuntu (en anglais)
+## The Programs
 
-## Les logiciels
+The list of programs generally installed appear in [the playbook](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/software/tasks/main.yml).
 
-La liste des logiciels généralement installés figure dans [le playbook](https://github.com/bibliosansfrontieres/idbuntu/blob/master/roles/software/tasks/main.yml).
+These include office, image creation, video editing, photo retouching, music editing and publishing, programming, discovering, and gaming programs.
 
-Y figurent des logiciels de bureautique, création d'image, montage vidéo, retouche photo, édition musicale, programmation, découverte, mais aussi des jeux.
-
-On y ajoute également le Tor browser (pour surfer anonymement sur le web), mais aussi Skype.
+We also added the Tor browser (to surf the web anonymously), as well as Skype.
 
 ## Administration
 
-Pour procéder à l'administration du système, il faudra tout d'abord se mettre en rapport avec BSF pour la mise en place d'un compte dédié. Ce compte n'est pas systématiquement créé car les besoins sont rares. Cependant, sur certains projets disposant des ressources nécessaires, un tel compte sera un plus.
+To proceed to the administration of the system, you must first of all contact BSF to put in place a dedicated account.  This account is not created automatically because it is rarely needed.  However, on some projects that have the necessary resources, having this account is a plus.
 
-Par défaut, Ubuntu télécharge et applique automatiquement les mises à jour de sécurité.
+By default, Ubuntu automatically downloads and applies security updates.
 
 
