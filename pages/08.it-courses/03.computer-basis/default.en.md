@@ -70,6 +70,16 @@ Talk about IP: what is an address, what is a subnet mask, what is a bridge?  Bri
 
 Talk about WiFi vs. ethernet, satellite vs. fiber, 2G vs. 3G.  All are a way to connect to a network, regardless of the method and tools used.
 
-## Conclusion
+## Conclusion and Things to Remember
 
-You can find information on Wikipedia, or on forums.  There is no such thing as a stupid question.  The wise are those who do not know the answer, but know how to find it.  Working together is essential.  We all started somewhere.  And often another point of view or another style of working lets you solve a problem.
+You can find information on Wikipedia, or on forums.  
+
+There is no such thing as a stupid question.  
+
+The wise are those who do not know the answer, but know how to find it.  
+
+Working together is essential.  
+
+We all started somewhere.  
+
+Often another point of view or another style of working is the key to solving a problem.
