@@ -18,12 +18,12 @@ title: 'Troubleshooting the Server'
 -  If it turns out that the battery can't be recharged, replace it with a model available in your area (12 V, 160 Ah, ideally a gel battery, but other models will do the job for a short time).
 -  If the battery can recharge, recharge it quickly to avoid significant loss of battery.
 
-## The Ideas Box Hotspot Doesn't Show Up
+## The Ideas Box hotspot doesn't show up
 - Connect a screen to the server (a video projector would also work), and verify that the graphical interface is working.
 - Restart the server and check if the hotspot has appeared after several minutes.
 - Contact Bibliothèques Sans Frontière for remote assitance.
 
-## I Forgot the Admin Password
+## I forgot the admin password
 
 * Attach a keyboard, mouse, and screen to the server to access the graphical interface
 * Once the screen is connected, use the login name **ideascube** and the password that BSF sent you
