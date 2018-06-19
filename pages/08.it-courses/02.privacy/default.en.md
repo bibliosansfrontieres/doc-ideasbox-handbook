@@ -100,7 +100,7 @@ Meta-data relating to your phone calls can divulge certain sensible and private 
 -  It knows that you received a call from the NRA while it was running a campaign against anti-gun legislation, and that you called your senators and representatives in Congress immediately afterward, but the content of these calls remains secure against surveillance.
 -  It can tell that you called a gynecologist, talked for a half hour, then called Planned Parenthood later in the day, but nobody can tell what you talked about.
 
-If you call using a cell phone, *location information is included in the meta-data*.  In 2009, Malte Spitz, a Green Party politican, sued German company Deutsche Telekom to get all the information the company knew about him.  He then sent the information to a Germany newspaper.  The [resulting visualization](http://www.zeit.de/datenschutz/malte-spitz-data-retention/) illustrates in incredible detail Spitz's movements over those six months.
+If you call using a cell phone, *location information is included in the meta-data*.  In 2009, Malte Spitz, a Green Party politican, sued German company Deutsche Telekom to get all the information the company knew about him.  He then sent the information to a German newspaper.  The [resulting visualization](http://www.zeit.de/datenschutz/malte-spitz-data-retention/) illustrates in incredible detail Spitz's movements over those six months.
 
 Protecting your meta-data requires the usage of other tools, such as [Tor](/en/module/how-use-tor-windows#overlay=en/node/57/), with global encryption.
 
