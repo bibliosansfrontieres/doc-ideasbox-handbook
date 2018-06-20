@@ -13,7 +13,7 @@ Par défaut, le démarrage de l'ordinateur se fait sous Ubuntu.
 
 Les versions LTS (Long Term Support), qui sont supportées pendant 5 ans, sont préférées. La 14.04 a récemment fait place à la 16.04. La 18.04 présente actuellement quelques soucis concernant la session invité.
 
-Par dessus Ubuntu, on installe le paquet ```[edubuntu-desktop](https://packages.ubuntu.com/xenial/edubuntu-desktop)```, qui lui-même tire une collection d'application à but pédagogique.
+Par dessus Ubuntu, on installe le paquet [```edubuntu-desktop```](https://packages.ubuntu.com/xenial/edubuntu-desktop) qui lui-même tire une collection d'application à but pédagogique.
 
 L'ensemble de l'installation et de la configuration se fait au moyen d'un playbook ansible (un outil d'automatisation de la configuration et de la gestion), nommé `idbuntu` ([disponible sur Github](https://github.com/bibliosansfrontieres/idbuntu)). Sa lecture, bien que technique, documente la mise en oeuvre dans son intégralité.
 

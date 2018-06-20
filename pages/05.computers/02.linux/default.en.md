@@ -12,7 +12,7 @@ By default, the computer starts up using Ubuntu.
 
 LTS (Long Term Support) versions, which are supported for five years, are preferred.  Version 16.04 recently replaced 14.04.  There are currently some concerns regarding guest sessions on version 18.04.
 
-On top of Ubuntu, we install the ```[edubuntu-desktop](https://packages.ubuntu.com/xenial/edubuntu-desktop)``` package, which pulls a set of educational applications.
+On top of Ubuntu, we install the [```edubuntu-desktop```](https://packages.ubuntu.com/xenial/edubuntu-desktop) package, which pulls a set of educational applications.
 
 The installation and configuration can both be done using an ansible playbook (an automization tool for configuration and management) called `idbuntu`
 ([that is available on Github](https://github.com/bibliosansfrontieres/idbuntu)). The reading, although technical, describes the implementation in its entirety.
