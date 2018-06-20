@@ -45,7 +45,7 @@ L'idée est donc de procéder de la sorte pour installer des applications en der
     7. Puis cliquez sur **Lancer** en milieu/fin de page
     8. Une nouvelle fenêtre s'ouvrira pour vous demander votre login / mot de passe Google
 9. Un fois enregistré, téléchargez les applications souhaitées 
-10. Télécharger également l'application [**File Expert**](https://play.google.com/store/apps/details?id=xcxin.filexpert) pour faire un backup de vos applications téléchargées. 
+10. Télécharger également l'application [**File Expert**](https://play.google.com/store/apps/details?noprocess&id=xcxin.filexpert) pour faire un backup de vos applications téléchargées. 
 
 A ce stade, vous avez téléchargé vos applications gratuites et payantes. Il faut maintenant réaliser un backup de vos nouvelles applications pour les déployer sur toutes vos tablettes.
 
