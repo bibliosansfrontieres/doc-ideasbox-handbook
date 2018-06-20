@@ -52,7 +52,7 @@ This allows you to install the latest, most up-to-date, applications.
 
 3. Once saved, download the applications you wish to add to the tablets
 
-4. Also, we recommend downloading the [File Expert](https://play.google.com/store/apps/details?id=xcxin.filexpert) application to keep a back-up copy of your downloaded applications.
+4. Also, we recommend downloading the [File Expert](https://play.google.com/store/apps/details?noprocess&id=xcxin.filexpert) application to keep a back-up copy of your downloaded applications.
 
 At this point, you have downloaded your free applications and purchased others. You must now create a back-up of your new applications so they can be applied to all your tablets.
 
@@ -107,9 +107,9 @@ You may have to uninstall some applications in order to install others because o
 
 To do so, you must find the name of the application.
 
-Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
+Ex : [Helium - App Sync and Backup](https://play.google.com/store/apps/details?noprocess&id=com.koushikdutta.backup&hl=en)
 
-The URL contains the application’s full name : [https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
+The URL contains the application’s full name : [https://play.google.com/store/apps/details?noprocess&id=com.koushikdutta.backup&hl=en](https://play.google.com/store/apps/details?id=com.koushikdutta.backup&hl=en)
 
 The app name is just after `id=` therefore `com.koushikdutta.backup`
 
