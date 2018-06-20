@@ -13,7 +13,7 @@ Par défaut, le démarrage de l'ordinateur se fait sous Ubuntu.
 
 Les versions LTS (Long Term Support), qui sont supportées pendant 5 ans, sont préférées. La 14.04 a récemment fait place à la 16.04. La 18.04 présente actuellement quelques soucis concernant la session invité.
 
-Par dessus Ubuntu, on installe le paquet [```edubuntu-desktop```](https://packages.ubuntu.com/xenial/edubuntu-desktop) qui lui-même tire une collection d'application à but pédagogique.
+Par dessus Ubuntu, on installe le paquet [```edubuntu-desktop```](https://packages.ubuntu.com/xenial/edubuntu-desktop) qui lui-même tire une collection d'applications à but pédagogique.
 
 L'ensemble de l'installation et de la configuration se fait au moyen d'un playbook ansible (un outil d'automatisation de la configuration et de la gestion), nommé `idbuntu` ([disponible sur Github](https://github.com/bibliosansfrontieres/idbuntu)). Sa lecture, bien que technique, documente la mise en oeuvre dans son intégralité.
 
@@ -35,7 +35,7 @@ Toutes les personnalisations qui y seront effectuées se verront répliquées da
 
 Elle n'est donc pas à utiliser au quotidien.
 
-Le login est `ideascube`, le mot de passe est communiqué à la demande par BSF.
+Le login est `ideasbox`, le mot de passe est communiqué à la demande par BSF.
 
 ### La session `Admin`
 
@@ -43,7 +43,7 @@ Le login est `ideascube`, le mot de passe est communiqué à la demande par BSF.
 
 Elle n'est utilisée que par des techniciens, en cas de problème.
 
-Le login est `bsfadmins`, mais on préfère créer une session dédiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
+Le login est `bsfadmin`, mais on préfère créer une session dédiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
 
 ### Voir aussi
 

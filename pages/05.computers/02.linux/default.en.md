@@ -21,27 +21,27 @@ The installation and configuration can both be done using an ansible playbook (a
 
 There are three types of user sessions.
 
-### Guest Sessions
+### Guest Session
 
-**Guest sessions** are designed for users.
+**The Guest session** is designed for users.
 
-Among other characteristics, these sessions have amnesia: once opened, it is a completely new session, recreated based on a model, and the session is erased once it is closed.  Because of this, we don't have to worry about potential information left by each user, such as personal documents or log-in information for websites.
+Among other characteristics, this session hais amnesia: once opened, it is a completely new session, recreated based on a model, and the session is erased once it is closed.  Because of this, we don't have to worry about potential information left by each user, such as personal documents or log-in information for websites.
 
-### `Ideas Box` Sessions
+### `ideasbox` Session
 
-**`Ideas Box` Sessions** serve as a model for guest sessions.
+**The `ideasbox` Session** serve as a model for guest sessions.
 
-Any customizations, such as wallpaper or shortcuts, made in an Ideas Box session will be replicated in the guest session model. Thus, Ideas Box sessions are not meant to be used daily.
+Any customizations, such as wallpaper or shortcuts, made in the ideasbox session will be replicated in the guest session model. Thus, the ideasbox session is not meant to be used daily.
 
-To login to an Ideas Box session, use the username `ideascube`.  BSF will send the password to you upon request.
+To login to an ideasbox session, use the username `ideasbox`.  BSF will send the password to you upon request.
 
-### `Admin` Sessions
+### `Admin` Session
 
-**`Admin` Sessions** can be used for the administration and maintenance of the system. This is the only session with administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
+**The `Admin` Session** can be used for the administration and maintenance of the system. This is the only session with administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
 
 It is only used by technicians, in case problems arise.
 
-The login name is `bsfadmins`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
+The login name is `bsfadmin`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
 
 ### See Also
 
