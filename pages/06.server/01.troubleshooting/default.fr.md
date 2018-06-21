@@ -24,4 +24,4 @@ Si la batterie peut être rechargée, la recharger au plus vite pour éviter les
 * Brancher un clavier, une souris et un écran au serveur pour accéder à l'interface graphique.
 * Une fois l'écran branché, rentrer le login : ```ideascube``` et le mot de passe que BSF vous a transmis
 * Une fois connecté, cliquer en bas à gauche sur l'icône menu et sélectionnez "Outils système > LXTerminal"
-* Dans le LXTerminal, tapez : ```ideascube createsuperuser admin``` (```admin``` ou un autre utilisateur).
+* Dans le LXTerminal, tapez : ```ideascube changepassword admin``` (```admin``` ou un autre utilisateur).

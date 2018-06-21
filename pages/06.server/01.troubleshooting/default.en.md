@@ -28,4 +28,4 @@ title: 'Troubleshooting the Server'
 * Attach a keyboard, mouse, and screen to the server to access the graphical interface
 * Once the screen is connected, use the login name **ideascube** and the password that BSF sent you
 * Once connected, click on the icon menu at the lower left and select **System Tools > LXTerminal**
-* In LXTerminal, type```ideascube createsuperuser admin``` (```admin``` can be replaced with another username to change their password).
+* In LXTerminal, type```ideascube changepassword admin``` (```admin``` can be replaced with another username to change their password).
