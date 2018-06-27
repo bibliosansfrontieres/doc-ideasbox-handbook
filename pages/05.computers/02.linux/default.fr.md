@@ -64,4 +64,20 @@ Pour procéder à l'administration du système, il faudra tout d'abord se mettre
 
 Par défaut, Ubuntu télécharge et applique automatiquement les mises à jour de sécurité.
 
+### Upgrades
 
+#### Depuis Ubuntu 14.04
+
+La version 14.04 d'Ubuntu est une LTS (Long Term Support), dont le support arrive à terme début 2019. Il convient d'upgrader au moins vers 16.04, en suivant [la procédure standard](https://tutorials.ubuntu.com/tutorial/tutorial-upgrading-ubuntu-desktop). Mais d'abord, il faut s'occuper de Skype.
+
+Skype a disparu des dépôts partenaires, et une version 64bits est désormais disponible. On commence par désinstaller l'ancienne version 32bits :
+```
+sudo apt-get remove skype
+sudo dpkg --remove-architecture i386
+```
+Puis on installe Skype de nouveau, depuis un PPA :
+```
+sudo add-apt-repository ppa:andykimpe/skype
+sudo apt-get update
+sudo apt-get install skype
+```
