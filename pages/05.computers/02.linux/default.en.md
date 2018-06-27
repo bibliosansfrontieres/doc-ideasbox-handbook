@@ -68,7 +68,7 @@ By default, Ubuntu automatically downloads and applies security updates.
 
 The 14.04 version of Ubuntu is aa LTS (Long Term Support), for which support will be terminated in early 2019. It is time to upgrade to 16.04 at least, following the [standard process](https://tutorials.ubuntu.com/tutorial/tutorial-upgrading-ubuntu-desktop). But first, we have to deal with Skype.
 
-Skype was remooved from the pârtners repository, and a 64bits version was released. We first uninstall the old version:
+Skype was removed from the partners repository, and a 64bits version was released. We first uninstall the old version:
 ```
 sudo apt-get remove skype
 sudo dpkg --remove-architecture i386
