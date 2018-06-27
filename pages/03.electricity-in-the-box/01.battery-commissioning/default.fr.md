@@ -12,7 +12,7 @@ Pour des raisons de sécurités, la batterie n'est pas branché au réseau élec
 ### Déconnecter le serveur
 ![](comment-sertir-des-cosses-electriques.jpg?cropResize=100,100)
 
-Vérifier que le serveur IdeasBox n'est pas connecté au câble 12v menant aux cosses électrique de la  batterie représenté par un fil rouge et un fil noir 
+Vérifier que le serveur IdeasBox n'est pas connecté au câble 12V menant aux cosses électrique de la  batterie représenté par un fil rouge et un fil noir 
 ### Débrancher le module bleu du secteur
 ### Eteindre le convertisseur
 ![](20180607_162328.jpg)
@@ -32,7 +32,7 @@ Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les 
 
 ### Mise en service
 1. Replacer l'étagère blanche et le tiroir au dessus des appareils
-2. Rebrancher le serveur au câble 12v venant de la batterie
-3. Allumer éventuellement le convertisseur 12v -> 220v
-4. Raccorder le module bleu au secteur 220v 
+2. Rebrancher le serveur au câble 12V venant de la batterie
+3. Allumer éventuellement le convertisseur 12V -> 220V
+4. Raccorder le module bleu au secteur 220V 
 5. Contrôler que le chargeur de batterie charge correctement la batterie, le VU mètre de l'appareil devrait indiquer une position entre 0 et 30A

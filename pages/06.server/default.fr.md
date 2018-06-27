@@ -19,5 +19,5 @@ Le logiciel IdeasCube est un portail de contenus proposant des ressources docume
 
 ## Installation
 
-L'installation du serveur est automatisé grâce à un outil de déploiement appelé Ansible. Nous utilisons cet outil afin d'installer et paramétrer automatiquement tous les composants nécessaire au bon fonctionnement du serveur. Un descriptif des actions réalisés est disponible sur [GitHub](http://ansiblecube.doc.bibliosansfrontieres.org)
+L'installation du serveur est automatisé grâce à un outil de déploiement appelé Ansible. Nous utilisons cet outil afin d'installer et paramétrer automatiquement tous les composants nécessaires au bon fonctionnement du serveur. Un descriptif des actions réalisées est disponible sur [GitHub](http://ansiblecube.doc.bibliosansfrontieres.org).
 

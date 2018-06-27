@@ -15,7 +15,7 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 * recharger les tablettes via un chargeur USB 18 ports
 * brancher ponctuellement d'autres appareils électriques \(chargeur d'ordinateur portable, de tablettes, imprimante\). Pas d'appareils de puissance !
 
-**Tout cela peut aussi bien fonctionner sur secteur électrique 220v ou batterie 12v en mobilité **
+**Tout cela peut aussi bien fonctionner sur secteur électrique 220V ou batterie 12V en mobilité **
 
 
 
@@ -23,21 +23,21 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
 ---
 
-* **1 Batterie 12v 90Ah**
+* **1 Batterie 12V 90Ah**
 
   ![](batterie.png)
 
-  La batterie est chargée en permanence par le chargeur de batterie. La batterie joue le rôle d'accumulateur et délivre une tension 12v à tous les appareils connectés à ces bornes \(serveur, prises allume cigare, convertisseur 12v -&gt; 220v\)
+  La batterie est chargée en permanence par le chargeur de batterie. La batterie joue le rôle d'accumulateur et délivre une tension 12V à tous les appareils connectés à ces bornes \(serveur, prises allume cigare, convertisseur 12V -&gt; 220V\)
 
 ** IMPORTANT : ** La batterie est considérée comme complètement déchargée lorsque la tension à ses bornes est inférieure ou égale à 10,8v
 
 ---
 
-* **1 Chargeur de batterie 12v**
+* **1 Chargeur de batterie 12V**
 
   ![](chargeur_batterie.png)
 
-  Cet appareil permet la recharge de la batterie 12v en 3 étapes \(Bulk – absortion – floating\). Il peut rester connecté à la batterie en permanence sans créer aucun dommage à cette dernière.
+  Cet appareil permet la recharge de la batterie 12V en 3 étapes \(Bulk – absortion – floating\). Il peut rester connecté à la batterie en permanence sans créer aucun dommage à cette dernière.
 
 **BON A SAVOIR : ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
 
@@ -55,15 +55,15 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
   ![](tv.jpeg)
   
-  La télévision fonctionne uniquement en 220v. Lorsque le 220v n'est pas présent, elle est alimentée directement depuis le convertisseur 12v -&gt; 220v
+  La télévision fonctionne uniquement en 220V. Lorsque le 220V n'est pas présent, elle est alimentée directement depuis le convertisseur 12V -&gt; 220V
 
 ---
 
-* **1 Convertisseur 12v –&gt; 220v**  
+* **1 Convertisseur 12V –&gt; 220V**  
 
   ![](convertisseur.png)
   
-  Ce convertisseur permet de créer une tension alternative 220v à partir de la tension 12v de la batterie. L'utilisation de ce convertisseur est obligatoire lorsque l'IdeasBox n'est pas connecté au secteur 220v. Grâce à ce convertisseur il vous est donc possible d'alimenter en électricité 220v le module vidéo contenant la Télé, de faire fonctionner le serveur et de recharger les ordinateurs portables.
+  Ce convertisseur permet de créer une tension alternative 220V à partir de la tension 12V de la batterie. L'utilisation de ce convertisseur est obligatoire lorsque l'IdeasBox n'est pas connecté au secteur 220V. Grâce à ce convertisseur il vous est donc possible d'alimenter en électricité 220V le module vidéo contenant la Télé, de faire fonctionner le serveur et de recharger les ordinateurs portables.
 
   Caractéristiques :
 
@@ -79,7 +79,7 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
   ![](prise_secteur_iec.jpeg)
   
-  La prise standard 2 broches + terre permet de relier l'IdeasBox au réseau 220v ou à un générateur, l'autre extrémité se branche directement sur la prise male IEC du module électrique \(bleu ou jaune suivant le modèle\)
+  La prise standard 2 broches + terre permet de relier l'IdeasBox au réseau 220V ou à un générateur, l'autre extrémité se branche directement sur la prise male IEC du module électrique \(bleu ou jaune suivant le modèle\)
 
 * **1 prise male IEC**
 
@@ -99,7 +99,7 @@ Un disjoncteur différentiel est un dispositif de protection capable d'interromp
 
 ![](disjoncteur.jpeg)
 
-Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un réseau électrique et donc d'isoler les appareils en aval du disjoncteur du reste du circuit électrique. Il faut voir son usage comme un interrupteur ON/OFF. Le disjoncteur de 10A est utilisé entre autre pour la protection du convertisseur 12v -&gt; 220v, celui de 16A notamment pour le chargeur USB.
+Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un réseau électrique et donc d'isoler les appareils en aval du disjoncteur du reste du circuit électrique. Il faut voir son usage comme un interrupteur ON/OFF. Le disjoncteur de 10A est utilisé entre autre pour la protection du convertisseur 12V -&gt; 220V, celui de 16A notamment pour le chargeur USB.
 
 ---
 
@@ -111,11 +111,11 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
 ---
 
-* **1 Switch 3 positions \(12v -&gt; Rien -&gt; 220v\) \(nouvelle version\)**
+* **1 Switch 3 positions \(12V -&gt; Rien -&gt; 220V\) \(nouvelle version\)**
 
   ![](switch3.jpeg)
   
-  Sur le nouveau modèle \(électricité dans le module bleu\) ce switch 3 positions permet de sélectionner facilement le mode d'alimation du module. Sur secteur \(220v\) ou sur batterie \(12v\)
+  Sur le nouveau modèle \(électricité dans le module bleu\) ce switch 3 positions permet de sélectionner facilement le mode d'alimation du module. Sur secteur \(220V\) ou sur batterie \(12V\)
 
 ---
 
@@ -123,7 +123,7 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
   ![](multiprises.jpeg)
   
-  La multiprises peut être connectée directement sur le réseau 220v ou à l'arrière du convertisseur 12v -&gt; 220v, cela permet ainsi d'alimenter directement plusieurs appareils \(ex: chargeur de PC portable\) à partir de la batterie
+  La multiprises peut être connectée directement sur le réseau 220V ou à l'arrière du convertisseur 12V -&gt; 220V, cela permet ainsi d'alimenter directement plusieurs appareils \(ex: chargeur de PC portable\) à partir de la batterie
   
 ---
 
@@ -131,7 +131,7 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
   ![](prises_cigare.jpeg)
   
-  Ces prises peuvent alimenter des appareils ayant besoins d'être rechargés soit directement en 12v, soit en 5v à l'aide d'un convertisseur USB 12v → 5v. Ces prises sont directement alimentés par la batterie.
+  Ces prises peuvent alimenter des appareils ayant besoins d'être rechargés soit directement en 12V, soit en 5V à l'aide d'un convertisseur USB 12V → 5V. Ces prises sont directement alimentés par la batterie.
 
 ---
 
@@ -146,17 +146,17 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
 #### 12 V
 
-* la télévision via le convertisseur 12v –&gt; 220v
-* Le serveur Peren-IT directement connecté sur la batterie. Ce dernier peut être débranché du circuit pour être emporté ailleurs. Il est donc fourni avec un transformateur 220v -&gt; 12v
-* D'autres appareils, à concurrence de 2 selon leur consommation sur le convertisseur 12v -&gt; 220v. Celui-ci ne pouvant fournir que 800 Watts, il faut limiter le nombre d'appareils branchés dessus lorsque la box fonctionne en totale autonomie \(sur batterie\). Cas d'usage : Télé \(35 W\) + 2 ordinateurs \(374 W chacun\) = 773 W.
+* la télévision via le convertisseur 12V –&gt; 220V
+* Le serveur Peren-IT directement connecté sur la batterie. Ce dernier peut être débranché du circuit pour être emporté ailleurs. Il est donc fourni avec un transformateur 220V -&gt; 12V
+* D'autres appareils, à concurrence de 2 selon leur consommation sur le convertisseur 12V -&gt; 220V. Celui-ci ne pouvant fournir que 800 Watts, il faut limiter le nombre d'appareils branchés dessus lorsque la box fonctionne en totale autonomie \(sur batterie\). Cas d'usage : Télé \(35 W\) + 2 ordinateurs \(374 W chacun\) = 773 W.
 
-Il est fortement conseillé de **ne pas brancher le chargeur USB 18 ports** directement sur le **convertisseur 12v -&gt; 220v **car ce dernier pourrait vider la batterie rapidement. Nous vous conseillons plutôt de recharger l'ensemble des tablettes la veille ou lorsque vous avez accès à un réseau 220v
+Il est fortement conseillé de **ne pas brancher le chargeur USB 18 ports** directement sur le **convertisseur 12V -&gt; 220V **car ce dernier pourrait vider la batterie rapidement. Nous vous conseillons plutôt de recharger l'ensemble des tablettes la veille ou lorsque vous avez accès à un réseau 220V.
 
 **Maintenance du générateur** :  
 Faire une vidange du générateur toutes les 80H \(soit une fois par mois a priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
 
 ## Schéma simplifié
-Ce schéma montre l'utilisation du chargeur de batterie conjointement avec le convertisseur 12v -> 220v
+Ce schéma montre l'utilisation du chargeur de batterie conjointement avec le convertisseur 12V -> 220V
 
 ![](elec_simple.png)
 

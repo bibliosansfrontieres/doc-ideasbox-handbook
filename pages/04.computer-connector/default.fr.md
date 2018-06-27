@@ -19,5 +19,5 @@ Quelques types de connecteurs utilisés dans l'IdeasBox:
 ### Exemple de connectique présente à l'arrière d'un PC
 ![](arrière_carte_mère.jpeg)
 
-### Connecteur généralement recontrés
+### Connecteurs généralement rencontrés
 ![](computer-ports-identification-chart.jpg)

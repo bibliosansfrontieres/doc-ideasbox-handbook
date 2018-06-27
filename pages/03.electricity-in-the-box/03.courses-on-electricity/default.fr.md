@@ -13,7 +13,7 @@ Il faut savoir que l'électricité est très dangereuse et elle peut blesser voi
 * On évite de travailler sur un équipement en milieu humide : pas sous la pluie, pas les pieds dans l’eau. Le courant veut aller vers la terre, toujours : et il n'hésitera pas à passer par vous si possible.
 * On ne travaille donc **JAMAIS pieds nus** sur un circuit électrique ; si besoin, même avec des chaussures, on peut aussi se placer sur un tapis en caoutchouc ou un plancher qui isole de la terre. 
 * Si on doit intervenir sur un circuit électrique, on ne le fait pas dans un milieu bruyant, avec beaucoup de monde autour. On évacue les personnes, on travaille dans le calme, et dans un milieu sec et bien éclairé. De même, on ne travaille pas sur un circuit électrique dans l’urgence \(sauf pour couper, évidemment\). On ne travaille pas sur un circuit électrique si on est fatigué ou soucieux ou distrait. On doit pouvoir se concentrer entièrement sur le travail à mener, sans être distrait. 
-* Il ne faut **JAMAIS faire de court-circuit**. Un court circuit consiste à relier le plus au moins, pour les tensions continue 12v et la phase et le neutre pour les tension alternative 220v sans intercaler un consommateur d'électricité. Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
+* Il ne faut **JAMAIS faire de court-circuit**. Un court circuit consiste à relier le plus au moins, pour les tensions continue 12V et la phase et le neutre pour les tension alternative 220V sans intercaler un consommateur d'électricité. Un court circuit détruit instantanément l'installation électrique. Il peut se révéler très dangereux pour vous et pour ceux qui sont autour : les courts-circuits déclenchent facilement des incendies ou des explosions. 
 * Si on n'est pas sûr de soi, ou des conditions de travail, mieux vaut ne pas intervenir et régler le problème plus tard. Les risques sont importants si on travaille de façon douteuse. 
 
 ## Notions ampères heures/watts/volts
@@ -51,8 +51,8 @@ Dans le cadre de l'IdeasBox seul la fonction "tension aux bornes de l'appareil" 
 
 #### Branchement en voltmètre (en parallèle aux bornes de la batterie) :
 - On utilise les bornes V et COM du multimètre (COM correspondant au moins)  
-- Le commutateur de sélection doit être placé dans la zone DC pour une mesure en tension continu (AC est pour une tension alternative, ex: le 220v)
-- Différents calibres existent, le calibre 20 correpsond à "la lecture d'une tension jusqu'à 20v", la batterie fonctionne en 12v donc c'est le calibre approprié
+- Le commutateur de sélection doit être placé dans la zone DC pour une mesure en tension continu (AC est pour une tension alternative, ex: le 220V)
+- Différents calibres existent, le calibre 20 correpsond à "la lecture d'une tension jusqu'à 20v", la batterie fonctionne en 12V donc c'est le calibre approprié
 - Placer la pointe de touche noir sur la borne négative (-) de la batterie
 - Placer la pointe de touche rouge sur la borne positive (+) de la batterie
 - Lire la valeur sur l'écran digital (la batterie est complètement déchargé si la tension lu est inférieur ou égale à 10,8v)
@@ -61,7 +61,7 @@ Dans le cadre de l'IdeasBox seul la fonction "tension aux bornes de l'appareil" 
 
 ![](467517-tester-condensateur-3-3-main-12994453.jpg)
 
-## Différence 12v - 220v
+## Différence 12V - 220V
 
 La tension électrique est la circulation du champ électrique le long d'une paire de fil de cuivre. Son unité est le volt et peut être mesuré par un voltmètre. Elle est souvent notée U, mais aussi parfois V dans les circuits électriques.
 
@@ -85,7 +85,7 @@ Il existe plusieurs types de batteries différentes :
 * Lithium Ion : Celle de votre téléphone portable
 * etc.
 
-Dans l'Ideasbox nous utilisons une batterie de type Gel 12v, 90Ah.  
+Dans l'Ideasbox nous utilisons une batterie de type Gel 12V, 90Ah.  
 Les batteries Gel ont en général une durée de vie plus longue et une meilleure capacité de cyclage.
 
 **Capacité ou "capacité de stockage"**  
