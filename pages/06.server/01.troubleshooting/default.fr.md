@@ -25,3 +25,13 @@ Si la batterie peut être rechargée, la recharger au plus vite pour éviter les
 * Une fois l'écran branché, rentrer le login : ```ideascube``` et le mot de passe que BSF vous a transmis
 * Une fois connecté, cliquer en bas à gauche sur l'icône menu et sélectionnez "Outils système > LXTerminal"
 * Dans le LXTerminal, taper : ```ideascube changepassword admin``` (```admin``` ou un autre utilisateur).
+
+## J'ai perdu le chargeur
+
+Ou son embout.
+
+Le serveur encaisse une tension de 7V à 20V, il faut préférer le 12V.
+
+Au bout du chargeur, le connecteur est détachable. Il peut arriver qu'on en perde l'embout. Celui-ci peut se trouver assez facilement dans le commerce.
+Cependant il faudra faire attention à son format : il ressemble à un embout "classique" 2.5/5.5, mais tous les embouts 2.5/5.5 ne rentrent pas dedans.
+Histoire de s'éviter des surprises, on prendra soin d'emmener le sreveur en magasin afin de tester le potentiel achat et s'assurer qu'il rentre bien dans la prise femelle.
