@@ -21,3 +21,4 @@ Le logiciel IdeasCube est un portail de contenus proposant des ressources docume
 
 L'installation du serveur est automatisé grâce à un outil de déploiement appelé Ansible. Nous utilisons cet outil afin d'installer et paramétrer automatiquement tous les composants nécessaires au bon fonctionnement du serveur. Un descriptif des actions réalisées est disponible sur [GitHub](http://ansiblecube.doc.bibliosansfrontieres.org).
 
+Note : le serveur n'est pas destiné à être branché sur la télé. Pour afficher sur la télé un contenu présent sur le serveur, il faut brancher un des laptops à la télé ; c'est depuis cet ordinateur qu'on affichera l'interface Ideascube.
