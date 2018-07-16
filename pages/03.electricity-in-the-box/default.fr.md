@@ -127,11 +127,11 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
   
 ---
 
-* **Prises allume cigare \(ancien version\)**
+* **Prises allume cigare \(ancienne version\)**
 
   ![](prises_cigare.jpeg)
   
-  Ces prises peuvent alimenter des appareils ayant besoins d'être rechargés soit directement en 12V, soit en 5V à l'aide d'un convertisseur USB 12V → 5V. Ces prises sont directement alimentés par la batterie.
+  Ces prises peuvent alimenter des appareils ayant besoin d'être rechargés soit directement en 12V, soit en 5V à l'aide d'un convertisseur USB 12V → 5V. Ces prises sont directement alimentées par la batterie.
 
 ---
 
