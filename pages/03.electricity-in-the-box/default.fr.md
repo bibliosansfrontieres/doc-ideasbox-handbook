@@ -29,7 +29,7 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
   La batterie est chargée en permanence par le chargeur de batterie. La batterie joue le rôle d'accumulateur et délivre une tension 12V à tous les appareils connectés à ces bornes \(serveur, prises allume cigare, convertisseur 12V -&gt; 220V\)
 
-** IMPORTANT : ** La batterie est considérée comme complètement déchargée lorsque la tension à ses bornes est inférieure ou égale à 10,8v
+>>>** IMPORTANT : ** La batterie est considérée comme complètement déchargée lorsque la tension à ses bornes est inférieure ou égale à 10,8V.
 
 ---
 
@@ -39,7 +39,7 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
   Cet appareil permet la recharge de la batterie 12V en 3 étapes \(Bulk – absortion – floating\). Il peut rester connecté à la batterie en permanence sans créer aucun dommage à cette dernière.
 
-**BON A SAVOIR : ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
+>>>>>>**BON A SAVOIR : ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
 
 ---
 
