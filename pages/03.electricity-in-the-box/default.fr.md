@@ -43,7 +43,7 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
 ---
 
-* **1 Serveur Web Peren IT 12 v**
+* **1 Serveur Web Peren IT 12V**
 
   ![](eCW4950_34_peren-it.jpg)
   
@@ -153,7 +153,7 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 Il est fortement conseillé de **ne pas brancher le chargeur USB 18 ports** directement sur le **convertisseur 12V -&gt; 220V **car ce dernier pourrait vider la batterie rapidement. Nous vous conseillons plutôt de recharger l'ensemble des tablettes la veille ou lorsque vous avez accès à un réseau 220V.
 
 **Maintenance du générateur** :  
-Faire une vidange du générateur toutes les 80H \(soit une fois par mois a priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
+Faire une vidange du générateur toutes les 80h \(soit une fois par mois à priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
 
 ## Schéma simplifié
 Ce schéma montre l'utilisation du chargeur de batterie conjointement avec le convertisseur 12V -> 220V
