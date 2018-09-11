@@ -135,7 +135,7 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
 ---
 
-* **(optionnel) 1 x générateur (groupe électrogène)
+* **(optionnel) 1 x générateur (groupe électrogène)**
 
   ![](generator.jpg)
 
