@@ -135,6 +135,16 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
 ---
 
+* **(optionnel) 1 x générateur (groupe électrogène)
+
+  ![](generator.jpg)
+
+Le groupe électrogène peut être utilisé pour fournir de l'électricité. Il fonctionne à l'essence.
+
+>>>**Maintenance :** Faire une vidange du générateur toutes les 80h \(soit une fois par mois à priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
+
+---
+
 ### Liste des appareils alimentés en...
 
 #### 220 V
@@ -151,9 +161,6 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 * D'autres appareils, à concurrence de 2 selon leur consommation sur le convertisseur 12V -&gt; 220V. Celui-ci ne pouvant fournir que 800 Watts, il faut limiter le nombre d'appareils branchés dessus lorsque la box fonctionne en totale autonomie \(sur batterie\). Cas d'usage : Télé \(35 W\) + 2 ordinateurs \(374 W chacun\) = 773 W.
 
 Il est fortement conseillé de **ne pas brancher le chargeur USB 18 ports** directement sur le **convertisseur 12V -&gt; 220V **car ce dernier pourrait vider la batterie rapidement. Nous vous conseillons plutôt de recharger l'ensemble des tablettes la veille ou lorsque vous avez accès à un réseau 220V.
-
-**Maintenance du générateur** :  
-Faire une vidange du générateur toutes les 80h \(soit une fois par mois à priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
 
 ## Schéma simplifié
 Ce schéma montre l'utilisation du chargeur de batterie conjointement avec le convertisseur 12V -> 220V

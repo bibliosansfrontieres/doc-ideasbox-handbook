@@ -137,6 +137,16 @@ These plugs can power devices that need to be charged either directly at 12 V, o
 
 ---
 
+* **(optional) 1 x Portable power generator**
+
+  ![](generator.jpg)
+
+This generator can be used to provide some electricity. It works with petrol.
+
+>>>**Maintenance:** Drain the generator every 80h (about once a month).  It is important to note the hours of operation to keep track of generator usage.
+
+---
+
 ### List of Devices Powered by...
 
 #### 220 V
@@ -153,9 +163,6 @@ These plugs can power devices that need to be charged either directly at 12 V, o
 * A few other devices, depending on their consumption of the 12 V -&gt; 220 V converter.  Since it can only supply 800 watts, it is necessary to limit the number of devices connected to it when the box is on battery. Example usage: Television \(35 W\) + 2 computers \(374 W each\) = 773 W.
 
 >>>>>We strongly suggest that you **do not plug the 18 port USB charger** directly into the **12 V -&gt; 220 V converter** because this will drain the battery rapidly.  We suggest that you instead recharge the tablets at night or when you have access to the 220-V main supply.
-
-**Generator Maintenance**:  
-Drain the generator every 80 H (about once a month).  It is important to note the hours of operation to keep track of generator usage.
 
 ## Simplified Diagram
 This diagram illustrates how the battery charger is used alongside the 12 V -> 220 V converter.
