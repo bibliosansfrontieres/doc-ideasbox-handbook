@@ -75,7 +75,7 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
 
 ---
 
-* **1 prise d'alimentation générale et sa prise IEC femelle**
+* **1 câble d'alimentation IEC**
 
   ![](prise_secteur_iec.jpeg)
   

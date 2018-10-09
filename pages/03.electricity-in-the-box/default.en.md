@@ -77,7 +77,7 @@ This converter permits the creation of a 220-V current in addition to the 12 V f
 
 ---
 
-* **1 General Power Cord**
+* **1 IEC Power Cord**
 
   ![](prise_secteur_iec.jpeg)
   
