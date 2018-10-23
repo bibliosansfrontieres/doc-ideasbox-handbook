@@ -141,6 +141,8 @@ Un disjoncteur permet de protéger contre les surintensités et d'ouvrir un rés
 
 Le groupe électrogène peut être utilisé pour fournir de l'électricité. Il fonctionne à l'essence.
 
+Plus d'information sur la mise en service dans la section [Générateur](04.power-generator)
+
 >>>**Maintenance :** Faire une vidange du générateur toutes les 80h \(soit une fois par mois à priori\). Il est important de noter les heures de fonctionnement afin de faire un suivi de l'utilisation du générateur.
 
 ---
