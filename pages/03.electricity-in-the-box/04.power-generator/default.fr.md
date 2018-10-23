@@ -1,8 +1,12 @@
-# Générateur SDMO PRO 2000
+---
+title: 'Générateur SDMO PRO 2000'
+---
 
 ![](../generator.jpg)
 
 > > > Le générateur est livré **sans huile** et **sans essence**
+
+
 
 
 
@@ -42,6 +46,8 @@ Lors de sa première utilisation le générateur aura besoin d'être remplie ave
 * **Essence** : 4,2L d'essence sans  plomb
 
 > > > Procurez vous un entonnoir pour remplir les réservoirs d'huile et d'essence. 
+
+
 
 > > > > A l'aide de l'entonnoir, remplissez d'abord le réservoir d'huile puis celui d'essence. Si il y a des restes il est préférable d'avoir de l'huile dans l'essence plutôt que l'inverse. 
 
