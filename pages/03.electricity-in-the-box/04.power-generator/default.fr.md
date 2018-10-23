@@ -10,7 +10,7 @@ title: 'Générateur SDMO PRO 2000'
 
 
 
-> > > > Cette documentation est tirée du manuel "Invertaire PRO 2000" fournit dans l'IdeasBox, reportez vous de préférence à ce dernier pour la bonne compréhension de son fonctionnement
+> > > > Cette documentation est tirée du manuel "Invertaire PRO 2000" fourni dans l'IdeasBox, reportez vous de préférence à ce dernier pour la bonne compréhension de son fonctionnement.
 
 
 
@@ -23,7 +23,7 @@ Documentation de présentation des [produits SMDO](https://www.kohler-sdmo.com/i
 | Fréquence (Hz)                                   | 50 Hz     |
 | Puissance max (kW)                               | 2         |
 | Tension nominale (V)                             | 230       |
-| Nombre de Phase                                  | Monophasé |
+| Nombre de Phases                                 | Monophasé |
 | Carburant                                        | Essence   |
 | Réservoir (L)                                    | 4,20      |
 | Conso. 75% (L/h)                                 | 0,90      |
@@ -34,13 +34,13 @@ Documentation de présentation des [produits SMDO](https://www.kohler-sdmo.com/i
 
 ## Capacité et autonomie 
 
-Le réservoir à une capacité de 4,2 L d'essence
+Le réservoir a une capacité de 4,2 L d'essence
 
 L'autonomie est d'environ 4,7 heure
 
 ## Pré-requis
 
-Lors de sa première utilisation le générateur aura besoin d'être remplie avec 
+Lors de sa première utilisation le générateur aura besoin d'être rempli avec 
 
 * **Huile** : 0,4 L d'huile de type SAE 10W30
 * **Essence** : 4,2L d'essence sans  plomb
@@ -49,7 +49,7 @@ Lors de sa première utilisation le générateur aura besoin d'être remplie ave
 
 
 
-> > > > A l'aide de l'entonnoir, remplissez d'abord le réservoir d'huile puis celui d'essence. Si il y a des restes il est préférable d'avoir de l'huile dans l'essence plutôt que l'inverse. 
+> > > > À l'aide de l'entonnoir, remplissez d'abord le réservoir d'huile puis celui d'essence. Si il y a des restes il est préférable d'avoir de l'huile dans l'essence plutôt que l'inverse. 
 
 
 
@@ -83,7 +83,7 @@ Lors de sa première utilisation le générateur aura besoin d'être remplie ave
 
 4. Refermer bouchon et trappe
 
-### Faire le plain d'essence
+### Faire le plein d'essence
 
 1. Vérifier visuellement le niveau d'essence sur l'indicateur présent à côté du gros bouchon de remplissage du carburant
    ![20181023_114532](20181023_114532.jpg)
@@ -113,20 +113,20 @@ Lors de sa première utilisation le générateur aura besoin d'être remplie ave
 1. Arrêter et débrancher les appareils utilisés 
 2. Mettre le commutateur de fonctionnement économique sur la position Lièvre et laisser le groupe électrogène tourner à vide quelques minutes 
    ![20181023_114450](20181023_114450-1540306927164.jpg)
-3. Mettre l'interrupteur ON /OFF "appuyé" sur la "position" gauche
+3. Mettre l'interrupteur ON/OFF "appuyé" sur la "position" gauche
    ![20181023_114453](20181023_114453.jpg)
 4. Tourner le robinet du carburant sur la position "OFF"
    ![20181023_114504](20181023_114504.jpg)
 5. Fermer l'aération du carburant en le positionnant sur "OFF"
    ![20181023_114512](20181023_114512.jpg)
 
-## Entretient
+## Entretien
 
-Il faut noter le nombre d'heure d'utilisation du groupe électrogène afin de pouvoir réaliser un suivit précis des pièces à entretenir. 
+Il faut noter le nombre d'heures d'utilisation du groupe électrogène afin de pouvoir réaliser un suivi précis des pièces à entretenir. 
 
-Pour le tableau d'entretient, reportez vous à la section 5.2 du tableau d'échéance présent dans le manuel livré avec le groupe électrogène
+Pour le tableau d'entretien, reportez vous à la section 5.2 du tableau d'échéance présent dans le manuel livré avec le groupe électrogène
 
-> > > Reportez vous aux sections 5.3 pour le renouvellement de l'huile et l'entretient de manière générale
+> > > Reportez vous aux sections 5.3 pour le renouvellement de l'huile et l'entretien de manière générale
 
 
 
@@ -139,4 +139,4 @@ Pour le tableau d'entretient, reportez vous à la section 5.2 du tableau d'éch�
    ![20181023_114504](20181023_114504.jpg)
 
    ![20181023_114512](20181023_114512.jpg)
-3. L'appareil doit être transporté en position vertical, en aucun cas il doit être transporté couché sur le côté
+3. L'appareil doit être transporté en position verticale, en aucun cas il doit être transporté couché sur le côté
