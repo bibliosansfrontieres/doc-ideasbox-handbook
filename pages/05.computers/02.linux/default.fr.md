@@ -19,7 +19,7 @@ L'ensemble de l'installation et de la configuration se fait au moyen d'un playbo
 
 ## Les sessions
 
-Il existe trois sessions utilisateurs.
+Il existe trois types de sessions utilisateurs.
 
 ### La session invité
 
@@ -37,13 +37,13 @@ Elle n'est donc pas à utiliser au quotidien.
 
 Le login est `ideasbox`, le mot de passe est communiqué à la demande par BSF.
 
-### La session `Admin`
+### Les sessions Admin
 
-**La session `Admin`** sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
+**La session `Local Admin`** sert à l'administration et l'entretien du système. C'est la seule session qui dispose des droits administrateurs, permettant ainsi d'ajouter ou supprimer des logiciels, intervenir sur la configuration réseau et toute autre composante du système.
 
-Elle n'est utilisée que par des techniciens, en cas de problème.
+La première fois qu'on ouvre une session avec ce compte, un changement de mot de passe est exigé. Le mot de passe initial est `ChooseAStrongPasswordPLZ` et nous vous invitons à utiliser un nouveau mot de passe relativement fort.
 
-Le login est `bsfadmin`, mais on préfère créer une session dédiée pour le technicien local. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
+Le compte `bsfadmin` est destiné aux équipes de BSF, pour les opérations de maintenance et de support. Les clés SSH des techniciens BSF restent présentes dans le compte root ; si elles sont supprimées, aucun support ne peut alors être fourni.
 
 ### Voir aussi
 

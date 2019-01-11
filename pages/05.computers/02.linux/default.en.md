@@ -35,13 +35,13 @@ Any customizations, such as wallpaper or shortcuts, made in the ideasbox session
 
 To login to an ideasbox session, use the username `ideasbox`.  BSF will send the password to you upon request.
 
-### `Admin` Session
+### Admins Sessions
 
-**The `Admin` Session** can be used for the administration and maintenance of the system. This is the only session with administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
+**The `Local Admin` Session** can be used for the administration and maintenance of the system. This is the only session with administrative rights, and thus the only one that permits you to add or delete software or programs, change the network configuration, and edit other system components.
 
-It is only used by technicians, in case problems arise.
+The first time you open a session using this account, a password change is required. The initial password is `ChooseAStrongPasswordPLZ` and you're kindly invited to do so.
 
-The login name is `bsfadmin`, but we prefer to create a dedicated session for the local technician.  The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
+There is an other admin account, which is `bsfadmin`, used for maintenance/troubleshooting from the BSF team. The BSF technicians' SSH keys remain present in the root account.  If they are deleted, no support can be provided.
 
 ### See Also
 
