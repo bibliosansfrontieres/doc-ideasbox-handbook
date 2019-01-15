@@ -154,12 +154,13 @@ Plus d'information sur la mise en service dans la section [Générateur](power-g
 * la télévision,
 * le chargeur USB 18 ports
 * le chargeur de batterie \(permet le rechargement de la batterie\)
+* Le serveur Web Peren IT grâce au transformateur 220V - 12V fourni
 * Une prise multiple permet de brancher 4 ou 5 autres appareils supplémentaires
 
 #### 12 V
 
 * la télévision via le convertisseur 12V –&gt; 220V
-* Le serveur Peren-IT directement connecté sur la batterie. Ce dernier peut être débranché du circuit pour être emporté ailleurs. Il est donc fourni avec un transformateur 220V -&gt; 12V
+* Le serveur Web Peren IT directement connecté sur la batterie.
 * D'autres appareils, à concurrence de 2 selon leur consommation sur le convertisseur 12V -&gt; 220V. Celui-ci ne pouvant fournir que 800 Watts, il faut limiter le nombre d'appareils branchés dessus lorsque la box fonctionne en totale autonomie \(sur batterie\). Cas d'usage : Télé \(35 W\) + 2 ordinateurs \(374 W chacun\) = 773 W.
 
 Il est fortement conseillé de **ne pas brancher le chargeur USB 18 ports** directement sur le **convertisseur 12V -&gt; 220V **car ce dernier pourrait vider la batterie rapidement. Nous vous conseillons plutôt de recharger l'ensemble des tablettes la veille ou lorsque vous avez accès à un réseau 220V.
