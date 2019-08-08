@@ -89,6 +89,8 @@ The Ideas Box was designed to be easily repaired and the equipment in the Box is
 
 The most fragile parts are the module door locks and the low table legs (in the new models).
 
+The clip from the wheels can be put back in place ([see the video](http://static.bibliosansfrontieres.org/ideasbox-wheel-clip.mp4))
+
 ### Electrical repairs
 
 Before attempting any repairs, even measuring the battery’s charge, be sure to read the **“General safety information”** section of the **“Electricity in the Ideas Box”** page.
