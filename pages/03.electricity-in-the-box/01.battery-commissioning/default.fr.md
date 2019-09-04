@@ -34,5 +34,6 @@ Nous vous conseillons de vous mettre à la lumière afin de bien distinguer les 
 1. Replacer l'étagère blanche et le tiroir au dessus des appareils
 2. Rebrancher le serveur au câble 12V venant de la batterie
 3. Allumer éventuellement le convertisseur 12V -> 220V
-4. Raccorder le module bleu au secteur 220V 
-5. Contrôler que le chargeur de batterie charge correctement la batterie, le VU mètre de l'appareil devrait indiquer une position entre 0 et 30A
+4. Assurez vous que la gachette des 3 disjoncteur est en position haute
+5. Raccorder le module bleu au secteur 220V 
+6. Contrôler que le chargeur de batterie charge correctement la batterie, le VU mètre de l'appareil devrait indiquer une position entre 0 et 30A
