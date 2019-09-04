@@ -38,8 +38,7 @@ The battery is continually charged by its charger.  It plays the role of accumul
 
   ![](chargeur_batterie.png)
   
-This device allows 3 levels of charging for the 12-V battery (bulk - absortion - floating).  It can be connected to the battery permanently without causing any damage to it.
-
+This device allows 3 levels of charging for the 12-V battery (bulk - absortion - floating).  It can be connected to the battery permanently without causing any damage to it. 
 Working volatage / frequency : 90-265 VCA 50/60 Hz, see [datasheet](https://www.victronenergy.fr/upload/documents/Datasheet-Centaur-Charger-FR.pdf) for more informations
 
 >>>>>**GOOD TO KNOW**: The device has an indicator which can tell you whether or not it is chargering the battery.  The VU-meter (the white box at the top right of the battery) indicates the amount of electricity being tranferred to the battery.  If the needle is pointed towards the right (20, 30 A), the battery is in the process of charging.  If the hand is pointed close to zero, the battery is recharged.
