@@ -38,7 +38,6 @@ L'IdeasBox intègre un circuit électrique. Il sert à :
   ![](chargeur_batterie.png)
 
   Cet appareil permet la recharge de la batterie 12V en 3 étapes \(Bulk – absortion – floating\). Il peut rester connecté à la batterie en permanence sans créer aucun dommage à cette dernière.
-
 Voltage / Fréquence d'utilisation : 90-265 VCA 50/60 Hz, plus d'informations dans la [fiche technique](https://www.victronenergy.fr/upload/documents/Datasheet-Centaur-Charger-FR.pdf)
 
 >>>>>>**BON A SAVOIR : ** Cet appareil permet d'indiquer si ce dernier charge ou non la batterie. En effet, le "VU-mètre" (case blanche en haut à droite) indique la quantité d'intensité injectée dans la batterie pour la recharger. Si l'aiguille est orientée vers la droite (20, 30A) la batterie est en cours de charge ; si l'aiguille est proche de 0, la batterie est rechargée.
