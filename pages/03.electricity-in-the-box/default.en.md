@@ -68,7 +68,7 @@ This is the server that stores video content, PDFs, and a host of other media. I
   
 This converter permits the creation of a 220-V current in addition to the 12 V from the battery.  Using this converter is obligatory when the Ideas Box is not connected to the 220-V power supply.  Thanks to this converter, it is possible to supply electricity to the cinema module, where the television is, run the server, and charge the laptops.
 
-The `I`/`O`/`II` (`ON`/`OFF/`ECO`) button can be set to the `ECO` position, which is enough to cover the IdeasBox needs.
+The `I`/`O`/`II` (`ON`/`OFF`/`ECO`) button can be set to the `ECO` position, which is enough to cover the IdeasBox needs.
 
   Characteristics and specifications:
   * Converter power at 25°C: 800 VA  
