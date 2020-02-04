@@ -66,6 +66,8 @@ Voltage / Fréquence d'utilisation : 90-265 VCA 50/60 Hz, plus d'informations da
   
   Ce convertisseur permet de créer une tension alternative 220V à partir de la tension 12V de la batterie. L'utilisation de ce convertisseur est obligatoire lorsque l'IdeasBox n'est pas connecté au secteur 220V. Grâce à ce convertisseur il vous est donc possible d'alimenter en électricité 220V le module vidéo contenant la Télé, de faire fonctionner le serveur et de recharger les ordinateurs portables.
 
+Le bouton `I`/`O`/`II` (`ON`/`OFF/`ECO`) peut être laissé en position `ECO`, suffisant pour les besoins de l'IdeasBox.
+
   Caractéristiques :
 
   * Puissance du convertisseur à 25°C : 800 VA  
