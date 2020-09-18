@@ -14,6 +14,26 @@ title: 'Dépannage du serveur'
 - Redémarrer le serveur une première fois et attendre quelques minutes, vérifier si le hotspot apparaît à nouveau.
 - Contacter BSF pour une intervention à distance 
 
+## L'écran affiche du texte blanc sur fond noir
+
+![](server-fsck.jpg)
+
+L'écran affiche un message `UNEXPECTED INCONSISTENCY` et indique également `The root filesystem on /dev/sda1 requires a manual fsck`.
+
+Le serveur a probablement été éteint brutalement, et le système de fichier doit être vérifié. Au prompt `(initramfs)`, tapez la commande suivante :
+
+```
+fsck -y /dev/sda1
+```
+
+Des lignes défilent, entre un peu et vraiment beaucoup, puis le prompt `(initramfs)` s'affiche de nouveau. Tapez alors la commande suivante :
+
+```
+sync
+```
+
+Lorsque le prompt réapparait, vous pouvez éteindre le serveur en maintenant le bouton Power appuyé. Le prochain démarrage devrait se dérouler sans souci.
+
 ## J'ai perdu le mot de passe admin
 
 * Brancher un clavier, une souris et un écran au serveur pour accéder à l'interface graphique.

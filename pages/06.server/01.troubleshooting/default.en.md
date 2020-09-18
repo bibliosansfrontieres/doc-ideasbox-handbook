@@ -14,6 +14,25 @@ title: 'Troubleshooting the Server'
 - Restart the server and check if the hotspot has appeared after several minutes.
 - Contact Bibliothèques Sans Frontière for remote assitance.
 
+## The screen displays some white test on a black background
+
+![](server-fsck.jpg)
+
+The message says `UNEXPECTED INCONSISTENCY` and also suggests that `The root filesystem on /dev/sda1 requires a manual fsck`.
+The server was probably shut down brutaly, and the filesystem needs to be checked. At the `(initramfs)` proimpt, type this command:
+
+```
+fsck -y /dev/sda1
+```
+
+Lines start to flood, a bit or a lot, then the `(initramfs)` prompt comes back. At this point, type this command:
+
+```
+sync
+```
+
+When the prompt comes back again,, you can shut down the server by keeping the Power button pressed for a few seconds. The next boot should be flawless.
+
 ## I forgot the admin password
 
 * Attach a keyboard, mouse, and screen to the server to access the graphical interface
