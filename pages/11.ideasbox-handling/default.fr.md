@@ -2,16 +2,15 @@
 title: 'Manutention de l''IdeasBox'
 ---
 
-![](ideasbox_palette.png)
+## Déploiement
 
-Le déploiement de l'IdeasBox nécessite au minimum un espace minimum de 20 m², si l'assemblage se fait module par module, pour pouvoir tourner autour sans problème.
+**Idéalement, une fois déployée, 100m2** sont nécessaires pour l’Ideas Box afind’accueillir les usagers et de faciliter leur circulation entre les modules. Néanmoins, l’Ideas Box est un dispositif modulable qui peut-être adapté à la plupart des configurations. Une installation « partielle » peut être envisagé sur une surface moindre (**>30m2**). **Un sol lisse** est nécessaire pour permettre de faire rouler les modules. Si les conditions météorologiques le permettent, l’Ideas Box peut être déployée en extérieur.
 
-**Rappel** : les modules sont relativement lourds ! À vide :
+Il faut compter environ **20 minutes** pour l'installation et un temps équivalent pour le rangement.  
 
-* **80 kg** pour les premières versions,
-* **50 kg** pour les nouvelles versions \(Hemingway\).
+Il est également conseillé d’avoir un point d’eau dans l’espace de déploiement et/ou stockage de l’Ideas Box (pour que les usagers se lavent les mains à l’entrée). 
 
-Lorsque vous manipulez un module :
+Lorsque vous manipulez un module (relativement lourds, entre 50 et 80° kg selon les éqiupements de votre box) :
 
 ![](dos-lever.jpg)
 
@@ -45,12 +44,12 @@ Pour mettre ou enlever les roulettes, il faut basculer les modules sur le côté
 
 Les modules et tables de l'IdeasBox doivent être stockés dans un endroit couvert, au sec, en intérieur. L'IdeasBox ne doit pas rester sous la pluie, spécialement le module bleu qui comporte des risques d'infiltration même fermé lorsque la box est sous une forte pluie.
 
-Il est plus simple de stocker l'IdeasBox montée sur roulette.  
-Cependant, si pour des raisons de place vous devez stocker les modules les uns sur les autres, il est indispensable de démonter les roulettes.  
-Ne superposez pas plus de 2 modules. Solidarisez-les avec une sangle.  
-Mettez les modules les plus lourds en dessous.
+Il est plus simple de stocker l'IdeasBox montée sur roulette. La surface nécessaire pour ranger les 4 modules sur roulettes est de **9m2** au sol.  Cependant, si pour des raisons de place vous devez stocker les modules les uns sur les autres, il est indispensable de démonter les roulettes et de les solidariser avec une sangle. Mettez les modules les plus lourds en dessous. Ne superposez pas plus de 2 modules.
 
 Lorsque la box est stockée, fermez tous les modules et sécurisez le tout avec une chaîne antivol. Passez la dans les poignées de l'IdeasBox et le trou au milieu des tables pour solidariser le tout.
+
+Si l'Ideasbox n'a jamais été déployée, vous pouvez également la stocker sur **palette**. La **surface nécessaire est alors de 3 m3** avec une **hauteur minimale de 1,65m**. 
+
 
 ## Transport
 
@@ -58,9 +57,24 @@ Pour transporter l'IdeasBox dans un véhicule il est indispensable de :
 
 * démonter les roulettes
 * vider le générateur de tous ses fluides
-* solidariser les modules avec une sangle
+* solidariser les modules avec une **sangle**
 * Ne pas empiler plus de 2 modules
 * mettre les modules les plus lourds en dessous
 
+Le véhicule doit faire **12 m3** minimum et doit être éqiupé d'un hayon ou d'une rampe. Les modules doivent être attachés à l'aide d'une sangle. 
 
+Sur roulettes : le lieu d’installation (ou de stockage), doit être accessible par rampe ou ascenseur (porte > 80 cm de largeur).
+
+
+## Caractéristiques techniques générales
+
+* **Volume** : Lors du transport, une Ideas Box représente un total de 2 palettes (voir image ci-dessus) de taille standard européenne – (EUROPAL - 80*120cm) = environs 3 m3
+* **Poids** :  le poids total du colis (2 palettes + 6 modules) est de 760 kg. Les modules individuels pèsent entre 50Kg (pour les nouvelles versions) et 80kg (pour les premières versions)
+* Dimensions : 
+  * modules 90 cm (largeur) x 85 cm (hauteur) x 78 cm de profondeur
+  * Les caisses pour les tables 144 cm x 30 cm x 178 cm
+* **Energie** : les Ideas Box une fois déployées ne nécessitent qu’une prise électrique (220v 10A ou 110v avec terre). Vous trouverez pus de détails dans la partie [l'électricité dans l'ideasbox](http://ideasbox.doc.bibliosansfrontieres.org/fr/electricity-in-the-box) de ce guide.
+* **Accès internet** : l’Ideas Box ne **fournit pas d’accès Internet**. Cependant le matériel informatique fourni, [ordinateurs](http://ideasbox.doc.bibliosansfrontieres.org/fr/computers) et tablettes, permettent de se connecter à un réseau wifi existant. L'ideasbox est également fournie avec un [ideascube](http://ideascube-hardware.doc.bibliosansfrontieres.org/en) permettant d'accéder à plus de 300 GO de ressources numériques sélectionnées pour les projets.
+
+![](ideasbox_palette.png)
 
