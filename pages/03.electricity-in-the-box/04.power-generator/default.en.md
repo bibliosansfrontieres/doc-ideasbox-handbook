@@ -1,5 +1,5 @@
 ---
-title: 'Générateur SDMO PRO 2000'
+title: 'SDMO PRO 2000 Generator'
 ---
 
 ![](../generator.jpg)
@@ -12,21 +12,21 @@ title: 'Générateur SDMO PRO 2000'
 
 [SMDO product presentation documentation ](https://www.kohler-sdmo.com/images/shared/PPW/800/PPW-PR-DO-FR-62.pdf) 
 
-####Caractéristiques
+#### Features
 
-| Gamme                                            | PRESTIGE  |
+| Range                                            | PRESTIGE  |
 | ------------------------------------------------ | --------- |
 | Frequency (Hz)                                   | 50 Hz     |
-| Max power  (kW)                               | 2         |
-| Rated voltage (V)                             | 230       |
+| Max power  (kW)                                  | 2         |
+| Rated voltage (V)                                | 230       |
 | Number of phases                                 | Monophasé |
-| Fuel                                        | Essence   |
-| Tank (L)                                    | 4,20      |
-| Consumption 75% (L/h)                                 | 0,90      |
-| Autonomy 75% (h)                                | 4,70      |
-| Guaranteed sound power level LwA dB((A) | 89        |
-| Sound pressure level @1m dB(A)          | 75        |
-| Sound pressure level @7m dB(A)          | 60        |
+| Fuel                                             | Essence   |
+| Tank (L)                                         | 4,20      |
+| Consumption 75% (L/h)                            | 0,90      |
+| Autonomy 75% (h)                                 | 4,70      |
+| Guaranteed sound power level LwA dB((A)          | 89        |
+| Sound pressure level @1m dB(A)                   | 75        |
+| Sound pressure level @7m dB(A)                   | 60        |
 
 ## Capacity and autonomy 
 
