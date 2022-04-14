@@ -12,4 +12,4 @@ published: true
 * **Internet access**: the Ideas Box does not **provide Internet access**. However, the computer equipment provided, [computers](http://ideasbox.doc.bibliosansfrontieres.org/en/computers) and tablets, make it possible to connect to an existing wifi network. The Ideasbox also comes with an [Ideascube](http://ideascube-hardware.doc.bibliosansfrontieres.org/en) allowing access to more than 300 GB of digital resources selected for projects.
 
 
-![](../ideasbox_palette.png)
+![](ideasbox_palette.png)

@@ -11,4 +11,4 @@ published: true
 * **Energie** : les Ideas Box une fois déployées ne nécessitent qu’une prise électrique (220v 10A ou 110v avec terre). Vous trouverez pus de détails dans la partie [l'électricité dans l'ideasbox](http://ideasbox.doc.bibliosansfrontieres.org/fr/electricity-in-the-box) de ce guide.
 * **Accès internet** : l’Ideas Box ne **fournit pas d’accès Internet**. Cependant le matériel informatique fourni, [ordinateurs](http://ideasbox.doc.bibliosansfrontieres.org/fr/computers) et tablettes, permettent de se connecter à un réseau wifi existant. L'Ideasbox est également fournie avec un [Ideascube](http://ideascube-hardware.doc.bibliosansfrontieres.org/en) permettant d'accéder à plus de 300 GO de ressources numériques sélectionnées pour les projets.
 
-![](../ideasbox_palette.png)
+![](ideasbox_palette.png)
