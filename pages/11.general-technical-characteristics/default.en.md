@@ -3,7 +3,7 @@ title: 'General technical characteristics'
 published: true
 ---
 
-* **Volume**: During transport, an Ideas Box represents a total of 2 pallets (see image above) of European standard size – (EUROPAL - 80*120cm) = around 3 m3
+* **Volume**: During transport, an Ideas Box represents a total of 2 pallets (see image bellow) of European standard size – (EUROPAL - 80*120cm) = around 3 m3
 * **Weight**: the total weight of the package (2 pallets + 6 modules) is 760 kg. The individual modules weigh between 50kg (for the new versions) and 80kg (for the first versions)
 * Dimensions:
   * Modules: 90 cm (width) x 85 cm (height) x 78 cm (depth)
